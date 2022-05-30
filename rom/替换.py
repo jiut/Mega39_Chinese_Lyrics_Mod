@@ -15,6 +15,7 @@ import re
 def file_content_refullline(src_txt_file, map, target_txt_file):
     f1 = open(src_txt_file, 'rb')
     lines = f1.readlines()  # 整行读取
+    f1.close()
     for line in lines:
         r1 = line.strip()  # 去除原来每行后面的换行符，但有可能是\r或\r\n
         fullline = r1.strip().decode('utf-8')
