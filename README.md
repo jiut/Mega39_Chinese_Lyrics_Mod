@@ -5,6 +5,8 @@ Chinese lyric translation mod for 初音未来/Hatsune Miku: Project DIVA Mega 3
 
 解压到根目录即可，可解锁成就。
 
+只买了本体的不要下载含额外曲目的补丁，会报错。
+
 
 
 下载：[Release](https://github.com/jiut/Mega39_Chinese_Lyrics_Mod/releases) [百度云](https://pan.baidu.com/s/1QJqKwLlYbxuEk4SL23GxSQ?pwd=8p9r) [Google Drive](https://drive.google.com/drive/folders/1rA984q2tSAR7TlFSFLfS9FFTluwsIxmT?usp=sharing)
