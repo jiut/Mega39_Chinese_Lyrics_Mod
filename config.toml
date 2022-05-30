@@ -1,0 +1,7 @@
+enabled = true
+include = ["."]
+
+name = "Mega39_Chinese_Lyrics"
+version = "1.0"
+date = "2022.5.29"
+author = "Jiut"
