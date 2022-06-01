@@ -30,9 +30,7 @@ def file_content_refullline(src_txt_file, map, target_txt_file):
                 r2 = targetLine.strip()
                 target = r2.strip().decode('utf-8')
                 lyrics = re.search(r'(?<='+matches.group(0)+').+', target)
-                if lyrics is None:
-                    continue
-                else:
+                if lyrics is not None:
                     break
             if lyrics is not None:
                 fullline = ("%s%s" %(matches.group(0),lyrics.group(0)))
@@ -42,8 +40,8 @@ def file_content_refullline(src_txt_file, map, target_txt_file):
         newfile.write(fullline)
         newfile.close()
 
-file1 = './mdata_pv_db_old.txt'
-file2 = './mdata_pv_db.txt'
+file1 = './test1.txt'
+file2 = './test2.txt'
 file3 = './test3.txt'
 
 file_content_refullline(file1, file2, file3)
