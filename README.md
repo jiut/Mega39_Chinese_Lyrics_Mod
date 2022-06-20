@@ -16,3 +16,19 @@ Chinese lyric translation mod for 初音未来/Hatsune Miku: Project DIVA Mega 3
 [Switch版 MEGA39歌词补丁](https://www.91tvg.com/forum.php?mod=viewthread&tid=198457) 
 
 [hatsumo01/pdaft-zh: Future Tone中文歌词](https://github.com/hatsumo01/pdaft-zh)
+
+
+
+十分感谢mod loader作者：[blueskythlikesclouds/DivaModLoader(github.com)](https://github.com/blueskythlikesclouds/DivaModLoader)
+
+更新日志：
+
+1.0.3：
+
+更新DivaModLoader v0.0.4
+
+1.0.2：
+更新DivaModLoader v0.0.3
+
+1.0.1：
+更新DivaModLoader v0.0.2
