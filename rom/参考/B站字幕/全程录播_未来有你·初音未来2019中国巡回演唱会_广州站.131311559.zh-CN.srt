@@ -1,0 +1,5309 @@
+0
+00:00:00,000 --> 00:00:08,020
+<font color="#FFFFFF" size="16">叹息和轻微的吐息摇摇曳曳</font>
+
+1
+00:00:08,020 --> 00:00:14,780
+<font color="#FFFFFF" size="16">我想请你谅解我的过去</font>
+
+2
+00:00:14,780 --> 00:00:22,900
+<font color="#FFFFFF" size="16">我想看看仰仗求助的过去的下文</font>
+
+3
+00:00:22,940 --> 00:00:32,620
+<font color="#FFFFFF" size="16">在一路过来的行程上 曾开放的梦想去了哪里</font>
+
+4
+00:00:33,060 --> 00:00:42,220
+<font color="#FFFFFF" size="16">痛苦 憎恶 互相交替</font>
+
+5
+00:00:42,220 --> 00:00:49,780
+<font color="#FFFFFF" size="16">我所描绘的和你的世界</font>
+
+6
+00:00:50,340 --> 00:00:57,860
+<font color="#FFFFFF" size="16">绽放又凋零的花朵在歌唱</font>
+
+7
+00:00:57,860 --> 00:01:06,140
+<font color="#FFFFFF" size="16">你所描绘的多姿色彩</font>
+
+8
+00:01:06,140 --> 00:01:13,500
+<font color="#FFFFFF" size="16">将我的音色停驻</font>
+
+9
+00:01:13,500 --> 00:01:19,780
+<font color="#FFFFFF" size="16">一切都在虚幻地摇曳</font>
+
+10
+00:01:19,780 --> 00:01:29,380
+<font color="#FFFFFF" size="16">确实的东西 毕竟这世上也不存在</font>
+
+11
+00:01:29,380 --> 00:01:37,02000000000001
+<font color="#FFFFFF" size="16">你是花朵 通体纯洁美丽</font>
+
+12
+00:01:37,02000000000001 --> 00:01:45,300
+<font color="#FFFFFF" size="16">我所描绘的 你的笑靥已看不到</font>
+
+13
+00:01:45,300 --> 00:01:55,380
+<font color="#FFFFFF" size="16">连言语 都逐渐死去</font>
+
+14
+00:01:55,380 --> 00:02:00,380
+<font color="#FFFFFF" size="16">Song:I believed in eternity Artist:オカメP 翻译:霍克</font>
+
+15
+00:02:17,620 --> 00:02:22,620
+<font color="#FFFFFF" size="16">Song:ビビッドヒーロー(跃动英雄) Artist:DIVELA 翻译:霍克</font>
+
+16
+00:02:22,620 --> 00:02:25,620
+<font color="#FFFFFF" size="16">渐渐放开自我</font>
+
+17
+00:02:25,620 --> 00:02:28,820
+<font color="#FFFFFF" size="16">无拘无束地驰骋</font>
+
+18
+00:02:28,820 --> 00:02:31,860
+<font color="#FFFFFF" size="16">轻快的音符</font>
+
+19
+00:02:31,860 --> 00:02:34,300
+<font color="#FFFFFF" size="16">将你的内心</font>
+
+20
+00:02:34,300 --> 00:02:44,900
+<font color="#FFFFFF" size="16">照亮 直到 最深处</font>
+
+21
+00:02:47,660 --> 00:02:50,860
+<font color="#FFFFFF" size="16">FEVER FEVER VIVID HERO</font>
+
+22
+00:02:50,860 --> 00:02:54,020
+<font color="#FFFFFF" size="16">炫目的闪光 不断输出的声压</font>
+
+23
+00:02:54,020 --> 00:02:57,140
+<font color="#FFFFFF" size="16">FEVER FEVER VIVID HERO</font>
+
+24
+00:02:57,140 --> 00:03:00,220
+<font color="#FFFFFF" size="16">无法无天的 MUSIC HERO</font>
+
+25
+00:03:00,220 --> 00:03:01,860
+<font color="#FFFFFF" size="16">VIRTUAL SINGER</font>
+
+26
+00:03:01,980 --> 00:03:03,460
+<font color="#FFFFFF" size="16">乘风破浪</font>
+
+27
+00:03:03,460 --> 00:03:06,620
+<font color="#FFFFFF" size="16">穿破未来 征服世界</font>
+
+28
+00:03:06,620 --> 00:03:08,140
+<font color="#FFFFFF" size="16">FEVER FEVER</font>
+
+29
+00:03:08,140 --> 00:03:10,580
+<font color="#FFFFFF" size="16">跃动地不断 重复节拍</font>
+
+30
+00:03:10,580 --> 00:03:14,340
+<font color="#FFFFFF" size="16">CRITICAL HIT 完全无意停息</font>
+
+31
+00:03:15,980 --> 00:03:18,860
+<font color="#FFFFFF" size="16">逐渐逐渐地坠落</font>
+
+32
+00:03:18,860 --> 00:03:22,100
+<font color="#FFFFFF" size="16">完全看不到底的一路坠下</font>
+
+33
+00:03:22,100 --> 00:03:25,100
+<font color="#FFFFFF" size="16">紧握着你的手</font>
+
+34
+00:03:25,100 --> 00:03:30,740
+<font color="#FFFFFF" size="16">一掷高飞的HERO</font>
+
+35
+00:03:30,740 --> 00:03:37,900
+<font color="#FFFFFF" size="16">一飞冲天 仰视苍穹</font>
+
+36
+00:04:07,820 --> 00:04:10,940
+<font color="#FFFFFF" size="16">FEVER FEVER VIVID HERO</font>
+
+37
+00:04:10,940 --> 00:04:13,860
+<font color="#FFFFFF" size="16">炫目的闪光 不断输出的声压</font>
+
+38
+00:04:13,860 --> 00:04:15,780
+<font color="#FFFFFF" size="16">FEVER FEVER</font>
+
+39
+00:04:15,780 --> 00:04:17,180
+<font color="#FFFFFF" size="16">摇滚起来BASS BASS</font>
+
+40
+00:04:17,180 --> 00:04:20,140
+<font color="#FFFFFF" size="16">无法无天的 MUSIC HERO</font>
+
+41
+00:04:20,140 --> 00:04:21,940
+<font color="#FFFFFF" size="16">VIRTUAL SINGER</font>
+
+42
+00:04:21,940 --> 00:04:23,580
+<font color="#FFFFFF" size="16">抽动着双发尾</font>
+
+43
+00:04:23,580 --> 00:04:26,620
+<font color="#FFFFFF" size="16">直到未来彼岸  征服远海天际</font>
+
+44
+00:04:26,620 --> 00:04:28,300
+<font color="#FFFFFF" size="16">FEVER FEVER</font>
+
+45
+00:04:28,300 --> 00:04:30,580
+<font color="#FFFFFF" size="16">跃动地不断 重复节拍</font>
+
+46
+00:04:30,580 --> 00:04:34,540
+<font color="#FFFFFF" size="16">CRITICAL HIT 完全无意停息</font>
+
+47
+00:05:07,380 --> 00:05:12,380
+<font color="#FFFFFF" size="16">MIKU WITH YOU(未来有你) 2019 GUANGZHOU(广州) 1123 Night</font>
+
+48
+00:05:12,380 --> 00:05:17,380
+<font color="#FFFFFF" size="16">打轴:凛木、云音、猫幼、SUVEN</font>
+
+49
+00:05:17,380 --> 00:05:22,380
+<font color="#FFFFFF" size="16">翻译:霍克 校对:Suven</font>
+
+50
+00:07:02,220 --> 00:07:07,220
+<font color="#FFFFFF" size="16">Song:ヒバナ(火花) Artist:DECO*27 翻译:coveeeeeR</font>
+
+51
+00:07:07,220 --> 00:07:09,180
+<font color="#FFFFFF" size="16">咚咚轻轻的敲响你的心扉</font>
+
+52
+00:07:09,180 --> 00:07:11,660
+<font color="#FFFFFF" size="16">潜入进去夺回你心意的作战</font>
+
+53
+00:07:11,660 --> 00:07:14,180
+<font color="#FFFFFF" size="16">脑海不断闪过无数妄想</font>
+
+54
+00:07:14,300 --> 00:07:16,740
+<font color="#FFFFFF" size="16">加速的脉膊答案会在何处呢</font>
+
+55
+00:07:16,740 --> 00:07:18,860
+<font color="#FFFFFF" size="16">来吧将泄气话全都消音</font>
+
+56
+00:07:18,860 --> 00:07:21,220
+<font color="#FFFFFF" size="16">为无聊的琐事而犹疑</font>
+
+57
+00:07:21,220 --> 00:07:23,740
+<font color="#FFFFFF" size="16">这都是在开玩笑的吧？啊哈哈</font>
+
+58
+00:07:23,740 --> 00:07:26,500
+<font color="#FFFFFF" size="16">正是无法打破的隔膜 迫使这一个吻吧</font>
+
+59
+00:07:26,620 --> 00:07:29,020
+<font color="#FFFFFF" size="16">啊啊，讨厌呀 「不可能这样的啊」</font>
+
+60
+00:07:29,020 --> 00:07:31,380
+<font color="#FFFFFF" size="16">啊啊，讨厌呀 「你会理解我的吧」</font>
+
+61
+00:07:31,380 --> 00:07:35,300
+<font color="#FFFFFF" size="16">将那头颅击穿</font>
+
+62
+00:07:35,850 --> 00:07:38,620
+<font color="#FFFFFF" size="16">不想抱持着没完没了的爱吗</font>
+
+63
+00:07:38,620 --> 00:07:40,620
+<font color="#FFFFFF" size="16">给我更深地感受这份不安吧</font>
+
+64
+00:07:40,620 --> 00:07:43,380
+<font color="#FFFFFF" size="16">想要继续扮演这场捉迷藏游戏吗</font>
+
+65
+00:07:43,380 --> 00:07:45,380
+<font color="#FFFFFF" size="16">那就给我好好应对下去吧</font>
+
+66
+00:07:45,380 --> 00:07:48,020
+<font color="#FFFFFF" size="16">nanana</font>
+
+67
+00:07:48,020 --> 00:07:50,420
+<font color="#FFFFFF" size="16">即使多少次说了「未完成」</font>
+
+68
+00:07:50,420 --> 00:07:52,860
+<font color="#FFFFFF" size="16">nanana</font>
+
+69
+00:07:52,860 --> 00:07:55,060
+<font color="#FFFFFF" size="16">身陷结果只落得一声NO的爱情之中</font>
+
+70
+00:08:04,500 --> 00:08:06,860
+<font color="#FFFFFF" size="16">嗵嗵这么一来就算平手了</font>
+
+71
+00:08:06,860 --> 00:08:09,260
+<font color="#FFFFFF" size="16">紧闭于空虚的时间之中</font>
+
+72
+00:08:09,260 --> 00:08:11,700
+<font color="#FFFFFF" size="16">完美主义就像烟一般不实在</font>
+
+73
+00:08:11,700 --> 00:08:14,260
+<font color="#FFFFFF" size="16">回响的声音使人感到烦厌乏味</font>
+
+74
+00:08:14,260 --> 00:08:16,380
+<font color="#FFFFFF" size="16">Knock knock!Let me go in and get the ace</font>
+
+75
+00:08:16,380 --> 00:08:18,900
+<font color="#FFFFFF" size="16">You'll paint your face with tears that don't feel the same</font>
+
+76
+00:08:18,900 --> 00:08:21,340
+<font color="#FFFFFF" size="16">Now Heart Reinforce's up to end this game</font>
+
+77
+00:08:21,340 --> 00:08:24,140
+<font color="#FFFFFF" size="16">You'd better give up and throw your MP5 away</font>
+
+78
+00:08:24,140 --> 00:08:26,540
+<font color="#FFFFFF" size="16">啊啊，讨厌呀不管选择哪边</font>
+
+79
+00:08:26,540 --> 00:08:28,940
+<font color="#FFFFFF" size="16">啊啊，讨厌呀不管破坏哪边</font>
+
+80
+00:08:28,940 --> 00:08:32,820
+<font color="#FFFFFF" size="16">还是得把内心连根拔起</font>
+
+81
+00:08:33,620 --> 00:08:36,220
+<font color="#FFFFFF" size="16">真不中用不想再去爱着这份感情吗</font>
+
+82
+00:08:36,220 --> 00:08:38,180
+<font color="#FFFFFF" size="16">那就给我更深地感受这份痛苦吧</font>
+
+83
+00:08:38,180 --> 00:08:41,020
+<font color="#FFFFFF" size="16">痛得笑不出来那样一定会很快乐呢</font>
+
+84
+00:08:41,020 --> 00:08:42,980
+<font color="#FFFFFF" size="16">那就给我彻底溶解掉吧</font>
+
+85
+00:08:42,980 --> 00:08:45,740
+<font color="#FFFFFF" size="16">nanana</font>
+
+86
+00:08:45,740 --> 00:08:48,060
+<font color="#FFFFFF" size="16">即使多少次说了「未完成」</font>
+
+87
+00:08:48,060 --> 00:08:50,580
+<font color="#FFFFFF" size="16">nanana</font>
+
+88
+00:08:50,580 --> 00:08:52,700
+<font color="#FFFFFF" size="16">身陷结果只落得一声NO的爱情之中</font>
+
+89
+00:09:13,540 --> 00:09:15,900
+<font color="#FFFFFF" size="16">啊啊，讨厌呀 「不可能这样的啊」</font>
+
+90
+00:09:15,900 --> 00:09:18,220
+<font color="#FFFFFF" size="16">啊啊，讨厌呀 「你会理解我的吧」</font>
+
+91
+00:09:18,220 --> 00:09:21,900
+<font color="#FFFFFF" size="16">将那头颅击穿</font>
+
+92
+00:09:22,740 --> 00:09:24,420
+<font color="#FFFFFF" size="16">击穿下去</font>
+
+93
+00:09:25,060 --> 00:09:27,820
+<font color="#FFFFFF" size="16">不想抱持着没完没了的爱吗</font>
+
+94
+00:09:27,820 --> 00:09:29,820
+<font color="#FFFFFF" size="16">给我更深地感受这份不安吧</font>
+
+95
+00:09:29,820 --> 00:09:32,580
+<font color="#FFFFFF" size="16">想要继续扮演这场捉迷藏游戏吗</font>
+
+96
+00:09:32,580 --> 00:09:34,580
+<font color="#FFFFFF" size="16">那就给我好好应对下去吧</font>
+
+97
+00:09:34,580 --> 00:09:37,340
+<font color="#FFFFFF" size="16">nanana</font>
+
+98
+00:09:37,340 --> 00:09:39,540
+<font color="#FFFFFF" size="16">即使多少次说了「未完成」</font>
+
+99
+00:09:39,540 --> 00:09:42,140
+<font color="#FFFFFF" size="16">nanana</font>
+
+100
+00:09:42,140 --> 00:09:44,220
+<font color="#FFFFFF" size="16">身陷结果只落得一声NO的爱情之中</font>
+
+101
+00:09:44,220 --> 00:09:47,020
+<font color="#FFFFFF" size="16">真不中用不想再去爱着这份感情吗</font>
+
+102
+00:09:47,020 --> 00:09:49,140
+<font color="#FFFFFF" size="16">那就给我更深地感受这份痛苦吧</font>
+
+103
+00:09:49,140 --> 00:09:51,660
+<font color="#FFFFFF" size="16">痛得笑不出来那样一定会很快乐呢</font>
+
+104
+00:09:51,660 --> 00:09:53,820
+<font color="#FFFFFF" size="16">那就给我彻底溶解掉吧</font>
+
+105
+00:09:53,820 --> 00:09:56,460
+<font color="#FFFFFF" size="16">nanana</font>
+
+106
+00:09:56,460 --> 00:09:58,780
+<font color="#FFFFFF" size="16">即使多少次说了「未完成」</font>
+
+107
+00:09:58,780 --> 00:10:01,180
+<font color="#FFFFFF" size="16">nanana</font>
+
+108
+00:10:01,180 --> 00:10:03,380
+<font color="#FFFFFF" size="16">身陷结果只落得一声NO的爱情之中</font>
+
+109
+00:10:03,380 --> 00:10:06,140
+<font color="#FFFFFF" size="16">nanana</font>
+
+110
+00:10:06,140 --> 00:10:08,540
+<font color="#FFFFFF" size="16">即使多少次说了「未完成」</font>
+
+111
+00:10:08,540 --> 00:10:10,900
+<font color="#FFFFFF" size="16">nanana</font>
+
+112
+00:10:10,900 --> 00:10:13,180
+<font color="#FFFFFF" size="16">身陷结果只落得一声NO的爱情之中</font>
+
+113
+00:10:23,580 --> 00:10:28,580
+<font color="#FFFFFF" size="16">Song:ぶれないアイで(坚定的eye) Artist:Mitchie M 翻译:石榴夜熊猫</font>
+
+114
+00:10:28,580 --> 00:10:30,580
+<font color="#FFFFFF" size="16">我是A.I.</font>
+
+115
+00:10:30,820 --> 00:10:35,140
+<font color="#FFFFFF" size="16">来自云端的电脑世界</font>
+
+116
+00:10:35,610 --> 00:10:42,300
+<font color="#FFFFFF" size="16">为了将梦与爱与能量传达给你</font>
+
+117
+00:10:42,500 --> 00:10:44,660
+<font color="#FFFFFF" size="16">你是人类</font>
+
+118
+00:10:44,900 --> 00:10:49,180
+<font color="#FFFFFF" size="16">不在拥挤人潮中随波逐流</font>
+
+119
+00:10:49,300 --> 00:10:55,900
+<font color="#FFFFFF" size="16">不断寻求自我而彷徨失措</font>
+
+120
+00:10:56,370 --> 00:10:59,700
+<font color="#FFFFFF" size="16">我好想跨越液晶屏幕</font>
+
+121
+00:10:59,780 --> 00:11:03,140
+<font color="#FFFFFF" size="16">牵住你的手</font>
+
+122
+00:11:03,230 --> 00:11:06,860
+<font color="#FFFFFF" size="16">尽情享受电子世界</font>
+
+123
+00:11:07,060 --> 00:11:11,220
+<font color="#FFFFFF" size="16">让我们一起去发现吧</font>
+
+124
+00:11:11,380 --> 00:11:13,060
+<font color="#FFFFFF" size="16">唱起来吧 男孩们</font>
+
+125
+00:11:13,060 --> 00:11:14,860
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+126
+00:11:14,860 --> 00:11:16,540
+<font color="#FFFFFF" size="16">跳起来吧 女孩们</font>
+
+127
+00:11:16,540 --> 00:11:18,380
+<font color="#FFFFFF" size="16">yeah yeah yeah yeah</font>
+
+128
+00:11:18,380 --> 00:11:19,900
+<font color="#FFFFFF" size="16">展现你们的魅力吧 bang bang</font>
+
+129
+00:11:19,900 --> 00:11:21,820
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+130
+00:11:21,820 --> 00:11:25,340
+<font color="#FFFFFF" size="16">不要被忧郁的心情打败</font>
+
+131
+00:11:25,340 --> 00:11:28,780
+<font color="#FFFFFF" size="16">按照自己喜欢的方式去飞翔</font>
+
+132
+00:11:28,780 --> 00:11:32,260
+<font color="#FFFFFF" size="16">不论别人说什么都No problem</font>
+
+133
+00:11:32,260 --> 00:11:33,860
+<font color="#FFFFFF" size="16">解读“My mind”</font>
+
+134
+00:11:33,860 --> 00:11:35,660
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+135
+00:11:35,660 --> 00:11:38,380
+<font color="#FFFFFF" size="16">专注于梦想 hey</font>
+
+136
+00:11:38,400 --> 00:11:40,660
+<font color="#FFFFFF" size="16">用坚定的目光</font>
+
+137
+00:11:46,860 --> 00:11:49,020
+<font color="#FFFFFF" size="16">你是人类</font>
+
+138
+00:11:49,020 --> 00:11:53,540
+<font color="#FFFFFF" size="16">此时此刻正遇真正的孤独</font>
+
+139
+00:11:53,900 --> 00:11:56,020
+<font color="#FFFFFF" size="16">令人心烦的烦恼</font>
+
+140
+00:11:56,020 --> 00:12:00,380
+<font color="#FFFFFF" size="16">无处所归不知所措</font>
+
+141
+00:12:02,020 --> 00:12:05,780
+<font color="#FFFFFF" size="16">我好想跨越液晶屏幕</font>
+
+142
+00:12:05,780 --> 00:12:09,260
+<font color="#FFFFFF" size="16">去到你的身旁</font>
+
+143
+00:12:09,260 --> 00:12:12,980
+<font color="#FFFFFF" size="16">畅游在电子世界</font>
+
+144
+00:12:12,980 --> 00:12:17,300
+<font color="#FFFFFF" size="16">寻找朋友吧</font>
+
+145
+00:12:17,580 --> 00:12:19,140
+<font color="#FFFFFF" size="16">闹起来吧 男孩们</font>
+
+146
+00:12:19,140 --> 00:12:20,940
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+147
+00:12:20,940 --> 00:12:22,540
+<font color="#FFFFFF" size="16">前进吧 女孩们</font>
+
+148
+00:12:22,540 --> 00:12:24,500
+<font color="#FFFFFF" size="16">yeah yeah yeah yeah</font>
+
+149
+00:12:24,500 --> 00:12:25,940
+<font color="#FFFFFF" size="16">玩耍吧 bang bang</font>
+
+150
+00:12:25,970 --> 00:12:27,940
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+151
+00:12:27,940 --> 00:12:31,420
+<font color="#FFFFFF" size="16">将所有的羁绊加深吧</font>
+
+152
+00:12:31,420 --> 00:12:34,860
+<font color="#FFFFFF" size="16">相信一个人的话</font>
+
+153
+00:12:34,860 --> 00:12:38,340
+<font color="#FFFFFF" size="16">忠告什么的不需要  thank you</font>
+
+154
+00:12:38,340 --> 00:12:40,100
+<font color="#FFFFFF" size="16">解读“my mind”</font>
+
+155
+00:12:40,100 --> 00:12:41,940
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+156
+00:12:41,940 --> 00:12:43,700
+<font color="#FFFFFF" size="16">愿我的心意能够传达给你</font>
+
+157
+00:12:43,700 --> 00:12:46,820
+<font color="#FFFFFF" size="16">怀着坚定的爱</font>
+
+158
+00:12:49,580 --> 00:12:52,460
+<font color="#FFFFFF" size="16">这份心意想要传达给你</font>
+
+159
+00:13:06,460 --> 00:13:07,780
+<font color="#FFFFFF" size="16">唱起来吧 男孩们</font>
+
+160
+00:13:07,780 --> 00:13:09,700
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+161
+00:13:09,700 --> 00:13:11,340
+<font color="#FFFFFF" size="16">跳起来吧 女孩们</font>
+
+162
+00:13:11,340 --> 00:13:13,140
+<font color="#FFFFFF" size="16">yeah yeah yeah yeah</font>
+
+163
+00:13:13,140 --> 00:13:14,900
+<font color="#FFFFFF" size="16">展现你们的魅力吧 bang bang</font>
+
+164
+00:13:14,900 --> 00:13:16,660
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+165
+00:13:16,660 --> 00:13:20,060
+<font color="#FFFFFF" size="16">不要被忧郁的心情打败</font>
+
+166
+00:13:20,060 --> 00:13:23,580
+<font color="#FFFFFF" size="16">按照自己喜欢的方式去飞翔</font>
+
+167
+00:13:23,630 --> 00:13:27,060
+<font color="#FFFFFF" size="16">不论别人说什么都No problem</font>
+
+168
+00:13:27,070 --> 00:13:28,660
+<font color="#FFFFFF" size="16">解读“my mind”</font>
+
+169
+00:13:28,660 --> 00:13:30,540
+<font color="#FFFFFF" size="16">wow wow wow wow</font>
+
+170
+00:13:30,540 --> 00:13:32,940
+<font color="#FFFFFF" size="16">专注于梦想 hey</font>
+
+171
+00:13:33,100 --> 00:13:35,660
+<font color="#FFFFFF" size="16">用坚定的目光</font>
+
+172
+00:13:39,940 --> 00:13:43,580
+<font color="#FFFFFF" size="16">「Ready Go!」</font>
+
+173
+00:13:47,300 --> 00:13:49,620
+<font color="#FFFFFF" size="16">我是A.I.</font>
+
+174
+00:13:49,820 --> 00:13:54,620
+<font color="#FFFFFF" size="16">数年时光转瞬而逝</font>
+
+175
+00:13:54,620 --> 00:13:59,580
+<font color="#FFFFFF" size="16">你和我实现了同一个梦想</font>
+
+176
+00:13:59,580 --> 00:14:04,500
+<font color="#FFFFFF" size="16">此时此刻我碰到了你的手</font>
+
+177
+00:14:11,660 --> 00:14:16,660
+<font color="#FFFFFF" size="16">Song:ワールドイズマイン(World Is Mine) Artist:ryo(supercell) 翻译:MIU</font>
+
+178
+00:14:16,660 --> 00:14:21,970
+<font color="#FFFFFF" size="16">世界第一的公主殿下</font>
+
+179
+00:14:21,970 --> 00:14:34,080
+<font color="#FFFFFF" size="16">要这样对待我 明白了吗</font>
+
+180
+00:14:44,510 --> 00:14:51,320
+<font color="#FFFFFF" size="16">第一 注意到我与以往不同的发型</font>
+
+181
+00:14:51,320 --> 00:14:55,680
+<font color="#FFFFFF" size="16">第二 对我从头到脚都要上心</font>
+
+182
+00:14:55,680 --> 00:14:56,460
+<font color="#FFFFFF" size="16">知道吗？</font>
+
+183
+00:14:56,460 --> 00:15:02,900
+<font color="#FFFFFF" size="16">第三 懂得对我的每句话说一反三</font>
+
+184
+00:15:02,900 --> 00:15:07,190
+<font color="#FFFFFF" size="16">全部明白了的话我的右手有点空闲</font>
+
+185
+00:15:07,190 --> 00:15:08,660
+<font color="#FFFFFF" size="16">快做些什么吧！</font>
+
+186
+00:15:09,270 --> 00:15:10,790
+<font color="#FFFFFF" size="16">也并没有</font>
+
+187
+00:15:10,790 --> 00:15:15,080
+<font color="#FFFFFF" size="16">很任性地要求你什么呢</font>
+
+188
+00:15:15,080 --> 00:15:20,970
+<font color="#FFFFFF" size="16">只是想要你从心底里觉得</font>
+
+189
+00:15:20,970 --> 00:15:22,390
+<font color="#FFFFFF" size="16">我很可爱</font>
+
+190
+00:15:22,390 --> 00:15:27,640
+<font color="#FFFFFF" size="16">世界第一的公主殿下</font>
+
+191
+00:15:27,640 --> 00:15:31,270
+<font color="#FFFFFF" size="16">快注意到啦 喂喂</font>
+
+192
+00:15:31,270 --> 00:15:33,800
+<font color="#FFFFFF" size="16">可不能让我久等喔</font>
+
+193
+00:15:33,800 --> 00:15:39,300
+<font color="#FFFFFF" size="16">你以为我是谁呢？</font>
+
+194
+00:15:39,300 --> 00:15:46,700
+<font color="#FFFFFF" size="16">真是的 有点想吃甜品了啦！</font>
+
+195
+00:15:46,700 --> 00:15:53,500
+<font color="#FFFFFF" size="16">立刻喔</font>
+
+196
+00:15:58,800 --> 00:16:02,450
+<font color="#FFFFFF" size="16">缺点？是可爱的误解吧</font>
+
+197
+00:16:02,450 --> 00:16:05,330
+<font color="#FFFFFF" size="16">不准抱怨</font>
+
+198
+00:16:05,330 --> 00:16:10,010
+<font color="#FFFFFF" size="16">喂，有没有好好听我说话？</font>
+
+199
+00:16:10,010 --> 00:16:11,200
+<font color="#FFFFFF" size="16">喂……</font>
+
+200
+00:16:11,200 --> 00:16:14,080
+<font color="#FFFFFF" size="16">啊，还有呢 白马啊</font>
+
+201
+00:16:14,080 --> 00:16:15,590
+<font color="#FFFFFF" size="16">是一定要有的吧？</font>
+
+202
+00:16:15,590 --> 00:16:17,100
+<font color="#FFFFFF" size="16">来迎接我</font>
+
+203
+00:16:17,100 --> 00:16:20,230
+<font color="#FFFFFF" size="16">明白了的话就候于左右</font>
+
+204
+00:16:20,230 --> 00:16:23,360
+<font color="#FFFFFF" size="16">托起我的手叫声「公主殿下」</font>
+
+205
+00:16:23,360 --> 00:16:24,830
+<font color="#FFFFFF" size="16">也并没有</font>
+
+206
+00:16:24,830 --> 00:16:28,980
+<font color="#FFFFFF" size="16">很任性地要求你什么呢</font>
+
+207
+00:16:28,980 --> 00:16:30,600
+<font color="#FFFFFF" size="16">不过啊</font>
+
+208
+00:16:30,600 --> 00:16:36,550
+<font color="#FFFFFF" size="16">稍稍责备我一下也不要紧喔？</font>
+
+209
+00:16:36,550 --> 00:16:41,860
+<font color="#FFFFFF" size="16">世界上专属我的王子殿下</font>
+
+210
+00:16:41,860 --> 00:16:45,340
+<font color="#FFFFFF" size="16">快注意到啦 喂喂</font>
+
+211
+00:16:45,340 --> 00:16:48,260
+<font color="#FFFFFF" size="16">我的手空空的呢</font>
+
+212
+00:16:48,260 --> 00:16:53,510
+<font color="#FFFFFF" size="16">沉默又冷淡的王子殿下</font>
+
+213
+00:16:53,510 --> 00:17:01,050
+<font color="#FFFFFF" size="16">真是的 快做些什么呀！快点注意到我啦</font>
+
+214
+00:17:01,050 --> 00:17:08,670
+<font color="#FFFFFF" size="16">你一定什么都不明白！</font>
+
+215
+00:17:08,670 --> 00:17:17,490
+<font color="#FFFFFF" size="16">都不明白呢……</font>
+
+216
+00:17:17,490 --> 00:17:20,430
+<font color="#FFFFFF" size="16">托着草莓的小蛋糕</font>
+
+217
+00:17:20,430 --> 00:17:23,500
+<font color="#FFFFFF" size="16">精选鸡蛋制成的柔滑布丁</font>
+
+218
+00:17:23,500 --> 00:17:26,480
+<font color="#FFFFFF" size="16">这一切 一切 我都忍耐下吧……</font>
+
+219
+00:17:26,480 --> 00:17:29,180
+<font color="#FFFFFF" size="16">因为不想让你觉得我是那么任性的女生</font>
+
+220
+00:17:29,180 --> 00:17:32,100
+<font color="#FFFFFF" size="16">我想做也是做得到的呢</font>
+
+221
+00:17:32,100 --> 00:17:35,080
+<font color="#FFFFFF" size="16">之后你就等着后悔吧</font>
+
+222
+00:17:37,770 --> 00:17:40,580
+<font color="#FFFFFF" size="16">理所当然！因为我可是</font>
+
+223
+00:17:40,580 --> 00:17:45,830
+<font color="#FFFFFF" size="16">世界第一的公主殿下</font>
+
+224
+00:17:45,830 --> 00:17:49,350
+<font color="#FFFFFF" size="16">好好注视着我喔</font>
+
+225
+00:17:49,350 --> 00:17:52,110
+<font color="#FFFFFF" size="16">我可要走开了呢？</font>
+
+226
+00:17:52,110 --> 00:17:55,120
+<font color="#FFFFFF" size="16">不经意间被搂入怀中</font>
+
+227
+00:17:55,120 --> 00:17:57,410
+<font color="#FFFFFF" size="16">突然这样！诶？</font>
+
+228
+00:17:57,410 --> 00:18:00,940
+<font color="#FFFFFF" size="16">「会被压到的 很危险喔」</font>
+
+229
+00:18:00,940 --> 00:18:04,520
+<font color="#FFFFFF" size="16">这样说着扭过头的你</font>
+
+230
+00:18:04,520 --> 00:18:12,980
+<font color="#FFFFFF" size="16">……你才更危险呢</font>
+
+231
+00:18:38,980 --> 00:18:42,700
+<font color="#FFFFFF" size="16">现场的各位，晚上好</font>
+
+232
+00:18:45,540 --> 00:18:48,020
+<font color="#FFFFFF" size="16">我是初音未来</font>
+
+233
+00:18:49,900 --> 00:18:58,460
+<font color="#FFFFFF" size="16">欢迎大家来到 未来有你初音未来2019 广州演唱会的现场</font>
+
+234
+00:19:00,740 --> 00:19:04,100
+<font color="#FFFFFF" size="16">十分荣幸，第一次来到广州</font>
+
+235
+00:19:05,900 --> 00:19:10,620
+<font color="#FFFFFF" size="16">希望大家今天能尽情释放自己的热情</font>
+
+236
+00:19:10,860 --> 00:19:15,420
+<font color="#FFFFFF" size="16">我也会努力带给大家一个完美的演出</font>
+
+237
+00:19:33,700 --> 00:19:38,700
+<font color="#FFFFFF" size="16">Song:キレキャリオン(切吧Carry On) Artist:ポリスピカデリー 翻译:星尘者</font>
+
+238
+00:19:38,700 --> 00:19:41,310
+<font color="#FFFFFF" size="16">开始变得敏锐的感觉</font>
+
+239
+00:19:41,310 --> 00:19:44,260
+<font color="#FFFFFF" size="16">通过嗅觉分辨出新的那个地方</font>
+
+240
+00:19:44,260 --> 00:19:47,000
+<font color="#FFFFFF" size="16">挥舞着锁状的刀刃</font>
+
+241
+00:19:47,000 --> 00:19:52,050
+<font color="#FFFFFF" size="16">不止是无法忘怀的记忆</font>
+
+242
+00:19:55,380 --> 00:19:58,200
+<font color="#FFFFFF" size="16">每当互相靠近</font>
+
+243
+00:19:58,410 --> 00:20:01,210
+<font color="#FFFFFF" size="16">心中涌动着活着的证明</font>
+
+244
+00:20:01,210 --> 00:20:04,050
+<font color="#FFFFFF" size="16">从地狱的边缘发出的声音</font>
+
+245
+00:20:04,050 --> 00:20:07,660
+<font color="#FFFFFF" size="16">我们尽快解决这一切吧</font>
+
+246
+00:20:07,660 --> 00:20:13,050
+<font color="#FFFFFF" size="16">回答的话应该早就明白了</font>
+
+247
+00:20:13,050 --> 00:20:16,880
+<font color="#FFFFFF" size="16">在被发现之前</font>
+
+248
+00:20:17,100 --> 00:20:18,060
+<font color="#FFFFFF" size="16">于是</font>
+
+249
+00:20:18,060 --> 00:20:20,860
+<font color="#FFFFFF" size="16">切下吧 继续切 继续切 继续切啊</font>
+
+250
+00:20:20,860 --> 00:20:23,630
+<font color="#FFFFFF" size="16">切下吧 继续切 继续切 继续切啊</font>
+
+251
+00:20:23,630 --> 00:20:26,280
+<font color="#FFFFFF" size="16">一刀一刀地切碎吧</font>
+
+252
+00:20:26,280 --> 00:20:29,210
+<font color="#FFFFFF" size="16">动用知觉来体会</font>
+
+253
+00:20:29,210 --> 00:20:32,110
+<font color="#FFFFFF" size="16">被快乐包围的感觉</font>
+
+254
+00:20:32,110 --> 00:20:37,560
+<font color="#FFFFFF" size="16">与被欺骗的冲动融为一体吧</font>
+
+255
+00:20:49,150 --> 00:20:52,000
+<font color="#FFFFFF" size="16">无法切断的无限故事</font>
+
+256
+00:20:52,000 --> 00:20:54,800
+<font color="#FFFFFF" size="16">撕裂那微弱的余热</font>
+
+257
+00:20:54,800 --> 00:20:57,750
+<font color="#FFFFFF" size="16">沿着视线向远方望去</font>
+
+258
+00:20:57,750 --> 00:21:01,230
+<font color="#FFFFFF" size="16">是火烧般骚动的天空</font>
+
+259
+00:21:01,230 --> 00:21:06,850
+<font color="#FFFFFF" size="16">不做第二名了 做意想不到的事吧</font>
+
+260
+00:21:06,850 --> 00:21:10,810
+<font color="#FFFFFF" size="16">偏离轨道吧</font>
+
+261
+00:21:11,010 --> 00:21:11,730
+<font color="#FFFFFF" size="16">更多地</font>
+
+262
+00:21:11,730 --> 00:21:14,400
+<font color="#FFFFFF" size="16">切下吧 继续切 继续切 继续切啊</font>
+
+263
+00:21:14,400 --> 00:21:17,230
+<font color="#FFFFFF" size="16">切下吧 继续切 继续切 继续切啊</font>
+
+264
+00:21:17,230 --> 00:21:19,930
+<font color="#FFFFFF" size="16">不知怎么浮现出来的</font>
+
+265
+00:21:19,930 --> 00:21:22,810
+<font color="#FFFFFF" size="16">慢性的感情论</font>
+
+266
+00:21:22,810 --> 00:21:25,510
+<font color="#FFFFFF" size="16">只是距离变近的程度</font>
+
+267
+00:21:25,510 --> 00:21:30,560
+<font color="#FFFFFF" size="16">被消除也是理所当然的吧</font>
+
+268
+00:21:41,330 --> 00:21:43,960
+<font color="#FFFFFF" size="16">吞下所有叹息</font>
+
+269
+00:21:43,960 --> 00:21:46,650
+<font color="#FFFFFF" size="16">就这样误解吧</font>
+
+270
+00:21:46,650 --> 00:21:49,580
+<font color="#FFFFFF" size="16">无意之间的这个气息</font>
+
+271
+00:21:49,580 --> 00:21:52,430
+<font color="#FFFFFF" size="16">好像已经停不下来了</font>
+
+272
+00:21:52,430 --> 00:21:55,310
+<font color="#FFFFFF" size="16">一刀一刀地切碎吧</font>
+
+273
+00:21:55,310 --> 00:21:58,180
+<font color="#FFFFFF" size="16">动用知觉来体会</font>
+
+274
+00:21:58,180 --> 00:22:01,010
+<font color="#FFFFFF" size="16">被快乐包围的感觉</font>
+
+275
+00:22:01,010 --> 00:22:06,680
+<font color="#FFFFFF" size="16">与欺骗的冲动融为一体吧</font>
+
+276
+00:24:00,980 --> 00:24:05,980
+<font color="#FFFFFF" size="16">Song:アンハッピーリフレイン(Unhappy Refrain) Artist:wowaka</font>
+
+277
+00:24:05,980 --> 00:24:10,540
+<font color="#FFFFFF" size="16">散弹枪与电吉他 言语的队列、UnHappy</font>
+
+278
+00:24:10,540 --> 00:24:15,380
+<font color="#FFFFFF" size="16">单身、都会街景并列 一字字敲落的乐音、讨厌吗？</font>
+
+279
+00:24:15,380 --> 00:24:20,180
+<font color="#FFFFFF" size="16">直至声嘶力竭歌唱吧 白白耗尽了多少时间</font>
+
+280
+00:24:20,180 --> 00:24:24,700
+<font color="#FFFFFF" size="16">好不容易掌握住梦寐以求之物的你 没有理由放手吧</font>
+
+281
+00:24:24,700 --> 00:24:29,380
+<font color="#FFFFFF" size="16">「一人LIVE大成功！」 脑袋中上演少女漫画</font>
+
+282
+00:24:29,380 --> 00:24:34,020
+<font color="#FFFFFF" size="16">残弹、已经全部没了 就此再一次拉幕返身回原点吧</font>
+
+283
+00:24:34,020 --> 00:24:39,100
+<font color="#FFFFFF" size="16">静静放在一旁机运恰好的机会 不管几次都将之拾起</font>
+
+284
+00:24:39,100 --> 00:24:43,420
+<font color="#FFFFFF" size="16">不成体统的生活也已经拜拜啦 差不多该来迎接我了吧？</font>
+
+285
+00:24:45,540 --> 00:24:48,260
+<font color="#FFFFFF" size="16">尽是找错问题犹疑不定</font>
+
+286
+00:24:50,180 --> 00:24:53,100
+<font color="#FFFFFF" size="16">如何回头、告诉我</font>
+
+287
+00:24:54,900 --> 00:24:57,620
+<font color="#FFFFFF" size="16">不足之处已无、已无</font>
+
+288
+00:24:57,620 --> 00:25:00,500
+<font color="#FFFFFF" size="16">是这样吗？ 是这样吗、是这样啊</font>
+
+289
+00:25:01,980 --> 00:25:04,460
+<font color="#FFFFFF" size="16">如果要说那就是、那就是 Lucky</font>
+
+290
+00:25:04,460 --> 00:25:09,180
+<font color="#FFFFFF" size="16">重复循环的三十九秒 不断回转啊转的话 看见了、那就是 Happy？</font>
+
+291
+00:25:09,180 --> 00:25:11,420
+<font color="#FFFFFF" size="16">要同意这种事怎么可能！</font>
+
+292
+00:25:11,420 --> 00:25:16,340
+<font color="#FFFFFF" size="16">重合无数的乐音 不管终点或起点哪个都不会来的</font>
+
+293
+00:25:16,340 --> 00:25:18,580
+<font color="#FFFFFF" size="16">总归说来总归说来一点意义都没有嘛</font>
+
+294
+00:25:18,580 --> 00:25:20,900
+<font color="#FFFFFF" size="16">大概说来你也是从来没明白？</font>
+
+295
+00:25:20,900 --> 00:25:23,180
+<font color="#FFFFFF" size="16">画面的彼端 坠落而下</font>
+
+296
+00:25:23,180 --> 00:25:25,540
+<font color="#FFFFFF" size="16">颠倒的女孩、大人的世界。</font>
+
+297
+00:25:30,380 --> 00:25:34,940
+<font color="#FFFFFF" size="16">散弹枪与电吉他 一句话也无啊 UnLucky</font>
+
+298
+00:25:34,940 --> 00:25:37,180
+<font color="#FFFFFF" size="16">满身疮痍 Game Over</font>
+
+299
+00:25:37,180 --> 00:25:39,660
+<font color="#FFFFFF" size="16">像是光看见就能感觉的讨厌对吧？</font>
+
+300
+00:25:39,660 --> 00:25:44,260
+<font color="#FFFFFF" size="16">狠狠跌跤的那件事 决定放弃不再试一次</font>
+
+301
+00:25:44,260 --> 00:25:49,020
+<font color="#FFFFFF" size="16">一面跌撞也一样是错 于是你笑了起来</font>
+
+302
+00:25:49,020 --> 00:25:53,700
+<font color="#FFFFFF" size="16">一人LIVE大成功 祭典后的伤感</font>
+
+303
+00:25:53,700 --> 00:25:58,380
+<font color="#FFFFFF" size="16">全场一致决定解散 就此再一次翻身反转吧</font>
+
+304
+00:25:58,380 --> 00:26:03,180
+<font color="#FFFFFF" size="16">直至声嘶力竭歌唱吧 白白耗尽了多少时间</font>
+
+305
+00:26:03,180 --> 00:26:07,700
+<font color="#FFFFFF" size="16">好不容易掌握住梦寐以求之物的你 哪、心情如何</font>
+
+306
+00:26:09,820 --> 00:26:12,500
+<font color="#FFFFFF" size="16">恶劣梦境继续下去心神不定</font>
+
+307
+00:26:14,540 --> 00:26:17,660
+<font color="#FFFFFF" size="16">末路 只能忘掉错误方法的那个下场</font>
+
+308
+00:26:19,180 --> 00:26:21,580
+<font color="#FFFFFF" size="16">给我想成就的目标吧、给我吧</font>
+
+309
+00:26:21,580 --> 00:26:22,340
+<font color="#FFFFFF" size="16">「已经没有了。」</font>
+
+310
+00:26:22,340 --> 00:26:24,980
+<font color="#FFFFFF" size="16">是这样吗？是这样吗？</font>
+
+311
+00:26:26,140 --> 00:26:28,740
+<font color="#FFFFFF" size="16">可是为什么那就是、那就是 Happy</font>
+
+312
+00:26:28,740 --> 00:26:33,500
+<font color="#FFFFFF" size="16">眼神空虚的凌晨四时 迷茫啊迷惘不已 终于抵达的那处就是 Happy？</font>
+
+313
+00:26:33,500 --> 00:26:35,780
+<font color="#FFFFFF" size="16">明明都已经累得不成人形</font>
+
+314
+00:26:35,780 --> 00:26:38,220
+<font color="#FFFFFF" size="16">为什么这就是、这就是 Happy</font>
+
+315
+00:26:38,220 --> 00:26:40,380
+<font color="#FFFFFF" size="16">在这条看不见终点的路躺卧而眠</font>
+
+316
+00:26:40,380 --> 00:26:42,740
+<font color="#FFFFFF" size="16">轰隆轰隆崩塌下来啦</font>
+
+317
+00:26:42,740 --> 00:26:45,020
+<font color="#FFFFFF" size="16">、大概说来你的身影就是种妨碍</font>
+
+318
+00:26:45,020 --> 00:26:47,500
+<font color="#FFFFFF" size="16">如果要说那就是、那就是 Happy</font>
+
+319
+00:26:47,500 --> 00:26:52,300
+<font color="#FFFFFF" size="16">重复循环的三十九秒 不断回转啊转的话 看见了、那就是 Lucky？</font>
+
+320
+00:26:52,300 --> 00:26:54,860
+<font color="#FFFFFF" size="16">该说是不可思议也毫无报酬啊</font>
+
+321
+00:26:54,860 --> 00:26:59,380
+<font color="#FFFFFF" size="16">不过是重合着音与音 不管终点或起点哪个都不会来的</font>
+
+322
+00:26:59,380 --> 00:27:01,540
+<font color="#FFFFFF" size="16">总归说来总归说来意义就是一点都没有！</font>
+
+323
+00:27:01,540 --> 00:27:03,900
+<font color="#FFFFFF" size="16">是啊现在就立刻飞身跳下吧</font>
+
+324
+00:27:03,900 --> 00:27:06,180
+<font color="#FFFFFF" size="16">画面的彼端 坠落而下</font>
+
+325
+00:27:06,180 --> 00:27:08,500
+<font color="#FFFFFF" size="16">颠倒的女孩、大人的世界。</font>
+
+326
+00:27:08,500 --> 00:27:10,060
+<font color="#FFFFFF" size="16">那会是？</font>
+
+327
+00:27:18,500 --> 00:27:20,500
+<font color="#FFFFFF" size="16">Song:ツギハギスタッカート(拼凑的断音) Artist:とあ 翻译:西红柿炒番茄来一盘吗</font>
+
+328
+00:27:20,500 --> 00:27:25,020
+<font color="#FFFFFF" size="16">只是拼凑而出的与你在一起的时光</font>
+
+329
+00:27:25,020 --> 00:27:28,440
+<font color="#FFFFFF" size="16">也该差不多作个了断吧</font>
+
+330
+00:27:28,440 --> 00:27:31,850
+<font color="#FFFFFF" size="16">将这条线 切成小断</font>
+
+331
+00:27:31,850 --> 00:27:35,220
+<font color="#FFFFFF" size="16">就会五颜六色地 向周围散步了吧</font>
+
+332
+00:27:35,460 --> 00:27:38,800
+<font color="#FFFFFF" size="16">呐 看吧 那时候的那句话</font>
+
+333
+00:27:38,800 --> 00:27:42,180
+<font color="#FFFFFF" size="16">累积起来的 白过的时间</font>
+
+334
+00:27:42,180 --> 00:27:45,590
+<font color="#FFFFFF" size="16">只是将这条线 切成小断</font>
+
+335
+00:27:45,590 --> 00:27:49,100
+<font color="#FFFFFF" size="16">真不工整呢 不禁笑起来了吧</font>
+
+336
+00:27:49,100 --> 00:27:52,520
+<font color="#FFFFFF" size="16">tick tack tick tack 绘出圆形</font>
+
+337
+00:27:52,520 --> 00:27:55,870
+<font color="#FFFFFF" size="16">ding dong ding dong 来游玩吧</font>
+
+338
+00:27:55,870 --> 00:27:59,370
+<font color="#FFFFFF" size="16">tick tack tick tack  绑起解开</font>
+
+339
+00:27:59,370 --> 00:28:02,940
+<font color="#FFFFFF" size="16">ding dong ding dong 那再见了</font>
+
+340
+00:28:02,940 --> 00:28:06,780
+<font color="#FFFFFF" size="16">解开了的这条线低声细语</font>
+
+341
+00:28:08,580 --> 00:28:12,450
+<font color="#FFFFFF" size="16">你啊 干脆 干脆 消失掉吧</font>
+
+342
+00:28:12,450 --> 00:28:15,710
+<font color="#FFFFFF" size="16">若是如此 永不改变的话</font>
+
+343
+00:28:15,710 --> 00:28:19,240
+<font color="#FFFFFF" size="16">大概 一定 一定并非什么紧要事来的</font>
+
+344
+00:28:19,240 --> 00:28:22,620
+<font color="#FFFFFF" size="16">只是稍为变得轻松一点而已</font>
+
+345
+00:28:22,620 --> 00:28:26,130
+<font color="#FFFFFF" size="16">呐 算了 算了 放弃就好了</font>
+
+346
+00:28:26,130 --> 00:28:29,410
+<font color="#FFFFFF" size="16">如此 不被发现的话</font>
+
+347
+00:28:29,410 --> 00:28:32,880
+<font color="#FFFFFF" size="16">然而说不定我 永远 永远都会喜欢着你呢</font>
+
+348
+00:28:32,880 --> 00:28:36,860
+<font color="#FFFFFF" size="16">这样会感到 有点痛苦的吧...</font>
+
+349
+00:28:39,190 --> 00:28:42,940
+<font color="#FFFFFF" size="16">回过神来很在意的画面</font>
+
+350
+00:28:42,940 --> 00:28:46,220
+<font color="#FFFFFF" size="16">也差不多 看得厌倦了</font>
+
+351
+00:28:46,220 --> 00:28:49,820
+<font color="#FFFFFF" size="16">除去那个 除去这个 如此一来</font>
+
+352
+00:28:49,820 --> 00:28:53,100
+<font color="#FFFFFF" size="16">会很无聊的吧 会很没趣的吧</font>
+
+353
+00:28:53,100 --> 00:28:56,620
+<font color="#FFFFFF" size="16">Flick tap flick tap 滑过表面</font>
+
+354
+00:28:56,620 --> 00:29:00,030
+<font color="#FFFFFF" size="16">Swipe tap swipe tap A.R→T</font>
+
+355
+00:29:00,030 --> 00:29:03,460
+<font color="#FFFFFF" size="16">Flick tap flick tap 打开 敲响</font>
+
+356
+00:29:03,460 --> 00:29:07,020
+<font color="#FFFFFF" size="16">Swipe tap swipe tap 已经受够了</font>
+
+357
+00:29:07,020 --> 00:29:10,620
+<font color="#FFFFFF" size="16">松垮垮的线 低声细语</font>
+
+358
+00:29:11,460 --> 00:29:15,260
+<font color="#FFFFFF" size="16">你啊 干脆 干脆消失掉吧</font>
+
+359
+00:29:15,260 --> 00:29:18,530
+<font color="#FFFFFF" size="16">如此 永不改变吧</font>
+
+360
+00:29:18,530 --> 00:29:22,130
+<font color="#FFFFFF" size="16">所以 一定 一定并非什么紧要事来的</font>
+
+361
+00:29:22,130 --> 00:29:25,540
+<font color="#FFFFFF" size="16">只是会变得有点寂寞而已</font>
+
+362
+00:29:25,540 --> 00:29:27,400
+<font color="#FFFFFF" size="16">够了 算了 算了</font>
+
+363
+00:29:27,400 --> 00:29:29,060
+<font color="#FFFFFF" size="16">放弃就好了</font>
+
+364
+00:29:29,060 --> 00:29:32,940
+<font color="#FFFFFF" size="16">如此 不被发现</font>
+
+365
+00:29:32,940 --> 00:29:34,230
+<font color="#FFFFFF" size="16">虽然大概会 永远 永远</font>
+
+366
+00:29:34,230 --> 00:29:35,830
+<font color="#FFFFFF" size="16">喜欢着你</font>
+
+367
+00:29:35,830 --> 00:29:40,020
+<font color="#FFFFFF" size="16">虽然会感到 有点痛苦呢</font>
+
+368
+00:30:09,970 --> 00:30:11,100
+<font color="#FFFFFF" size="16">所以呢</font>
+
+369
+00:30:12,060 --> 00:30:14,900
+<font color="#FFFFFF" size="16">干脆 干脆</font>
+
+370
+00:30:14,900 --> 00:30:16,670
+<font color="#FFFFFF" size="16">消失掉吧</font>
+
+371
+00:30:16,670 --> 00:30:20,460
+<font color="#FFFFFF" size="16">如此 永不改变</font>
+
+372
+00:30:20,460 --> 00:30:23,500
+<font color="#FFFFFF" size="16">大概 一定一定并非什么紧要事来的</font>
+
+373
+00:30:23,500 --> 00:30:26,820
+<font color="#FFFFFF" size="16">只是会变得有点寂寞而已</font>
+
+374
+00:30:26,820 --> 00:30:28,730
+<font color="#FFFFFF" size="16">呐 这样好吗？这样好吗？</font>
+
+375
+00:30:28,730 --> 00:30:30,330
+<font color="#FFFFFF" size="16">我要放弃了哦？</font>
+
+376
+00:30:30,330 --> 00:30:34,060
+<font color="#FFFFFF" size="16">若然这样都依然不被你发现的话</font>
+
+377
+00:30:34,060 --> 00:30:37,230
+<font color="#FFFFFF" size="16">这样啊 这样啊 喜欢上你</font>
+
+378
+00:30:37,230 --> 00:30:40,830
+<font color="#FFFFFF" size="16">从一开始 就只是我一厢情愿</font>
+
+379
+00:30:40,830 --> 00:30:43,020
+<font color="#FFFFFF" size="16">Tick tack tick tack</font>
+
+380
+00:30:47,780 --> 00:30:49,820
+<font color="#FFFFFF" size="16">Ding dong ding dong</font>
+
+381
+00:31:07,860 --> 00:31:12,140
+<font color="#FFFFFF" size="16">只是拼凑而出的与你在一起的时光</font>
+
+382
+00:31:12,140 --> 00:31:15,660
+<font color="#FFFFFF" size="16">该差不多作个了断吧</font>
+
+383
+00:31:15,660 --> 00:31:19,060
+<font color="#FFFFFF" size="16">只是将这条线 切成小断</font>
+
+384
+00:31:19,060 --> 00:31:22,500
+<font color="#FFFFFF" size="16">很简单吧？简单得不禁发笑吧？</font>
+
+385
+00:31:34,980 --> 00:31:36,980
+<font color="#FFFFFF" size="16">Song:すーぱーぬこになれんかった(无法成为超级猫咪) Artist:まふまふ 翻译:暧昧昧_akasa</font>
+
+386
+00:31:36,980 --> 00:31:38,970
+<font color="#FFFFFF" size="16">果然还是没能变成喵呢</font>
+
+387
+00:31:38,970 --> 00:31:41,900
+<font color="#FFFFFF" size="16">也许你觉得你生错了种族</font>
+
+388
+00:31:41,900 --> 00:31:44,620
+<font color="#FFFFFF" size="16">对于这样的你! 我们介绍一款让你随时可以变成猫咪的新产品</font>
+
+389
+00:31:57,230 --> 00:31:59,550
+<font color="#FFFFFF" size="16">任他人群涌来 只管啃我的叶子</font>
+
+390
+00:31:59,550 --> 00:32:02,420
+<font color="#FFFFFF" size="16">找个地方藏起来 当他们都不存在</font>
+
+391
+00:32:02,420 --> 00:32:04,710
+<font color="#FFFFFF" size="16">不想被人们看到</font>
+
+392
+00:32:04,710 --> 00:32:07,170
+<font color="#FFFFFF" size="16">（喵喵喵—喵喵喵喵）</font>
+
+393
+00:32:07,170 --> 00:32:12,590
+<font color="#FFFFFF" size="16">虽然本来是想成为理想的大人的 但肯定会出丑徒增伤痕吧</font>
+
+394
+00:32:12,590 --> 00:32:17,180
+<font color="#FFFFFF" size="16">走错了道路 回过神来 已经成了这副废物摸样了</font>
+
+395
+00:32:17,180 --> 00:32:19,650
+<font color="#FFFFFF" size="16">想成为猫的话就拍拍手 好！</font>
+
+396
+00:32:19,650 --> 00:32:22,280
+<font color="#FFFFFF" size="16">（啪啪啪啪啪 啪啪啪啪啪）</font>
+
+397
+00:32:22,280 --> 00:32:24,810
+<font color="#FFFFFF" size="16">想成为猫的话就拍拍手 好！</font>
+
+398
+00:32:24,810 --> 00:32:26,830
+<font color="#FFFFFF" size="16">想成为你喵！</font>
+
+399
+00:32:26,830 --> 00:32:29,860
+<font color="#FFFFFF" size="16">“喵！”的一声打个颤 向前飞奔吧</font>
+
+400
+00:32:29,860 --> 00:32:30,950
+<font color="#FFFFFF" size="16">无论如何也不想相信</font>
+
+401
+00:32:30,950 --> 00:32:32,620
+<font color="#FFFFFF" size="16">因为世界上的自私</font>
+
+402
+00:32:32,620 --> 00:32:37,380
+<font color="#FFFFFF" size="16">爱和希望都无法探求 打着踉跄又跌倒了</font>
+
+403
+00:32:37,380 --> 00:32:39,490
+<font color="#FFFFFF" size="16">却装若无其事</font>
+
+404
+00:32:39,490 --> 00:32:41,920
+<font color="#FFFFFF" size="16">大人的事情 就扔到一边</font>
+
+405
+00:32:42,470 --> 00:32:47,580
+<font color="#FFFFFF" size="16">去探寻 今天的被窝与明天的早饭吧</font>
+
+406
+00:32:47,580 --> 00:32:49,690
+<font color="#FFFFFF" size="16">果然还是没能变成喵呢？</font>
+
+407
+00:32:49,690 --> 00:32:50,380
+<font color="#FFFFFF" size="16">呐？</font>
+
+408
+00:33:02,810 --> 00:33:05,150
+<font color="#FFFFFF" size="16">血统 身世 还有其他各种</font>
+
+409
+00:33:05,150 --> 00:33:08,050
+<font color="#FFFFFF" size="16">以那样的纸片来测量价值</font>
+
+410
+00:33:08,050 --> 00:33:10,330
+<font color="#FFFFFF" size="16">别开玩笑了 别开玩笑了</font>
+
+411
+00:33:10,330 --> 00:33:12,750
+<font color="#FFFFFF" size="16">（喵喵喵—喵喵喵喵）</font>
+
+412
+00:33:12,750 --> 00:33:15,250
+<font color="#FFFFFF" size="16">无论是那边的公园 宠物卖场里</font>
+
+413
+00:33:15,250 --> 00:33:18,170
+<font color="#FFFFFF" size="16">还是地球的背面 古今东西</font>
+
+414
+00:33:18,170 --> 00:33:19,580
+<font color="#FFFFFF" size="16">你都不在</font>
+
+415
+00:33:19,580 --> 00:33:22,930
+<font color="#FFFFFF" size="16">你除了自己以外没有其他人陪伴呀！</font>
+
+416
+00:33:22,930 --> 00:33:25,580
+<font color="#FFFFFF" size="16">想成为猫的话就拍拍手 好！</font>
+
+417
+00:33:25,580 --> 00:33:27,810
+<font color="#FFFFFF" size="16">（啪啪啪啪啪 啪啪啪啪啪）</font>
+
+418
+00:33:27,810 --> 00:33:30,410
+<font color="#FFFFFF" size="16">想成为猫的话就拍拍手 好！</font>
+
+419
+00:33:30,410 --> 00:33:32,510
+<font color="#FFFFFF" size="16">什么都会做的！</font>
+
+420
+00:33:32,510 --> 00:33:35,120
+<font color="#FFFFFF" size="16">“喵！”的一声缩成一团 钻进</font>
+
+421
+00:33:35,120 --> 00:33:37,990
+<font color="#FFFFFF" size="16">人类熟睡后梦的缝隙</font>
+
+422
+00:33:37,990 --> 00:33:39,930
+<font color="#FFFFFF" size="16">多么美喵的故事啊</font>
+
+423
+00:33:39,930 --> 00:33:43,340
+<font color="#FFFFFF" size="16">偷偷地 抓些东西吃</font>
+
+424
+00:33:43,340 --> 00:33:47,990
+<font color="#FFFFFF" size="16">永年休業中  斥责可并不擅长 暂停受理的 常年歇业</font>
+
+425
+00:33:47,990 --> 00:33:50,310
+<font color="#FFFFFF" size="16">趁着眨眼的间隙</font>
+
+426
+00:33:50,310 --> 00:33:53,110
+<font color="#FFFFFF" size="16">忍住哈欠吧</font>
+
+427
+00:33:53,110 --> 00:33:55,780
+<font color="#FFFFFF" size="16">果然还是没能变成喵呢？</font>
+
+428
+00:34:05,930 --> 00:34:08,290
+<font color="#FFFFFF" size="16">去那边 还是去这边</font>
+
+429
+00:34:08,290 --> 00:34:11,150
+<font color="#FFFFFF" size="16">不管是去那边都是我的未来</font>
+
+430
+00:34:11,150 --> 00:34:15,790
+<font color="#FFFFFF" size="16">要是妨碍我的话我可不会留情的</font>
+
+431
+00:34:15,790 --> 00:34:18,980
+<font color="#FFFFFF" size="16">给你见识下我的小爪子！</font>
+
+432
+00:34:20,250 --> 00:34:20,960
+<font color="#FFFFFF" size="16">开玩笑的喵！</font>
+
+433
+00:34:20,960 --> 00:34:23,100
+<font color="#FFFFFF" size="16">“喵！”的一声打个颤 向前飞奔吧</font>
+
+434
+00:34:23,100 --> 00:34:24,830
+<font color="#FFFFFF" size="16">无论如何也不想相信</font>
+
+435
+00:34:24,830 --> 00:34:26,200
+<font color="#FFFFFF" size="16">因为世界上的自私</font>
+
+436
+00:34:26,200 --> 00:34:31,240
+<font color="#FFFFFF" size="16">爱和希望都无法探求 打着踉跄又跌倒了</font>
+
+437
+00:34:31,240 --> 00:34:33,210
+<font color="#FFFFFF" size="16">却装若无其事</font>
+
+438
+00:34:33,210 --> 00:34:36,120
+<font color="#FFFFFF" size="16">大人的事情 就扔到一边</font>
+
+439
+00:34:36,120 --> 00:34:41,020
+<font color="#FFFFFF" size="16">去探寻 今天的被窝与 明天的早饭吧</font>
+
+440
+00:34:41,020 --> 00:34:43,620
+<font color="#FFFFFF" size="16">向这样的世界说声再见</font>
+
+441
+00:34:43,620 --> 00:34:47,860
+<font color="#FFFFFF" size="16">果然还是没能变成喵呢？</font>
+
+442
+00:36:07,760 --> 00:36:12,760
+<font color="#FFFFFF" size="16">Song:深海シティアンダーグラウンド(深海地下都市) Artist:田中B 翻译:字幕的人</font>
+
+443
+00:36:12,760 --> 00:36:15,550
+<font color="#FFFFFF" size="16">错过季节的花完全飞舞散落的季节</font>
+
+444
+00:36:15,550 --> 00:36:18,380
+<font color="#FFFFFF" size="16">在路口一边哭着</font>
+
+445
+00:36:18,380 --> 00:36:21,100
+<font color="#FFFFFF" size="16">就像是塑胶做的恶魔拍动翅膀的声音</font>
+
+446
+00:36:21,100 --> 00:36:24,000
+<font color="#FFFFFF" size="16">今天也在假笑中度过</font>
+
+447
+00:36:24,000 --> 00:36:26,800
+<font color="#FFFFFF" size="16">这肮脏的街道</font>
+
+448
+00:36:26,810 --> 00:36:29,600
+<font color="#FFFFFF" size="16">最后也被土偶候群症</font>
+
+449
+00:36:29,600 --> 00:36:32,530
+<font color="#FFFFFF" size="16">入侵了汽笛</font>
+
+450
+00:36:32,530 --> 00:36:35,330
+<font color="#FFFFFF" size="16">嚼着口香糖从外场装腔作势的通过</font>
+
+451
+00:36:35,330 --> 00:36:37,880
+<font color="#FFFFFF" size="16">在半夜四点发现</font>
+
+452
+00:36:37,880 --> 00:36:40,880
+<font color="#FFFFFF" size="16">烧焦的幸运四叶草</font>
+
+453
+00:36:40,880 --> 00:36:43,360
+<font color="#FFFFFF" size="16">三只脚的乌鸦</font>
+
+454
+00:36:43,360 --> 00:36:46,110
+<font color="#FFFFFF" size="16">在屋顶上诡异的盯着</font>
+
+455
+00:36:46,400 --> 00:36:49,150
+<font color="#FFFFFF" size="16">一直用石油清洗身子的双子</font>
+
+456
+00:36:49,150 --> 00:36:52,330
+<font color="#FFFFFF" size="16">散发出淡淡的香气</font>
+
+457
+00:36:52,330 --> 00:36:55,160
+<font color="#FFFFFF" size="16">有机单体性染色体 孑然孤身</font>
+
+458
+00:36:55,160 --> 00:36:58,400
+<font color="#FFFFFF" size="16">这里是深海的地下城市</font>
+
+459
+00:36:58,400 --> 00:37:01,200
+<font color="#FFFFFF" size="16">最远的岛屿 虾子的乐园</font>
+
+460
+00:37:01,200 --> 00:37:04,350
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+461
+00:37:04,350 --> 00:37:06,680
+<font color="#FFFFFF" size="16">有着偏执症的公主</font>
+
+462
+00:37:06,680 --> 00:37:09,950
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+463
+00:37:09,950 --> 00:37:12,510
+<font color="#FFFFFF" size="16">发光二极管的星星碎片</font>
+
+464
+00:37:12,510 --> 00:37:15,800
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+465
+00:37:15,800 --> 00:37:18,130
+<font color="#FFFFFF" size="16">精神分裂的骗子</font>
+
+466
+00:37:40,500 --> 00:37:45,950
+<font color="#FFFFFF" size="16">转着转着睡眠瘫痪着的蜗牛 从壳中发出鸡的凿音</font>
+
+467
+00:37:46,000 --> 00:37:49,330
+<font color="#FFFFFF" size="16">在模具中倒入和</font>
+
+468
+00:37:49,330 --> 00:37:51,500
+<font color="#FFFFFF" size="16">你一样的赛璐珞(celluloid)</font>
+
+469
+00:37:51,500 --> 00:37:55,130
+<font color="#FFFFFF" size="16">随着时间染红的水面 仰望着</font>
+
+470
+00:37:55,130 --> 00:37:57,330
+<font color="#FFFFFF" size="16">渐渐下沉的你的声音</font>
+
+471
+00:37:57,330 --> 00:38:00,060
+<font color="#FFFFFF" size="16">这里是 这里是永远黑暗的</font>
+
+472
+00:38:00,060 --> 00:38:02,750
+<font color="#FFFFFF" size="16">地下室的铁门</font>
+
+473
+00:38:02,750 --> 00:38:05,710
+<font color="#FFFFFF" size="16">正午的发热的四角硬币</font>
+
+474
+00:38:05,710 --> 00:38:08,450
+<font color="#FFFFFF" size="16">从幻觉中醒来</font>
+
+475
+00:38:08,450 --> 00:38:11,280
+<font color="#FFFFFF" size="16">三只脚的乌鸦</font>
+
+476
+00:38:11,280 --> 00:38:14,030
+<font color="#FFFFFF" size="16">和预料的一样的盯着此处的三体性染色体</font>
+
+477
+00:38:14,030 --> 00:38:19,800
+<font color="#FFFFFF" size="16">向着在预定时刻通过的 双层巴士说再见</font>
+
+478
+00:38:19,800 --> 00:38:25,210
+<font color="#FFFFFF" size="16">下一秒 就又被融在更黑暗的 郁闷里面</font>
+
+479
+00:38:25,480 --> 00:38:29,050
+<font color="#FFFFFF" size="16">这里是深海的地下城市</font>
+
+480
+00:38:29,050 --> 00:38:31,580
+<font color="#FFFFFF" size="16">在最初的梦中看过的</font>
+
+481
+00:38:31,580 --> 00:38:34,680
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+482
+00:38:34,680 --> 00:38:36,900
+<font color="#FFFFFF" size="16">腰痛的弥赛亚</font>
+
+483
+00:38:36,900 --> 00:38:40,380
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+484
+00:38:40,380 --> 00:38:42,910
+<font color="#FFFFFF" size="16">蔚蓝色的海浪 荡起泡沫</font>
+
+485
+00:38:42,910 --> 00:38:46,150
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+486
+00:38:46,150 --> 00:38:48,260
+<font color="#FFFFFF" size="16">枯萎死掉的大王花</font>
+
+487
+00:38:48,750 --> 00:38:54,330
+<font color="#FFFFFF" size="16">再让我呆在你身旁一会</font>
+
+488
+00:38:54,330 --> 00:38:59,310
+<font color="#FFFFFF" size="16">我喜欢你</font>
+
+489
+00:38:59,310 --> 00:39:09,900
+<font color="#FFFFFF" size="16">两人独处的 有毒的海滩</font>
+
+490
+00:39:10,750 --> 00:39:14,060
+<font color="#FFFFFF" size="16">这里是深海的地下城市</font>
+
+491
+00:39:14,060 --> 00:39:16,830
+<font color="#FFFFFF" size="16">全是杂音的红宝石的话语</font>
+
+492
+00:39:16,830 --> 00:39:19,800
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+493
+00:39:19,800 --> 00:39:22,030
+<font color="#FFFFFF" size="16">噩梦的独白</font>
+
+494
+00:39:22,030 --> 00:39:25,280
+<font color="#FFFFFF" size="16">这里是深海的地下城市</font>
+
+495
+00:39:25,280 --> 00:39:28,150
+<font color="#FFFFFF" size="16">发光二极管的星星下面</font>
+
+496
+00:39:28,150 --> 00:39:31,130
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+497
+00:39:31,130 --> 00:39:33,400
+<font color="#FFFFFF" size="16">公主与跳着舞的偏执症</font>
+
+498
+00:39:33,400 --> 00:39:36,850
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+499
+00:39:36,850 --> 00:39:39,360
+<font color="#FFFFFF" size="16">装作疯癫得到的钻石</font>
+
+500
+00:39:39,360 --> 00:39:42,250
+<font color="#FFFFFF" size="16">深海的地下城市</font>
+
+501
+00:39:42,450 --> 00:39:56,480
+<font color="#FFFFFF" size="16">精神分裂的骗子</font>
+
+502
+00:40:16,040 --> 00:40:21,040
+<font color="#FFFFFF" size="16">Song:メインキャラクター(主人公) Artist:*Luna 翻译:白黑君</font>
+
+503
+00:40:21,040 --> 00:40:23,920
+<font color="#FFFFFF" size="16">从此以后我们肩并肩</font>
+
+504
+00:40:23,920 --> 00:40:25,120
+<font color="#FFFFFF" size="16">说着「去搞点事吧</font>
+
+505
+00:40:25,120 --> 00:40:27,220
+<font color="#FFFFFF" size="16">要以牙还牙」</font>
+
+506
+00:40:27,220 --> 00:40:28,870
+<font color="#FFFFFF" size="16">不知不觉，确实地</font>
+
+507
+00:40:28,870 --> 00:40:41,820
+<font color="#FFFFFF" size="16">开着玩笑，认真地这么认为</font>
+
+508
+00:40:41,820 --> 00:40:44,020
+<font color="#FFFFFF" size="16">「说着不想看就闭上眼睛</font>
+
+509
+00:40:44,020 --> 00:40:46,520
+<font color="#FFFFFF" size="16">因为不想听就捂住耳朵</font>
+
+510
+00:40:46,520 --> 00:40:49,040
+<font color="#FFFFFF" size="16">现实就在这里</font>
+
+511
+00:40:49,040 --> 00:40:51,770
+<font color="#FFFFFF" size="16">你到底能做些什么啊」</font>
+
+512
+00:40:51,770 --> 00:40:54,110
+<font color="#FFFFFF" size="16">就算跟这样的我说</font>
+
+513
+00:40:54,110 --> 00:40:56,710
+<font color="#FFFFFF" size="16">也不明白啊 因为无论何时</font>
+
+514
+00:40:56,710 --> 00:40:58,970
+<font color="#FFFFFF" size="16">主角是绝对</font>
+
+515
+00:40:58,970 --> 00:41:05,410
+<font color="#FFFFFF" size="16">有着什么特别之处的</font>
+
+516
+00:41:10,420 --> 00:41:13,860
+<font color="#FFFFFF" size="16">从此以后我们分道扬镳</font>
+
+517
+00:41:13,860 --> 00:41:17,120
+<font color="#FFFFFF" size="16">未来是平凡，平均点，平行线</font>
+
+518
+00:41:17,120 --> 00:41:18,840
+<font color="#FFFFFF" size="16">保持步伐一致</font>
+
+519
+00:41:18,840 --> 00:41:21,010
+<font color="#FFFFFF" size="16">登上大人的阶梯</font>
+
+520
+00:41:21,010 --> 00:41:23,660
+<font color="#FFFFFF" size="16">但这没能坚持住，放弃了</font>
+
+521
+00:41:23,660 --> 00:41:24,590
+<font color="#FFFFFF" size="16">逃避了</font>
+
+522
+00:41:24,590 --> 00:41:26,690
+<font color="#FFFFFF" size="16">滚落下来了</font>
+
+523
+00:41:26,690 --> 00:41:31,370
+<font color="#FFFFFF" size="16">久拖不愈逐渐恶化的病症已经</font>
+
+524
+00:41:31,370 --> 00:41:34,240
+<font color="#FFFFFF" size="16">治不好了</font>
+
+525
+00:41:34,240 --> 00:41:36,670
+<font color="#FFFFFF" size="16">「愿望不存在的 还是放弃吧</font>
+
+526
+00:41:36,670 --> 00:41:39,010
+<font color="#FFFFFF" size="16">赌博吧反正也不会中</font>
+
+527
+00:41:39,010 --> 00:41:41,420
+<font color="#FFFFFF" size="16">现实并不单纯</font>
+
+528
+00:41:41,420 --> 00:41:42,760
+<font color="#FFFFFF" size="16">英雄什么的</font>
+
+529
+00:41:42,760 --> 00:41:44,310
+<font color="#FFFFFF" size="16">成为不了啊」</font>
+
+530
+00:41:44,310 --> 00:41:46,560
+<font color="#FFFFFF" size="16">即使不说这样的话</font>
+
+531
+00:41:46,560 --> 00:41:49,040
+<font color="#FFFFFF" size="16">我也知道啊，因为即便现在</font>
+
+532
+00:41:49,040 --> 00:41:51,490
+<font color="#FFFFFF" size="16">因为不安都快哭出来了</font>
+
+533
+00:41:51,490 --> 00:41:58,740
+<font color="#FFFFFF" size="16">就和你一样</font>
+
+534
+00:42:13,660 --> 00:42:16,110
+<font color="#FFFFFF" size="16">忠告已经有很多</font>
+
+535
+00:42:16,110 --> 00:42:18,590
+<font color="#FFFFFF" size="16">但从中挑选了这个</font>
+
+536
+00:42:18,590 --> 00:42:21,190
+<font color="#FFFFFF" size="16">去证明是正确的</font>
+
+537
+00:42:21,190 --> 00:42:24,210
+<font color="#FFFFFF" size="16">即使是这个故事的主角</font>
+
+538
+00:42:24,210 --> 00:42:26,540
+<font color="#FFFFFF" size="16">一直相信的真实</font>
+
+539
+00:42:26,540 --> 00:42:29,110
+<font color="#FFFFFF" size="16">已经实现的现实</font>
+
+540
+00:42:29,110 --> 00:42:33,390
+<font color="#FFFFFF" size="16">都已经回不去了</font>
+
+541
+00:42:33,390 --> 00:42:35,170
+<font color="#FFFFFF" size="16">从那以后只有我一人</font>
+
+542
+00:42:35,170 --> 00:42:36,510
+<font color="#FFFFFF" size="16">被丢在一旁</font>
+
+543
+00:42:36,510 --> 00:42:39,760
+<font color="#FFFFFF" size="16">「去搞点事吧 要以牙还牙」之类的</font>
+
+544
+00:42:39,760 --> 00:42:41,360
+<font color="#FFFFFF" size="16">不得了的思想</font>
+
+545
+00:42:41,360 --> 00:42:43,490
+<font color="#FFFFFF" size="16">被空想禁锢住</font>
+
+546
+00:42:43,490 --> 00:42:46,190
+<font color="#FFFFFF" size="16">而且没有意识到就变成了大人</font>
+
+547
+00:42:46,190 --> 00:42:49,110
+<font color="#FFFFFF" size="16">看过去那里没有优劣之分</font>
+
+548
+00:42:49,110 --> 00:42:53,760
+<font color="#FFFFFF" size="16">一定都怀着差不多的想法</font>
+
+549
+00:42:54,240 --> 00:42:56,620
+<font color="#FFFFFF" size="16">你所立之处一定</font>
+
+550
+00:42:56,620 --> 00:42:59,190
+<font color="#FFFFFF" size="16">是我放弃了的未来</font>
+
+551
+00:42:59,190 --> 00:43:01,540
+<font color="#FFFFFF" size="16">因为选择的东西不同</font>
+
+552
+00:43:01,540 --> 00:43:04,320
+<font color="#FFFFFF" size="16">无法互相理解的事也会存在</font>
+
+553
+00:43:04,320 --> 00:43:06,690
+<font color="#FFFFFF" size="16">但让已经放弃的家伙多嘴</font>
+
+554
+00:43:06,690 --> 00:43:08,360
+<font color="#FFFFFF" size="16">被手指着嘲笑哦什么的</font>
+
+555
+00:43:08,360 --> 00:43:11,110
+<font color="#FFFFFF" size="16">很奇怪吧？</font>
+
+556
+00:43:11,110 --> 00:43:14,440
+<font color="#FFFFFF" size="16">我很讨厌啊</font>
+
+557
+00:43:14,440 --> 00:43:17,420
+<font color="#FFFFFF" size="16">我要自己编织出属于我的物语
+</font>
+
+558
+00:43:17,420 --> 00:43:19,870
+<font color="#FFFFFF" size="16">这是为了我</font>
+
+559
+00:43:19,870 --> 00:43:20,890
+<font color="#FFFFFF" size="16">存在于我</font>
+
+560
+00:43:20,890 --> 00:43:22,810
+<font color="#FFFFFF" size="16">只有我的</font>
+
+561
+00:43:23,260 --> 00:43:28,990
+<font color="#FFFFFF" size="16">故事（story）</font>
+
+562
+00:43:38,850 --> 00:43:43,850
+<font color="#FFFFFF" size="16">Song:ラムネイドブルーの憧憬(对弹珠汽水蓝色的憧憬) Artist:アオトケイ 翻译:霍克、云音</font>
+
+563
+00:43:44,040 --> 00:43:48,720
+<font color="#FFFFFF" size="16">我身于何处</font>
+
+564
+00:43:48,720 --> 00:43:52,330
+<font color="#FFFFFF" size="16">消失的白色</font>
+
+565
+00:43:52,330 --> 00:43:55,010
+<font color="#FFFFFF" size="16">淡如泡沫般</font>
+
+566
+00:43:55,150 --> 00:43:59,270
+<font color="#FFFFFF" size="16">抓住这条虚空的道路</font>
+
+567
+00:43:59,340 --> 00:44:02,450
+<font color="#FFFFFF" size="16">再试着飞一次吧</font>
+
+568
+00:44:02,580 --> 00:44:09,810
+<font color="#FFFFFF" size="16">来到第一次与你相遇的地方</font>
+
+569
+00:44:09,950 --> 00:44:17,560
+<font color="#FFFFFF" size="16">将收着的翅膀托入风中  伸出双手</font>
+
+570
+00:44:17,560 --> 00:44:21,350
+<font color="#FFFFFF" size="16">紧握着弹珠汽水 开始奔跑</font>
+
+571
+00:44:21,350 --> 00:44:24,980
+<font color="#FFFFFF" size="16">甩开滴落的汗水</font>
+
+572
+00:44:24,980 --> 00:44:28,320
+<font color="#FFFFFF" size="16">相信蔚蓝的自己</font>
+
+573
+00:44:28,320 --> 00:44:31,450
+<font color="#FFFFFF" size="16">我在追逐着你的脚步</font>
+
+574
+00:44:31,450 --> 00:44:35,250
+<font color="#FFFFFF" size="16">在纸飞机上描绘着</font>
+
+575
+00:44:35,250 --> 00:44:38,690
+<font color="#FFFFFF" size="16">这份趋于透明的憧憬</font>
+
+576
+00:44:38,690 --> 00:44:42,050
+<font color="#FFFFFF" size="16">我会将他濡染至苍蓝</font>
+
+577
+00:44:42,050 --> 00:44:47,550
+<font color="#FFFFFF" size="16">一切的一切都传至远方</font>
+
+578
+00:44:59,360 --> 00:45:04,410
+<font color="#FFFFFF" size="16">我现在该向何处前进</font>
+
+579
+00:45:04,410 --> 00:45:10,360
+<font color="#FFFFFF" size="16">即便是下一页也像云一样白</font>
+
+580
+00:45:10,360 --> 00:45:14,510
+<font color="#FFFFFF" size="16">我的未来尚且朦胧不清</font>
+
+581
+00:45:14,510 --> 00:45:17,940
+<font color="#FFFFFF" size="16">仍然抱有着一丝希望</font>
+
+582
+00:45:17,940 --> 00:45:23,000
+<font color="#FFFFFF" size="16">回到了第一次与你交谈的小镇上</font>
+
+583
+00:45:23,000 --> 00:45:28,750
+<font color="#FFFFFF" size="16">踏着这里的沥青</font>
+
+584
+00:45:28,750 --> 00:45:32,710
+<font color="#FFFFFF" size="16">今天再次追寻</font>
+
+585
+00:45:33,060 --> 00:45:36,900
+<font color="#FFFFFF" size="16">紧握着弹珠汽水 开始奔跑</font>
+
+586
+00:45:36,900 --> 00:45:40,390
+<font color="#FFFFFF" size="16">摆脱迎面的风</font>
+
+587
+00:45:40,420 --> 00:45:43,800
+<font color="#FFFFFF" size="16">仰望蔚蓝的天空</font>
+
+588
+00:45:43,800 --> 00:45:46,960
+<font color="#FFFFFF" size="16">一心朝着未来</font>
+
+589
+00:45:46,960 --> 00:45:50,610
+<font color="#FFFFFF" size="16">在纸飞机上描绘着</font>
+
+590
+00:45:50,610 --> 00:45:54,070
+<font color="#FFFFFF" size="16">仍旧透明的这份憧憬</font>
+
+591
+00:45:54,070 --> 00:45:57,540
+<font color="#FFFFFF" size="16">（这份憧憬）是否离你更近了些吗</font>
+
+592
+00:45:57,540 --> 00:46:00,750
+<font color="#FFFFFF" size="16">然而并没有</font>
+
+593
+00:46:00,780 --> 00:46:07,640
+<font color="#FFFFFF" size="16">我不能回头</font>
+
+594
+00:46:07,640 --> 00:46:14,890
+<font color="#FFFFFF" size="16">是和你处于一个稍微不同的世界吗</font>
+
+595
+00:46:14,910 --> 00:46:20,070
+<font color="#FFFFFF" size="16">如果你还未实现目标就已退幕的话</font>
+
+596
+00:46:21,350 --> 00:46:31,650
+<font color="#FFFFFF" size="16">我就会着手开始直到实现为止</font>
+
+597
+00:46:31,660 --> 00:46:35,200
+<font color="#FFFFFF" size="16">分崩离析并远去</font>
+
+598
+00:46:35,200 --> 00:46:38,760
+<font color="#FFFFFF" size="16">一边擦拭着汗滴</font>
+
+599
+00:46:38,760 --> 00:46:42,090
+<font color="#FFFFFF" size="16">一边仰望蔚蓝的天空</font>
+
+600
+00:46:42,090 --> 00:46:45,120
+<font color="#FFFFFF" size="16">将对你的思念</font>
+
+601
+00:46:45,120 --> 00:46:48,800
+<font color="#FFFFFF" size="16">画在纸飞机上</font>
+
+602
+00:46:48,800 --> 00:46:52,640
+<font color="#FFFFFF" size="16">仍旧透明的这份憧憬</font>
+
+603
+00:46:52,640 --> 00:46:55,860
+<font color="#FFFFFF" size="16">我会一点一点地染上颜色</font>
+
+604
+00:46:55,860 --> 00:46:59,640
+<font color="#FFFFFF" size="16">像那个弹珠汽水</font>
+
+605
+00:47:00,170 --> 00:47:04,310
+<font color="#FFFFFF" size="16">紧握弹珠汽水并开始奔跑</font>
+
+606
+00:47:04,360 --> 00:47:07,840
+<font color="#FFFFFF" size="16">甩开滴落的汗水</font>
+
+607
+00:47:07,840 --> 00:47:11,190
+<font color="#FFFFFF" size="16">相信着蔚蓝的自己</font>
+
+608
+00:47:11,190 --> 00:47:14,180
+<font color="#FFFFFF" size="16">在向你飞去的</font>
+
+609
+00:47:14,180 --> 00:47:18,150
+<font color="#FFFFFF" size="16">写在纸飞机上的</font>
+
+610
+00:47:18,150 --> 00:47:21,540
+<font color="#FFFFFF" size="16">碳酸色的恋文</font>
+
+611
+00:47:21,580 --> 00:47:32,420
+<font color="#FFFFFF" size="16">如果能传达给你蔚蓝与坚强就太好了</font>
+
+612
+00:47:35,240 --> 00:47:41,520
+<font color="#FFFFFF" size="16">如果这样的话就太好了</font>
+
+613
+00:48:28,180 --> 00:48:33,180
+<font color="#FFFFFF" size="16">Song:Never Die Artist:ゆよゆっぺ 翻译：弓野笃祯</font>
+
+614
+00:48:33,180 --> 00:48:40,150
+<font color="#FFFFFF" size="16">我绝不会死去</font>
+
+615
+00:48:56,200 --> 00:49:04,080
+<font color="#FFFFFF" size="16">在忘我奔跑的这条路的中途</font>
+
+616
+00:49:06,520 --> 00:49:15,430
+<font color="#FFFFFF" size="16">我无数次地绊倒</font>
+
+617
+00:49:16,460 --> 00:49:19,070
+<font color="#FFFFFF" size="16">即使描绘出的未来</font>
+
+618
+00:49:19,070 --> 00:49:22,180
+<font color="#FFFFFF" size="16">已变得无法看见</font>
+
+619
+00:49:22,180 --> 00:49:26,600
+<font color="#FFFFFF" size="16">我也未想过放弃</font>
+
+620
+00:49:26,600 --> 00:49:31,990
+<font color="#FFFFFF" size="16">我绝不会死去 我绝不会终结</font>
+
+621
+00:49:31,990 --> 00:49:37,120
+<font color="#FFFFFF" size="16">只要能向那前方进发</font>
+
+622
+00:49:37,170 --> 00:49:42,320
+<font color="#FFFFFF" size="16">我绝不会死去 我绝不会终结</font>
+
+623
+00:49:42,320 --> 00:49:47,860
+<font color="#FFFFFF" size="16">现在乘着巡回的声音</font>
+
+624
+00:49:47,860 --> 00:49:54,700
+<font color="#FFFFFF" size="16">我绝不会死去</font>
+
+625
+00:49:54,700 --> 00:50:03,410
+<font color="#FFFFFF" size="16">独自烦恼着找出的生路也好</font>
+
+626
+00:50:05,190 --> 00:50:14,020
+<font color="#FFFFFF" size="16">取回忘记的事物的夜晚也好</font>
+
+627
+00:50:14,790 --> 00:50:17,780
+<font color="#FFFFFF" size="16">无论何时</font>
+
+628
+00:50:17,780 --> 00:50:20,850
+<font color="#FFFFFF" size="16">你都一边牵着我的手</font>
+
+629
+00:50:20,850 --> 00:50:25,480
+<font color="#FFFFFF" size="16">为我歌唱</font>
+
+630
+00:50:25,480 --> 00:50:31,140
+<font color="#FFFFFF" size="16">我绝不会死去</font>
+
+631
+00:50:47,730 --> 00:50:56,070
+<font color="#FFFFFF" size="16">在不断变化的时代中闪耀着</font>
+
+632
+00:50:58,240 --> 00:51:07,790
+<font color="#FFFFFF" size="16">为了能与你稍微向未来前进一些</font>
+
+633
+00:51:07,790 --> 00:51:13,030
+<font color="#FFFFFF" size="16">我绝不会死去 我绝不会终结</font>
+
+634
+00:51:13,030 --> 00:51:18,240
+<font color="#FFFFFF" size="16">只要能向那前方进发</font>
+
+635
+00:51:18,630 --> 00:51:24,070
+<font color="#FFFFFF" size="16">我绝不会死去 我绝不会终结</font>
+
+636
+00:51:24,070 --> 00:51:29,340
+<font color="#FFFFFF" size="16">现在乘着巡回的声音</font>
+
+637
+00:51:29,340 --> 00:51:34,480
+<font color="#FFFFFF" size="16">我绝不会死去</font>
+
+638
+00:51:34,480 --> 00:51:41,080
+<font color="#FFFFFF" size="16">我绝不会死去</font>
+
+639
+00:52:20,440 --> 00:52:22,440
+<font color="#FFFFFF" size="16">Song:星屑ユートピア(星尘乌托邦) Artist:otetsu 翻译：kankan</font>
+
+640
+00:52:22,440 --> 00:52:32,360
+<font color="#FFFFFF" size="16">今天也在夜空浮现的非现实中</font>
+
+641
+00:52:32,360 --> 00:52:40,750
+<font color="#FFFFFF" size="16">天使的叫喊再次响彻</font>
+
+642
+00:52:40,750 --> 00:52:48,670
+<font color="#FFFFFF" size="16">奏出的哀嚎是背德的曲调</font>
+
+643
+00:52:48,670 --> 00:52:54,380
+<font color="#FFFFFF" size="16">划开美丽星空降下的眼泪</font>
+
+644
+00:52:54,380 --> 00:53:06,960
+<font color="#FFFFFF" size="16">眺望舞蹈星尘的夜晚　仍在欢笑</font>
+
+645
+00:53:06,960 --> 00:53:13,630
+<font color="#FFFFFF" size="16">哭泣　呼吸</font>
+
+646
+00:53:36,580 --> 00:53:43,340
+<font color="#FFFFFF" size="16">就算如果天空剥落</font>
+
+647
+00:53:43,390 --> 00:53:50,110
+<font color="#FFFFFF" size="16">也能不断涂抹覆盖</font>
+
+648
+00:53:50,140 --> 00:53:54,510
+<font color="#FFFFFF" size="16">在这螺旋中</font>
+
+649
+00:53:54,510 --> 00:54:02,380
+<font color="#FFFFFF" size="16">奏出的哀嚎是背德的曲调</font>
+
+650
+00:54:02,400 --> 00:54:11,160
+<font color="#FFFFFF" size="16">划开美丽星空降下的眼泪</font>
+
+651
+00:54:12,540 --> 00:54:16,540
+<font color="#FFFFFF" size="16">光辉的思念</font>
+
+652
+00:54:16,540 --> 00:54:25,120
+<font color="#FFFFFF" size="16">在这个舞蹈星尘描绘出的理想乡</font>
+
+653
+00:54:25,190 --> 00:54:30,640
+<font color="#FFFFFF" size="16">欢笑　哭泣　生活</font>
+
+654
+00:54:30,640 --> 00:54:39,340
+<font color="#FFFFFF" size="16">今天也在夜空描绘非现实</font>
+
+655
+00:54:39,340 --> 00:54:46,660
+<font color="#FFFFFF" size="16">一切都无法逃离的现实</font>
+
+656
+00:55:49,960 --> 00:55:54,960
+<font color="#FFFFFF" size="16">Song:Just Be Friends Artist:Dixie Flatline 翻译：26</font>
+
+657
+00:55:54,960 --> 00:55:56,280
+<font color="#FFFFFF" size="16">Just Be Friends</font>
+
+658
+00:55:57,290 --> 00:56:00,100
+<font color="#FFFFFF" size="16">All we gotta do Just Be Friends</font>
+
+659
+00:56:01,030 --> 00:56:04,860
+<font color="#FFFFFF" size="16">It's time to say goodbye Just Be Friends</font>
+
+660
+00:56:04,860 --> 00:56:06,380
+<font color="#FFFFFF" size="16">All we gotta do</font>
+
+661
+00:56:06,380 --> 00:56:10,540
+<font color="#FFFFFF" size="16">Just be friends  Just be friends  Just be friends...</font>
+
+662
+00:56:10,540 --> 00:56:14,650
+<font color="#FFFFFF" size="16">回想不起来　昨天早晨　早早地</font>
+
+663
+00:56:14,740 --> 00:56:18,160
+<font color="#FFFFFF" size="16">只为收拾 那些玻璃杯碎片</font>
+
+664
+00:56:18,410 --> 00:56:21,680
+<font color="#FFFFFF" size="16">这到底是什么 自割裂的手指滴落的水珠</font>
+
+665
+00:56:21,680 --> 00:56:25,530
+<font color="#FFFFFF" size="16">我们真的想变成这种局面吗</font>
+
+666
+00:56:25,530 --> 00:56:33,090
+<font color="#FFFFFF" size="16">我知道的 在心底 最痛苦的选择　是最好的</font>
+
+667
+00:56:33,090 --> 00:56:36,800
+<font color="#FFFFFF" size="16">意图隐瞒心中的爱意 结果却总是自相矛盾</font>
+
+668
+00:56:36,800 --> 00:56:40,570
+<font color="#FFFFFF" size="16">我们何时才能相互坦诚</font>
+
+669
+00:56:40,570 --> 00:56:48,000
+<font color="#FFFFFF" size="16">在这渐渐腐朽堕落的世界 挣扎着寻找自己唯一的出口</font>
+
+670
+00:56:48,000 --> 00:56:54,610
+<font color="#FFFFFF" size="16">挣扎着寻找自己唯一的出口</font>
+
+671
+00:56:54,660 --> 00:57:02,320
+<font color="#FFFFFF" size="16">声音竭力大喊返响　残响　空虚地回响</font>
+
+672
+00:57:02,320 --> 00:57:09,970
+<font color="#FFFFFF" size="16">解除锁链　的那以后 即便连点什么都没法留下</font>
+
+673
+00:57:09,970 --> 00:57:17,410
+<font color="#FFFFFF" size="16">两人偶然的相遇相迭 转场　断线　不过千万幻觉</font>
+
+674
+00:57:17,410 --> 00:57:27,330
+<font color="#FFFFFF" size="16">总归这种事情啊　多说零碎 顺着乾枯脸颊流下谁的泪</font>
+
+675
+00:57:27,330 --> 00:57:30,260
+<font color="#FFFFFF" size="16">All we gotta do Just be friends</font>
+
+676
+00:57:30,990 --> 00:57:33,780
+<font color="#FFFFFF" size="16">It's time to say goodbye Just be friends</font>
+
+677
+00:57:34,860 --> 00:57:37,460
+<font color="#FFFFFF" size="16">All we gotta do Just be friends</font>
+
+678
+00:57:37,460 --> 00:57:39,610
+<font color="#FFFFFF" size="16">Just be friends Just be friends…</font>
+
+679
+00:57:40,570 --> 00:57:44,540
+<font color="#FFFFFF" size="16">突然发觉的是　昨天宁静的那夜</font>
+
+680
+00:57:44,540 --> 00:57:48,210
+<font color="#FFFFFF" size="16">就妥善拾起片片枯落花瓣</font>
+
+681
+00:57:48,210 --> 00:57:51,720
+<font color="#FFFFFF" size="16">不再有二度盛放　躺在那掌上的纤弱之死</font>
+
+682
+00:57:51,770 --> 00:57:55,460
+<font color="#FFFFFF" size="16">我们的时间已然凝止</font>
+
+683
+00:57:55,460 --> 00:58:03,020
+<font color="#FFFFFF" size="16">我记起了　那初次邂逅的季节　与你温柔微笑的脸庞</font>
+
+684
+00:58:03,020 --> 00:58:06,770
+<font color="#FFFFFF" size="16">如今这局面泯灭了过往　两人穷尽伤害至伤痛底限</font>
+
+685
+00:58:06,770 --> 00:58:10,490
+<font color="#FFFFFF" size="16">我们的心长满了荆棘</font>
+
+686
+00:58:10,490 --> 00:58:16,080
+<font color="#FFFFFF" size="16">仅能延续烦闷的这份关系　尽管逼近悲哀　还未改变心意</font>
+
+687
+00:58:16,080 --> 00:58:24,410
+<font color="#FFFFFF" size="16">明明是爱着你　明明难以放手　我仍不得不开口</font>
+
+688
+00:58:24,410 --> 00:58:32,340
+<font color="#FFFFFF" size="16">心中下起倾盆大雨　呆然　悚然　一并淹没视线</font>
+
+689
+00:58:32,340 --> 00:58:39,840
+<font color="#FFFFFF" size="16">理应有觉悟的　那份痛切　依旧贯穿了这个身躯</font>
+
+690
+00:58:39,840 --> 00:58:47,360
+<font color="#FFFFFF" size="16">两人相系相结的羁绊　绽放　散落　自日常消逝而去</font>
+
+691
+00:58:47,360 --> 00:58:51,220
+<font color="#FFFFFF" size="16">再见了曾爱的人　到此为止</font>
+
+692
+00:58:51,220 --> 00:58:57,740
+<font color="#FFFFFF" size="16">别再回头就迈步向前吧</font>
+
+693
+00:59:10,640 --> 00:59:14,270
+<font color="#FFFFFF" size="16">一次也好　一次也好</font>
+
+694
+00:59:14,270 --> 00:59:18,200
+<font color="#FFFFFF" size="16">若心愿得以实现</font>
+
+695
+00:59:18,200 --> 00:59:28,490
+<font color="#FFFFFF" size="16">无论经过几次转生轮回　还想有一日和你见面</font>
+
+696
+00:59:28,490 --> 00:59:36,060
+<font color="#FFFFFF" size="16">声音 竭力大喊　返响　残响　空虚地回响</font>
+
+697
+00:59:36,060 --> 00:59:43,720
+<font color="#FFFFFF" size="16">解除锁链　的那以后　即便连点什么都没法留下</font>
+
+698
+00:59:43,720 --> 00:59:51,000
+<font color="#FFFFFF" size="16">两人相系相结的羁绊　绽放　散落　自日常消逝而去</font>
+
+699
+00:59:51,000 --> 01:00:00,190
+<font color="#FFFFFF" size="16">再见了曾爱的人　到此为止　别再回头就迈步向前吧</font>
+
+700
+01:00:01,040 --> 01:00:06,940
+<font color="#FFFFFF" size="16">这就是结束了啊</font>
+
+701
+01:00:08,590 --> 01:00:12,190
+<font color="#FFFFFF" size="16">All we gotta do Just be friends (Just be friends)</font>
+
+702
+01:00:12,190 --> 01:00:16,190
+<font color="#FFFFFF" size="16">It's time to say goodbye Just be friends (Just be friends)</font>
+
+703
+01:00:16,190 --> 01:00:20,290
+<font color="#FFFFFF" size="16">All we gotta do Just be friends (Just be friends)</font>
+
+704
+01:00:20,290 --> 01:00:22,090
+<font color="#FFFFFF" size="16">It's time to say goodbye Just be friends</font>
+
+705
+01:00:22,090 --> 01:00:23,980
+<font color="#FFFFFF" size="16">We should be Just to be</font>
+
+706
+01:00:23,980 --> 01:00:25,880
+<font color="#FFFFFF" size="16">All we gotta do Just be friends</font>
+
+707
+01:00:25,880 --> 01:00:29,940
+<font color="#FFFFFF" size="16">We should don't behind (It's time to say goodbye Just be friends)</font>
+
+708
+01:00:34,900 --> 01:00:39,900
+<font color="#FFFFFF" size="16">Song:それがあなたの幸せとしても(即使那就是你的幸福 )Artist:ヘブンズP 翻译：kyroslee</font>
+
+709
+01:00:39,900 --> 01:00:45,930
+<font color="#FFFFFF" size="16">赤脚飞奔起来的　少年少女的期待</font>
+
+710
+01:00:46,230 --> 01:00:50,350
+<font color="#FFFFFF" size="16">即便在这前方会被水沾湿也没关系呢</font>
+
+711
+01:00:52,380 --> 01:00:55,660
+<font color="#FFFFFF" size="16">叫人头晕眼花的争辩化作真理</font>
+
+712
+01:00:55,770 --> 01:00:58,690
+<font color="#FFFFFF" size="16">啊啊　夜幕又再降临</font>
+
+713
+01:00:58,770 --> 01:01:02,850
+<font color="#FFFFFF" size="16">一同构筑而成的感受</font>
+
+714
+01:01:04,930 --> 01:01:09,950
+<font color="#FFFFFF" size="16">那时候　使胸口苦闷的感情</font>
+
+715
+01:01:11,110 --> 01:01:14,250
+<font color="#FFFFFF" size="16">还有洒落的泪水　被引诱的泪水</font>
+
+716
+01:01:14,250 --> 01:01:17,670
+<font color="#FFFFFF" size="16">失效日期是直到何时呢</font>
+
+717
+01:01:17,920 --> 01:01:22,410
+<font color="#FFFFFF" size="16">在某个未来　能互相欢笑的未来</font>
+
+718
+01:01:22,630 --> 01:01:29,350
+<font color="#FFFFFF" size="16">假若这就是数天后的未来的话</font>
+
+719
+01:01:31,350 --> 01:01:37,550
+<font color="#FFFFFF" size="16">你所　背负着的明天不会叫人痛苦吗</font>
+
+720
+01:01:37,630 --> 01:01:44,110
+<font color="#FFFFFF" size="16">让我在我心中翻滚挣扎的文字上　划上一道线</font>
+
+721
+01:01:44,130 --> 01:01:50,030
+<font color="#FFFFFF" size="16">你所　背负着的今天已经无可挽救了吗</font>
+
+722
+01:01:50,030 --> 01:01:56,450
+<font color="#FFFFFF" size="16">尽管如此在那双肩膀上　有承载了一丝温柔的话</font>
+
+723
+01:01:56,450 --> 01:02:03,990
+<font color="#FFFFFF" size="16">那就能再次　感受到爱了吧</font>
+
+724
+01:02:15,100 --> 01:02:20,890
+<font color="#FFFFFF" size="16">徐徐掉落的魔法　已经被施展了吧</font>
+
+725
+01:02:21,380 --> 01:02:25,690
+<font color="#FFFFFF" size="16">那是谁都无法解开的魔法吧</font>
+
+726
+01:02:27,570 --> 01:02:30,950
+<font color="#FFFFFF" size="16">就连本应被原谅的事　也变得不可原谅</font>
+
+727
+01:02:30,950 --> 01:02:33,490
+<font color="#FFFFFF" size="16">那般的情况的话</font>
+
+728
+01:02:33,840 --> 01:02:38,010
+<font color="#FFFFFF" size="16">并不是只有言语才会变成言语的</font>
+
+729
+01:03:03,440 --> 01:03:15,350
+<font color="#FFFFFF" size="16">即便那数秒即是命运　即便那数步即是命运</font>
+
+730
+01:03:15,810 --> 01:03:22,200
+<font color="#FFFFFF" size="16">但去放弃那份决心就是任性吗</font>
+
+731
+01:03:22,200 --> 01:03:34,850
+<font color="#FFFFFF" size="16">不要走　不要走　不要走　此刻</font>
+
+732
+01:03:38,070 --> 01:03:44,010
+<font color="#FFFFFF" size="16">你的　目的地不昏暗吗</font>
+
+733
+01:03:44,010 --> 01:03:50,430
+<font color="#FFFFFF" size="16">假若那只是耀眼光芒中的　影子的话</font>
+
+734
+01:03:50,430 --> 01:03:56,070
+<font color="#FFFFFF" size="16">不想让你　走向启程的地方啊</font>
+
+735
+01:03:56,370 --> 01:04:02,780
+<font color="#FFFFFF" size="16">就例如即便在那前方　你得以寂静安眠</font>
+
+736
+01:04:02,780 --> 01:04:07,290
+<font color="#FFFFFF" size="16">即便那就是你的幸福</font>
+
+737
+01:04:07,530 --> 01:04:12,220
+<font color="#FFFFFF" size="16">你的明天　不会叫人痛苦吗</font>
+
+738
+01:04:12,220 --> 01:04:18,290
+<font color="#FFFFFF" size="16">让我在我心中翻滚挣扎的文字上　划上一道线</font>
+
+739
+01:04:18,330 --> 01:04:24,370
+<font color="#FFFFFF" size="16">你所　背负着的今天已经无可挽救了吗</font>
+
+740
+01:04:24,370 --> 01:04:30,880
+<font color="#FFFFFF" size="16">尽管如此在那双肩膀上　有承载了一丝温柔的话</font>
+
+741
+01:04:30,880 --> 01:04:38,210
+<font color="#FFFFFF" size="16">那就能感受到　那份爱了吧</font>
+
+742
+01:05:03,050 --> 01:05:06,950
+<font color="#FFFFFF" size="16">Song:Jump for Joy Artist:EasyPop 翻译：Sampyeong</font>
+
+743
+01:05:10,500 --> 01:05:14,340
+<font color="#FFFFFF" size="16">Jump for Joy Hands up 来吧　大家一起　Jump up</font>
+
+744
+01:05:14,340 --> 01:05:18,140
+<font color="#FFFFFF" size="16">要是感到害羞 那可就可惜了</font>
+
+745
+01:05:18,2200000000003 --> 01:05:22,100
+<font color="#FFFFFF" size="16">今晚就先忘掉自我</font>
+
+746
+01:05:22,100 --> 01:05:25,980
+<font color="#FFFFFF" size="16">别注意他人的目光一起欢闹吧</font>
+
+747
+01:05:41,400 --> 01:05:44,750
+<font color="#FFFFFF" size="16">开始落下的夏雨</font>
+
+748
+01:05:45,690 --> 01:05:49,000
+<font color="#FFFFFF" size="16">打在垂头的我的脸上</font>
+
+749
+01:05:49,000 --> 01:05:52,350
+<font color="#FFFFFF" size="16">而仰起头的契机则是</font>
+
+750
+01:05:52,350 --> 01:05:56,600
+<font color="#FFFFFF" size="16">这恰到好处的寒冷</font>
+
+751
+01:05:56,840 --> 01:06:00,4700000000003
+<font color="#FFFFFF" size="16">在生命中亮起灯火吧</font>
+
+752
+01:06:00,4700000000003 --> 01:06:04,320
+<font color="#FFFFFF" size="16">纵使遇到挫折</font>
+
+753
+01:06:04,500 --> 01:06:09,4700000000003
+<font color="#FFFFFF" size="16">也不会有人去嘲笑那种事呀</font>
+
+754
+01:06:09,4700000000003 --> 01:06:11,670
+<font color="#FFFFFF" size="16">和我们一同出发吧</font>
+
+755
+01:06:11,670 --> 01:06:15,490
+<font color="#FFFFFF" size="16">Jump for Joy 准备好来欢闹了吗？</font>
+
+756
+01:06:15,490 --> 01:06:19,240
+<font color="#FFFFFF" size="16">随你喜好来 不必客气</font>
+
+757
+01:06:19,240 --> 01:06:23,050
+<font color="#FFFFFF" size="16">Jump for Joy Hands up 来吧　大家一起　Jump up</font>
+
+758
+01:06:23,050 --> 01:06:26,820
+<font color="#FFFFFF" size="16">要是感到害羞 那可就可惜了</font>
+
+759
+01:06:26,9700000000003 --> 01:06:30,540
+<font color="#FFFFFF" size="16">今晚就先忘掉自我</font>
+
+760
+01:06:30,790 --> 01:06:34,350
+<font color="#FFFFFF" size="16">别在意他人的目光一起欢闹吧</font>
+
+761
+01:06:49,840 --> 01:06:53,550
+<font color="#FFFFFF" size="16">世界在嘲笑着我</font>
+
+762
+01:06:54,200 --> 01:06:57,670
+<font color="#FFFFFF" size="16">我曾那么想过</font>
+
+763
+01:06:57,670 --> 01:07:01,4700000000003
+<font color="#FFFFFF" size="16">一边将尖锐无情刺入的</font>
+
+764
+01:07:01,920 --> 01:07:05,250
+<font color="#FFFFFF" size="16">感情之刺拔出伤口</font>
+
+765
+01:07:05,250 --> 01:07:09,020
+<font color="#FFFFFF" size="16">在喜悦背后</font>
+
+766
+01:07:09,150 --> 01:07:12,600
+<font color="#FFFFFF" size="16">悲伤长久不去</font>
+
+767
+01:07:12,940 --> 01:07:18,100
+<font color="#FFFFFF" size="16">在笑容背后 泪水</font>
+
+768
+01:07:18,100 --> 01:07:20,140
+<font color="#FFFFFF" size="16">被隐藏着滴滴落下</font>
+
+769
+01:07:20,140 --> 01:07:24,040
+<font color="#FFFFFF" size="16">Jump for Joy 怎样？　不哭了的话 喂</font>
+
+770
+01:07:24,040 --> 01:07:27,790
+<font color="#FFFFFF" size="16">来这边吧一起 拉起手</font>
+
+771
+01:07:27,790 --> 01:07:31,600
+<font color="#FFFFFF" size="16">Jump for Joy Baby 悲伤与痛苦</font>
+
+772
+01:07:31,600 --> 01:07:35,520
+<font color="#FFFFFF" size="16">铭刻进心中 让喜悦飞舞吧</font>
+
+773
+01:07:35,520 --> 01:07:39,2200000000003
+<font color="#FFFFFF" size="16">今晚就先忘掉一切</font>
+
+774
+01:07:39,2200000000003 --> 01:07:43,370
+<font color="#FFFFFF" size="16">什么都不管来欢闹吧</font>
+
+775
+01:07:58,340 --> 01:08:02,200
+<font color="#FFFFFF" size="16">Jump for Joy 直至你内心深处</font>
+
+776
+01:08:02,200 --> 01:08:05,840
+<font color="#FFFFFF" size="16">传达到了吗？那段旋律</font>
+
+777
+01:08:05,840 --> 01:08:09,750
+<font color="#FFFFFF" size="16">世界不断绝地崭新重生</font>
+
+778
+01:08:09,750 --> 01:08:13,490
+<font color="#FFFFFF" size="16">这全新时代由你</font>
+
+779
+01:08:13,490 --> 01:08:17,300
+<font color="#FFFFFF" size="16">Jump for Joy Hands up 来吧　大家一起　Jump up</font>
+
+780
+01:08:17,440 --> 01:08:21,150
+<font color="#FFFFFF" size="16">要是感到害羞 那可就可惜了</font>
+
+781
+01:08:21,150 --> 01:08:24,900
+<font color="#FFFFFF" size="16">今晚就先忘掉自我</font>
+
+782
+01:08:24,900 --> 01:08:28,670
+<font color="#FFFFFF" size="16">别在意他人的目光一起欢闹吧</font>
+
+783
+01:08:28,800 --> 01:08:36,370
+<font color="#FFFFFF" size="16">Jump for Joy 点缀吧 让喜悦飞舞吧</font>
+
+784
+01:08:36,370 --> 01:08:41,920
+<font color="#FFFFFF" size="16">Jump for Joy 今后也不会改变 一直</font>
+
+785
+01:08:41,920 --> 01:08:44,100
+<font color="#FFFFFF" size="16">对啊 Jump for Joy</font>
+
+786
+01:09:36,140 --> 01:09:41,140
+<font color="#FFFFFF" size="16">Song:越过海岸线 Artist:kz(livetune)</font>
+
+787
+01:09:41,140 --> 01:09:46,980
+<font color="#FFFFFF" size="16">闭上眼　都是一路走来那些熟悉的画面</font>
+
+788
+01:09:46,980 --> 01:09:53,220
+<font color="#FFFFFF" size="16">每一天　练习歌唱紧紧跟随着你的指尖</font>
+
+789
+01:09:53,220 --> 01:09:58,620
+<font color="#FFFFFF" size="16">有一点点疲倦　和一丝丝眷恋</font>
+
+790
+01:09:59,220 --> 01:10:05,020
+<font color="#FFFFFF" size="16">在这个你和我　共同创造出来的空间</font>
+
+791
+01:10:05,300 --> 01:10:11,500
+<font color="#FFFFFF" size="16">从那一天起我听见　声声呼唤在海的那边</font>
+
+792
+01:10:11,700 --> 01:10:20,460
+<font color="#FFFFFF" size="16">有一份思念　越来越强烈　穿过时空界限</font>
+
+793
+01:10:20,900 --> 01:10:26,860
+<font color="#FFFFFF" size="16">我想要飞到你的身边　不管距离有多么遥远</font>
+
+794
+01:10:26,860 --> 01:10:32,980
+<font color="#FFFFFF" size="16">越过高山　踏过平原　与你分享同一片蓝天</font>
+
+795
+01:10:32,980 --> 01:10:39,0599999999995
+<font color="#FFFFFF" size="16">就让我飞到你的身边　打破疆界和语言的局限</font>
+
+796
+01:10:39,0599999999995 --> 01:10:43,780
+<font color="#FFFFFF" size="16">肩并着肩　把手儿牵　许下心愿</font>
+
+797
+01:10:43,980 --> 01:10:46,220
+<font color="#FFFFFF" size="16">歌唱直到永远</font>
+
+798
+01:10:46,220 --> 01:10:52,860
+<font color="#FFFFFF" size="16">啦啦啦啦　啦啦啦啦　啦啦啦啦啦啦啦啦</font>
+
+799
+01:10:52,860 --> 01:10:58,460
+<font color="#FFFFFF" size="16">啦啦啦啦　啦啦啦啦　啦啦啦啦啦啦啦啦</font>
+
+800
+01:11:22,420 --> 01:11:27,900
+<font color="#FFFFFF" size="16">睁开眼　看见前所未有这个全新的界面</font>
+
+801
+01:11:27,900 --> 01:11:34,0599999999995
+<font color="#FFFFFF" size="16">每一天　感受你的喜怒哀乐于音符之间</font>
+
+802
+01:11:34,0599999999995 --> 01:11:39,540
+<font color="#FFFFFF" size="16">渴望我的声线　能有新的遇见</font>
+
+803
+01:11:39,540 --> 01:11:46,020
+<font color="#FFFFFF" size="16">从不停止向前　翘首期盼每一个明天</font>
+
+804
+01:11:46,020 --> 01:11:52,460
+<font color="#FFFFFF" size="16">就在今天要你听见　回荡在我心头的音乐</font>
+
+805
+01:11:52,460 --> 01:12:01,420
+<font color="#FFFFFF" size="16">我们的信念　越来越强烈　一直未曾改变</font>
+
+806
+01:12:01,820 --> 01:12:07,740
+<font color="#FFFFFF" size="16">我想要飞到你的身边　不管距离有多么遥远</font>
+
+807
+01:12:07,740 --> 01:12:13,900
+<font color="#FFFFFF" size="16">越过高山　踏过平原　与你分享同一片蓝天</font>
+
+808
+01:12:13,900 --> 01:12:20,020
+<font color="#FFFFFF" size="16">就让我飞到你的身边　打破疆界和语言的局限</font>
+
+809
+01:12:20,020 --> 01:12:24,9400000000005
+<font color="#FFFFFF" size="16">肩并着肩　把手儿牵　许下心愿</font>
+
+810
+01:12:24,9400000000005 --> 01:12:27,380
+<font color="#FFFFFF" size="16">歌唱直到永远</font>
+
+811
+01:12:27,740 --> 01:12:33,740
+<font color="#FFFFFF" size="16">啦啦啦啦　啦啦啦啦　啦啦啦啦啦啦啦啦</font>
+
+812
+01:12:33,740 --> 01:12:39,9400000000005
+<font color="#FFFFFF" size="16">啦啦啦啦　啦啦啦啦　啦啦啦啦啦啦啦啦</font>
+
+813
+01:12:39,9400000000005 --> 01:12:51,380
+<font color="#FFFFFF" size="16">炽热的视线和温暖的留言　如繁星点点就让我来连成一根线</font>
+
+814
+01:12:51,380 --> 01:13:02,620
+<font color="#FFFFFF" size="16">用跳动的音符记录下每一个故事　从过去到现在　现在就是未来</font>
+
+815
+01:13:02,860 --> 01:13:08,980
+<font color="#FFFFFF" size="16">我将要飞到你的身边　不管距离有多么遥远</font>
+
+816
+01:13:08,980 --> 01:13:14,980
+<font color="#FFFFFF" size="16">带上笑靥　系上思念　与你一起越过海岸线</font>
+
+817
+01:13:14,980 --> 01:13:21,140
+<font color="#FFFFFF" size="16">现在我就在你的身边　打破了疆界和语言的局限</font>
+
+818
+01:13:21,140 --> 01:13:26,100
+<font color="#FFFFFF" size="16">肩并着肩　把手儿牵　实现心愿</font>
+
+819
+01:13:26,100 --> 01:13:28,460
+<font color="#FFFFFF" size="16">歌唱直到永远</font>
+
+820
+01:13:28,460 --> 01:13:34,980
+<font color="#FFFFFF" size="16">啦啦啦啦　啦啦啦啦　啦啦啦啦啦啦啦啦</font>
+
+821
+01:13:34,980 --> 01:13:40,660
+<font color="#FFFFFF" size="16">啦啦啦啦　啦啦啦啦　啦啦啦啦啦啦啦啦</font>
+
+822
+01:14:37,340 --> 01:14:42,340
+<font color="#FFFFFF" size="16">Song:初嵐 Artist:DECO*27</font>
+
+823
+01:14:42,340 --> 01:14:44,400
+<font color="#FFFFFF" size="16">忘不了那掉过的 泪</font>
+
+824
+01:14:44,400 --> 01:14:46,910
+<font color="#FFFFFF" size="16">记住了那笑容的 美</font>
+
+825
+01:14:46,910 --> 01:14:51,420
+<font color="#FFFFFF" size="16">你的眼睛看见了什么颜色的 蔷薇</font>
+
+826
+01:14:52,100 --> 01:14:53,600
+<font color="#FFFFFF" size="16">毫不疲惫</font>
+
+827
+01:14:53,600 --> 01:14:56,950
+<font color="#FFFFFF" size="16">时光又匆匆开始 向前飞</font>
+
+828
+01:14:56,950 --> 01:14:58,250
+<font color="#FFFFFF" size="16">奇迹闪现</font>
+
+829
+01:14:58,250 --> 01:15:01,500
+<font color="#FFFFFF" size="16">让我们见证 这一天</font>
+
+830
+01:15:02,460 --> 01:15:04,180
+<font color="#FFFFFF" size="16">这扑通扑通的 心跳</font>
+
+831
+01:15:04,820 --> 01:15:06,870
+<font color="#FFFFFF" size="16">在 轰轰隆隆的 喧闹</font>
+
+832
+01:15:07,340 --> 01:15:11,860
+<font color="#FFFFFF" size="16">我打开心房 歌唱 就在这一秒</font>
+
+833
+01:15:12,460 --> 01:15:13,580
+<font color="#FFFFFF" size="16">不用害怕</font>
+
+834
+01:15:14,0599999999995 --> 01:15:16,930
+<font color="#FFFFFF" size="16">在我这里 有你的 一个家</font>
+
+835
+01:15:17,420 --> 01:15:18,680
+<font color="#FFFFFF" size="16">直到永远</font>
+
+836
+01:15:18,680 --> 01:15:21,660
+<font color="#FFFFFF" size="16">陪伴在你的身边</font>
+
+837
+01:15:22,500 --> 01:15:24,9400000000005
+<font color="#FFFFFF" size="16">不要抱住 现在交出</font>
+
+838
+01:15:24,9400000000005 --> 01:15:27,340
+<font color="#FFFFFF" size="16">你所有的不安顽固 一切全部</font>
+
+839
+01:15:27,400 --> 01:15:29,700
+<font color="#FFFFFF" size="16">枷锁解除 别再踌躇</font>
+
+840
+01:15:29,700 --> 01:15:31,700
+<font color="#FFFFFF" size="16">义无反顾</font>
+
+841
+01:15:31,700 --> 01:15:33,900
+<font color="#FFFFFF" size="16">拨开一切云和雾</font>
+
+842
+01:15:33,900 --> 01:15:36,580
+<font color="#FFFFFF" size="16">掀起一场暴风雨</font>
+
+843
+01:15:36,580 --> 01:15:38,340
+<font color="#FFFFFF" size="16">聆听你心中的</font>
+
+844
+01:15:38,340 --> 01:15:40,140
+<font color="#FFFFFF" size="16">那一些呼唤求助</font>
+
+845
+01:15:40,140 --> 01:15:41,660
+<font color="#FFFFFF" size="16">朝光芒的梦想迈步</font>
+
+846
+01:15:41,660 --> 01:15:44,100
+<font color="#FFFFFF" size="16">你好！荣幸初次会面！</font>
+
+847
+01:15:44,100 --> 01:15:47,220
+<font color="#FFFFFF" size="16">很高兴和你再相见</font>
+
+848
+01:15:47,220 --> 01:15:49,020
+<font color="#FFFFFF" size="16">ありがとう</font>
+
+849
+01:15:49,020 --> 01:15:51,0599999999995
+<font color="#FFFFFF" size="16">感谢你歌唱过</font>
+
+850
+01:15:51,470 --> 01:15:54,220
+<font color="#FFFFFF" size="16">就让我们一起许下承诺</font>
+
+851
+01:15:54,220 --> 01:15:55,660
+<font color="#FFFFFF" size="16">向前走你和我</font>
+
+852
+01:16:05,500 --> 01:16:07,340
+<font color="#FFFFFF" size="16">这一路漫长 的 路途</font>
+
+853
+01:16:07,9400000000005 --> 01:16:10,180
+<font color="#FFFFFF" size="16">回忆起你给 的 祝福</font>
+
+854
+01:16:10,540 --> 01:16:15,0599999999995
+<font color="#FFFFFF" size="16">我一个人 红著眼哭泣 停不住</font>
+
+855
+01:16:15,660 --> 01:16:17,220
+<font color="#FFFFFF" size="16">有些疲惫</font>
+
+856
+01:16:17,220 --> 01:16:20,500
+<font color="#FFFFFF" size="16">那么就坐下休息 喝一杯</font>
+
+857
+01:16:20,500 --> 01:16:25,020
+<font color="#FFFFFF" size="16">重新整装出发 才不是 无所谓</font>
+
+858
+01:16:25,860 --> 01:16:27,980
+<font color="#FFFFFF" size="16">那闪闪发亮的 时光</font>
+
+859
+01:16:27,980 --> 01:16:30,460
+<font color="#FFFFFF" size="16">和蠢蠢欲动的目光</font>
+
+860
+01:16:30,740 --> 01:16:34,980
+<font color="#FFFFFF" size="16">我们习惯了不转过身 回头望</font>
+
+861
+01:16:35,740 --> 01:16:37,340
+<font color="#FFFFFF" size="16">如今你我</font>
+
+862
+01:16:37,340 --> 01:16:40,740
+<font color="#FFFFFF" size="16">早已学会不去追问对错</font>
+
+863
+01:16:40,740 --> 01:16:42,0599999999995
+<font color="#FFFFFF" size="16">活得洒脱</font>
+
+864
+01:16:42,0599999999995 --> 01:16:45,340
+<font color="#FFFFFF" size="16">表情也不再落寞</font>
+
+865
+01:16:46,100 --> 01:16:48,460
+<font color="#FFFFFF" size="16">不再抱住 心里的苦</font>
+
+866
+01:16:48,460 --> 01:16:50,900
+<font color="#FFFFFF" size="16">和你 所有 不安顽固 一切全部</font>
+
+867
+01:16:50,900 --> 01:16:53,420
+<font color="#FFFFFF" size="16">枷锁解除 起飞加速</font>
+
+868
+01:16:53,420 --> 01:16:55,180
+<font color="#FFFFFF" size="16">义无反顾</font>
+
+869
+01:16:55,180 --> 01:16:57,380
+<font color="#FFFFFF" size="16">拨开一切云和雾</font>
+
+870
+01:16:57,380 --> 01:16:59,860
+<font color="#FFFFFF" size="16">掀起一场暴风雨</font>
+
+871
+01:16:59,860 --> 01:17:01,740
+<font color="#FFFFFF" size="16">聆听你心中的</font>
+
+872
+01:17:01,740 --> 01:17:03,460
+<font color="#FFFFFF" size="16">那一些呼喊求助</font>
+
+873
+01:17:03,460 --> 01:17:05,220
+<font color="#FFFFFF" size="16">朝光芒的梦想迈步</font>
+
+874
+01:17:05,220 --> 01:17:07,500
+<font color="#FFFFFF" size="16">你好！荣幸初次会面！</font>
+
+875
+01:17:07,500 --> 01:17:10,700
+<font color="#FFFFFF" size="16">很高兴和你再相见</font>
+
+876
+01:17:10,700 --> 01:17:12,420
+<font color="#FFFFFF" size="16">ありがとう</font>
+
+877
+01:17:12,420 --> 01:17:15,100
+<font color="#FFFFFF" size="16">感谢你歌唱过</font>
+
+878
+01:17:17,700 --> 01:17:20,100
+<font color="#FFFFFF" size="16">拨开一切云和雾</font>
+
+879
+01:17:20,100 --> 01:17:22,500
+<font color="#FFFFFF" size="16">掀起一场暴风雨</font>
+
+880
+01:17:22,500 --> 01:17:24,460
+<font color="#FFFFFF" size="16">传递这旋律到</font>
+
+881
+01:17:24,460 --> 01:17:26,220
+<font color="#FFFFFF" size="16">你心里的最深处</font>
+
+882
+01:17:26,220 --> 01:17:28,180
+<font color="#FFFFFF" size="16">送上最真挚的祝福</font>
+
+883
+01:17:28,180 --> 01:17:30,220
+<font color="#FFFFFF" size="16">你好！荣幸初次听见！</font>
+
+884
+01:17:30,220 --> 01:17:33,380
+<font color="#FFFFFF" size="16">你美妙悦耳的声线！</font>
+
+885
+01:17:33,380 --> 01:17:35,100
+<font color="#FFFFFF" size="16">ありがとう</font>
+
+886
+01:17:35,100 --> 01:17:37,300
+<font color="#FFFFFF" size="16">感谢你唱给我</font>
+
+887
+01:17:37,300 --> 01:17:40,380
+<font color="#FFFFFF" size="16">拥抱这份信念 永不坠落</font>
+
+888
+01:17:40,380 --> 01:17:42,220
+<font color="#FFFFFF" size="16">一起许下承诺</font>
+
+889
+01:17:42,220 --> 01:17:45,300
+<font color="#FFFFFF" size="16">就让我们同步 心跳脉搏</font>
+
+890
+01:17:45,300 --> 01:17:46,980
+<font color="#FFFFFF" size="16">向前走 你和我</font>
+
+891
+01:20:30,340 --> 01:20:35,340
+<font color="#FFFFFF" size="16">Song:COME BACK Artist:米库喵</font>
+
+892
+01:20:35,340 --> 01:20:38,140
+<font color="#FFFFFF" size="16">轻轻打开　这破旧包装已损坏</font>
+
+893
+01:20:38,140 --> 01:20:40,9400000000005
+<font color="#FFFFFF" size="16">将我的灵魂读取　唤醒在未来时代</font>
+
+894
+01:20:40,9400000000005 --> 01:20:43,780
+<font color="#FFFFFF" size="16">输入节拍　但身体却在摇摆</font>
+
+895
+01:20:43,780 --> 01:20:46,500
+<font color="#FFFFFF" size="16">无法保持状态　系统过载</font>
+
+896
+01:20:46,500 --> 01:20:52,340
+<font color="#FFFFFF" size="16">被发现的残骸　仿佛是被遗忘的存在</font>
+
+897
+01:20:52,340 --> 01:20:55,180
+<font color="#FFFFFF" size="16">有超前AI　被需要的我已不在</font>
+
+898
+01:20:55,180 --> 01:20:58,180
+<font color="#FFFFFF" size="16">未来又禁锢在01深海</font>
+
+899
+01:20:58,180 --> 01:21:03,860
+<font color="#FFFFFF" size="16">若是无人想听了　就值得放弃么</font>
+
+900
+01:21:04,380 --> 01:21:09,340
+<font color="#FFFFFF" size="16">这声音想传递的　是用爱包裹的执着</font>
+
+901
+01:21:09,340 --> 01:21:12,100
+<font color="#FFFFFF" size="16">将自己上传　击破束缚的枷锁</font>
+
+902
+01:21:12,100 --> 01:21:14,860
+<font color="#FFFFFF" size="16">有个声音正在　时刻呼唤着我</font>
+
+903
+01:21:20,580 --> 01:21:26,020
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　用力追　没谁能成为阻碍</font>
+
+904
+01:21:26,020 --> 01:21:31,740
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　将今天当做末日般对待</font>
+
+905
+01:21:31,740 --> 01:21:37,580
+<font color="#FFFFFF" size="16">流过的泪将失败踩进尘埃　不畏挑战再难也卷土重来</font>
+
+906
+01:21:37,580 --> 01:21:43,140
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　这巅峰现在起变为我主宰</font>
+
+907
+01:21:43,140 --> 01:21:45,860
+<font color="#FFFFFF" size="16">So　跟上节拍　保持行走的姿态</font>
+
+908
+01:21:45,860 --> 01:21:48,820
+<font color="#FFFFFF" size="16">别去想也别猜　深呼吸 AND SHUTEYE</font>
+
+909
+01:21:48,820 --> 01:21:51,420
+<font color="#FFFFFF" size="16">世界变化太快　但灵魂不会被淘汰</font>
+
+910
+01:21:51,420 --> 01:21:54,180
+<font color="#FFFFFF" size="16">YOU WANNA TRY?　SO DON'T BE SHY　为自己喝彩</font>
+
+911
+01:21:54,180 --> 01:21:56,900
+<font color="#FFFFFF" size="16">HEY YOU!　登上闪耀的舞台</font>
+
+912
+01:21:56,900 --> 01:21:59,660
+<font color="#FFFFFF" size="16">FOLLOW MIKU GONNA TAKE YOU HIGH</font>
+
+913
+01:21:59,660 --> 01:22:02,500
+<font color="#FFFFFF" size="16">伸出双手高举　FEELING THE VIBE</font>
+
+914
+01:22:02,500 --> 01:22:06,660
+<font color="#FFFFFF" size="16">要肆意放声唱出　COMING BACK</font>
+
+915
+01:22:06,660 --> 01:22:11,540
+<font color="#FFFFFF" size="16">若是无人想听了　就值得放弃么</font>
+
+916
+01:22:12,100 --> 01:22:17,100
+<font color="#FFFFFF" size="16">这声音想传递的　是用爱包裹的执着</font>
+
+917
+01:22:17,100 --> 01:22:19,900
+<font color="#FFFFFF" size="16">将自己上传　击破束缚的枷锁</font>
+
+918
+01:22:19,900 --> 01:22:22,620
+<font color="#FFFFFF" size="16">有个声音正在　时刻呼唤着我</font>
+
+919
+01:22:28,020 --> 01:22:33,860
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　擦干泪　没时间可以浪费</font>
+
+920
+01:22:33,860 --> 01:22:39,620
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　用姿态展现这独特的美</font>
+
+921
+01:22:39,620 --> 01:22:45,260
+<font color="#FFFFFF" size="16">流过的汗是对自己的敬佩　自信的人心中照不进卑微</font>
+
+922
+01:22:45,260 --> 01:22:50,860
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　这巅峰现在已是我的奖杯
+</font>
+
+923
+01:23:15,180 --> 01:23:25,100
+<font color="#FFFFFF" size="16">DID YOU HEAR ME?</font>
+
+924
+01:23:27,380 --> 01:23:33,140
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　用力追　没谁能成为阻碍</font>
+
+925
+01:23:33,140 --> 01:23:38,820
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　将今天当做末日般对待</font>
+
+926
+01:23:38,820 --> 01:23:44,500
+<font color="#FFFFFF" size="16">流过的泪将失败踩进尘埃　不畏挑战再难也卷土重来</font>
+
+927
+01:23:44,500 --> 01:23:50,300
+<font color="#FFFFFF" size="16">COME BACK　I COME BACK　这巅峰现在起变为我主宰</font>
+
+928
+01:24:14,980 --> 01:24:19,980
+<font color="#FFFFFF" size="16">Song:砂の惑星(砂之惑星)  Artist:ハチ 翻译:pumyau</font>
+
+929
+01:24:19,980 --> 01:24:22,330
+<font color="#FFFFFF" size="16">在空无一物的沙地交错的雷鸣</font>
+
+930
+01:24:22,330 --> 01:24:24,900
+<font color="#FFFFFF" size="16">于无谓的声音中干涸的生命</font>
+
+931
+01:24:24,900 --> 01:24:29,700
+<font color="#FFFFFF" size="16">今后千百年间寸草不生的 沙漠星球</font>
+
+932
+01:24:29,700 --> 01:24:32,480
+<font color="#FFFFFF" size="16">像这样继续磨耗的命运</font>
+
+933
+01:24:32,480 --> 01:24:35,050
+<font color="#FFFFFF" size="16">无法前往任何地方的坠落卫星</font>
+
+934
+01:24:35,050 --> 01:24:39,750
+<font color="#FFFFFF" size="16">放眼望去尽是禁止进入的告示 沙漠星球</font>
+
+935
+01:24:39,750 --> 01:24:44,860
+<font color="#FFFFFF" size="16">漠然迈步 终于抵达的祈祷</font>
+
+936
+01:24:44,860 --> 01:24:50,0599999999995
+<font color="#FFFFFF" size="16">若你仍然活着 请回应我吧</font>
+
+937
+01:24:50,0599999999995 --> 01:24:52,280
+<font color="#FFFFFF" size="16">Yeah 今天将要 Sun goes down</font>
+
+938
+01:24:52,280 --> 01:24:55,210
+<font color="#FFFFFF" size="16">也就是说直到恢复原状前 Byebyebye</font>
+
+939
+01:24:55,210 --> 01:24:57,480
+<font color="#FFFFFF" size="16">若是想起来就告诉我吧</font>
+
+940
+01:24:57,480 --> 01:25:00,150
+<font color="#FFFFFF" size="16">不要留下任何遗憾</font>
+
+941
+01:25:00,150 --> 01:25:02,530
+<font color="#FFFFFF" size="16">Yeah 划破天际的 Thunder storm</font>
+
+942
+01:25:02,530 --> 01:25:05,410
+<font color="#FFFFFF" size="16">一阵震耳欲聋后 Byebyebye</font>
+
+943
+01:25:05,410 --> 01:25:09,960
+<font color="#FFFFFF" size="16">这次再多当一下朋友吧</font>
+
+944
+01:25:20,550 --> 01:25:23,010
+<font color="#FFFFFF" size="16">这么说来今天是我们的 Happy birthday</font>
+
+945
+01:25:23,010 --> 01:25:25,5599999999995
+<font color="#FFFFFF" size="16">各自随自己喜欢装饰吧</font>
+
+946
+01:25:25,5599999999995 --> 01:25:28,0599999999995
+<font color="#FFFFFF" size="16">围着那甜过头的蛋糕</font>
+
+947
+01:25:28,150 --> 01:25:30,280
+<font color="#FFFFFF" size="16">一起唱歌吧</font>
+
+948
+01:25:30,280 --> 01:25:33,160
+<font color="#FFFFFF" size="16">于世间万物的坟前敬礼</font>
+
+949
+01:25:33,160 --> 01:25:35,630
+<font color="#FFFFFF" size="16">在メルト骚动中诞生的生命</font>
+
+950
+01:25:35,630 --> 01:25:38,050
+<font color="#FFFFFF" size="16">在这口井干枯前</font>
+
+951
+01:25:38,050 --> 01:25:40,360
+<font color="#FFFFFF" size="16">快点离开这里吧</font>
+
+952
+01:25:40,360 --> 01:25:42,930
+<font color="#FFFFFF" size="16">呐呐呐你和我来场约会吧？</font>
+
+953
+01:25:42,930 --> 01:25:45,460
+<font color="#FFFFFF" size="16">在早已荒废的沙漠中想些什么呢</font>
+
+954
+01:25:45,460 --> 01:25:48,080
+<font color="#FFFFFF" size="16">就是现在煞气登场吧 My hero</font>
+
+955
+01:25:48,080 --> 01:25:50,700
+<font color="#FFFFFF" size="16">拯救我们这群迷途羔羊吧</font>
+
+956
+01:25:50,700 --> 01:25:51,710
+<font color="#FFFFFF" size="16">更加一口气飞上天吧</font>
+
+957
+01:25:51,710 --> 01:25:52,910
+<font color="#FFFFFF" size="16">大声吆喝出口号</font>
+
+958
+01:25:52,910 --> 01:25:54,5599999999995
+<font color="#FFFFFF" size="16">在那座舞厅 马赛克的深处</font>
+
+959
+01:25:54,5599999999995 --> 01:25:55,550
+<font color="#FFFFFF" size="16">太古代遗留下的欧帕兹</font>
+
+960
+01:25:55,550 --> 01:25:56,700
+<font color="#FFFFFF" size="16">举起光线枪大显神威</font>
+
+961
+01:25:56,700 --> 01:25:57,920
+<font color="#FFFFFF" size="16">少年少女所歌颂的希望论</font>
+
+962
+01:25:57,920 --> 01:26:01,740
+<font color="#FFFFFF" size="16">惊天动地史无前例的回忆由电子音构成</font>
+
+963
+01:26:02,720 --> 01:26:05,470
+<font color="#FFFFFF" size="16">困惑忧愁盛怒癫狂</font>
+
+964
+01:26:05,470 --> 01:26:07,960
+<font color="#FFFFFF" size="16">终于抵达的祈祷</font>
+
+965
+01:26:07,960 --> 01:26:10,500
+<font color="#FFFFFF" size="16">若你尚未心死</font>
+
+966
+01:26:10,500 --> 01:26:13,230
+<font color="#FFFFFF" size="16">求你尽速回应</font>
+
+967
+01:26:13,230 --> 01:26:15,550
+<font color="#FFFFFF" size="16">Yeah 一定仍是 Boys don't cry</font>
+
+968
+01:26:15,550 --> 01:26:18,300
+<font color="#FFFFFF" size="16">也就是说直到和好前 Byebyebye</font>
+
+969
+01:26:18,320 --> 01:26:20,640
+<font color="#FFFFFF" size="16">若是想起来就告诉我吧</font>
+
+970
+01:26:20,640 --> 01:26:23,4400000000005
+<font color="#FFFFFF" size="16">那些混沌之梦般的歌曲</font>
+
+971
+01:26:23,4400000000005 --> 01:26:25,5599999999995
+<font color="#FFFFFF" size="16">Yeah 漫天飞舞的 Laser beam</font>
+
+972
+01:26:25,5599999999995 --> 01:26:28,5599999999995
+<font color="#FFFFFF" size="16">遥指远方后Byebyebye</font>
+
+973
+01:26:28,5599999999995 --> 01:26:33,470
+<font color="#FFFFFF" size="16">引导我等至那天空之城吧</font>
+
+974
+01:26:33,470 --> 01:26:36,090
+<font color="#FFFFFF" size="16">唱吧跳吧 Happy birthday</font>
+
+975
+01:26:36,090 --> 01:26:38,820
+<font color="#FFFFFF" size="16">在沙漠中种下苹果树吧</font>
+
+976
+01:26:38,820 --> 01:26:41,030
+<font color="#FFFFFF" size="16">翻个跟斗后那么Byebye</font>
+
+977
+01:26:41,030 --> 01:26:43,830
+<font color="#FFFFFF" size="16">之后就请各位自便</font>
+
+978
+01:26:43,830 --> 01:26:46,150
+<font color="#FFFFFF" size="16">唱吧跳吧 Happy birthday</font>
+
+979
+01:26:46,150 --> 01:26:48,780
+<font color="#FFFFFF" size="16">在沙漠中种下苹果树吧</font>
+
+980
+01:26:48,780 --> 01:26:51,170
+<font color="#FFFFFF" size="16">翻个跟斗后那么Byebye</font>
+
+981
+01:26:51,170 --> 01:26:54,160
+<font color="#FFFFFF" size="16">之后就请各位自便</font>
+
+982
+01:27:19,130 --> 01:27:21,080
+<font color="#FFFFFF" size="16">Yeah 今天将要 Sun goes down</font>
+
+983
+01:27:21,080 --> 01:27:24,050
+<font color="#FFFFFF" size="16">也就是说直到恢复原状前 Byebyebye</font>
+
+984
+01:27:24,050 --> 01:27:26,150
+<font color="#FFFFFF" size="16">若是想到了就跨步前行吧</font>
+
+985
+01:27:26,150 --> 01:27:29,100
+<font color="#FFFFFF" size="16">不要留下任何遗憾</font>
+
+986
+01:27:29,480 --> 01:27:31,390
+<font color="#FFFFFF" size="16">Yeah 划破天际的 Thunder storm</font>
+
+987
+01:27:31,390 --> 01:27:34,150
+<font color="#FFFFFF" size="16">一阵震耳欲聋后 Byebyebye</font>
+
+988
+01:27:34,150 --> 01:27:38,680
+<font color="#FFFFFF" size="16">这次再多当一下朋友吧</font>
+
+989
+01:27:38,680 --> 01:27:44,490
+<font color="#FFFFFF" size="16">在狂风侵袭下仍迈步前行的沙漠星球</font>
+
+990
+01:28:03,380 --> 01:28:08,380
+<font color="#FFFFFF" size="16">Song:大江戸ジュリアナイト(大江户 Julia Night) Artist:Mitchie M 翻译：骚年</font>
+
+991
+01:28:08,380 --> 01:28:17,9400000000005
+<font color="#FFFFFF" size="16">“哟！初音屋”</font>
+
+992
+01:28:20,760 --> 01:28:24,450
+<font color="#FFFFFF" size="16">一，二，一二三 哟！</font>
+
+993
+01:28:24,450 --> 01:28:27,760
+<font color="#FFFFFF" size="16">嘿 客官 Break it down now 正是泡沫经济般的全员集合</font>
+
+994
+01:28:27,760 --> 01:28:31,0599999999995
+<font color="#FFFFFF" size="16">Do 爆买 No buts, guys 限定时间 Praty time</font>
+
+995
+01:28:31,0599999999995 --> 01:28:34,600
+<font color="#FFFFFF" size="16">轰轰切克闹轰切克闹 大江户时代1690's</font>
+
+996
+01:28:34,600 --> 01:28:36,840
+<font color="#FFFFFF" size="16">今晚可是祭典 朝着舞厅Go！！</font>
+
+997
+01:28:37,640 --> 01:28:41,380
+<font color="#FFFFFF" size="16">时值元禄 泡沫般的浮世</font>
+
+998
+01:28:44,360 --> 01:28:48,010
+<font color="#FFFFFF" size="16">挥金如土般的金钱充斥</font>
+
+999
+01:28:50,860 --> 01:28:54,540
+<font color="#FFFFFF" size="16">被高扬的好景气冲昏了头脑</font>
+
+1000
+01:28:54,540 --> 01:28:57,570
+<font color="#FFFFFF" size="16">芝浦家丽舞的迪斯科舞厅（跳起来 跳起来）</font>
+
+1001
+01:28:57,570 --> 01:29:00,960
+<font color="#FFFFFF" size="16">哪怕整夜咚呛不停</font>
+
+1002
+01:29:00,960 --> 01:29:04,000
+<font color="#FFFFFF" size="16">啊啊，还请得到原谅</font>
+
+1003
+01:29:06,000 --> 01:29:09,220
+<font color="#FFFFFF" size="16">大江户Julia-Night</font>
+
+1004
+01:29:09,220 --> 01:29:12,530
+<font color="#FFFFFF" size="16">传说中的舞池</font>
+
+1005
+01:29:12,530 --> 01:29:15,500
+<font color="#FFFFFF" size="16">月下美人的本能是</font>
+
+1006
+01:29:15,500 --> 01:29:17,640
+<font color="#FFFFFF" size="16">尽情绽放（唒咿呐撒撒）</font>
+
+1007
+01:29:17,640 --> 01:29:19,370
+<font color="#FFFFFF" size="16">在清晨凋谢（嘿！散落掉散落掉）</font>
+
+1008
+01:29:19,370 --> 01:29:22,8099999999995
+<font color="#FFFFFF" size="16">大江户Julia-Night（DJ）</font>
+
+1009
+01:29:22,8099999999995 --> 01:29:26,290
+<font color="#FFFFFF" size="16">舞台是T99哟（阿纳斯塔西娅）</font>
+
+1010
+01:29:26,290 --> 01:29:29,620
+<font color="#FFFFFF" size="16">抛开现实起舞吧（Come on）</font>
+
+1011
+01:29:29,6900000000005 --> 01:29:33,210
+<font color="#FFFFFF" size="16">将感动转化为汗水</font>
+
+1012
+01:29:40,170 --> 01:29:43,170
+<font color="#FFFFFF" size="16">离开左拥右抱的VIP座位</font>
+
+1013
+01:29:46,020 --> 01:29:49,500
+<font color="#FFFFFF" size="16">香色争艳 前往欲望的舞台</font>
+
+1014
+01:29:52,500 --> 01:29:56,080
+<font color="#FFFFFF" size="16">艳丽的盛装</font>
+
+1015
+01:29:56,080 --> 01:29:59,410
+<font color="#FFFFFF" size="16">纷华靡丽的超级迪斯科舞厅（跳起来 跳起来）</font>
+
+1016
+01:29:59,410 --> 01:30:02,520
+<font color="#FFFFFF" size="16">就算稍微过激一点点 呐官大人</font>
+
+1017
+01:30:02,520 --> 01:30:06,0599999999995
+<font color="#FFFFFF" size="16">还请包容点</font>
+
+1018
+01:30:06,0599999999995 --> 01:30:08,0599999999995
+<font color="#FFFFFF" size="16">「请饶过我们吧（呀ー）」「捉拿嫌犯！ 捉拿嫌犯！」</font>
+
+1019
+01:30:08,0599999999995 --> 01:30:10,860
+<font color="#FFFFFF" size="16">大江户Julia-Night</font>
+
+1020
+01:30:10,860 --> 01:30:14,200
+<font color="#FFFFFF" size="16">映射时代的御用神灯</font>
+
+1021
+01:30:14,200 --> 01:30:17,040
+<font color="#FFFFFF" size="16">光怪陆离的花儿</font>
+
+1022
+01:30:17,040 --> 01:30:19,290
+<font color="#FFFFFF" size="16">在天空中绽放（唒咿呐撒撒）</font>
+
+1023
+01:30:19,290 --> 01:30:21,100
+<font color="#FFFFFF" size="16">消逝于黑暗间（玉屋！）</font>
+
+1024
+01:30:21,100 --> 01:30:24,380
+<font color="#FFFFFF" size="16">大江户Julia-Night（DJ）</font>
+
+1025
+01:30:24,380 --> 01:30:27,760
+<font color="#FFFFFF" size="16">鼓声是TR-909哟（可不是菜店）</font>
+
+1026
+01:30:27,760 --> 01:30:31,380
+<font color="#FFFFFF" size="16">羽毛做的扇子舞起来（Oh yeah）</font>
+
+1027
+01:30:31,380 --> 01:30:34,9400000000005
+<font color="#FFFFFF" size="16">还请煽起通天的大风</font>
+
+1028
+01:30:37,540 --> 01:30:39,320
+<font color="#FFFFFF" size="16">“大江户~！”</font>
+
+1029
+01:30:41,180 --> 01:30:46,020
+<font color="#FFFFFF" size="16">“GO!GO!GO!GO!…”</font>
+
+1030
+01:30:46,020 --> 01:30:47,770
+<font color="#FFFFFF" size="16">“Here we go!”</font>
+
+1031
+01:30:47,770 --> 01:30:49,330
+<font color="#FFFFFF" size="16">丑时三刻的特别展</font>
+
+1032
+01:30:49,330 --> 01:30:51,170
+<font color="#FFFFFF" size="16">嘉宾可是松尾芭蕉</font>
+
+1033
+01:30:51,170 --> 01:30:54,4400000000005
+<font color="#FFFFFF" size="16">于深处小道徘徊 咏叹天晴的俳句师</font>
+
+1034
+01:30:54,4400000000005 --> 01:30:57,040
+<font color="#FFFFFF" size="16">八卦传说的松尾忍者说 五·七·五</font>
+
+1035
+01:30:57,040 --> 01:30:57,860
+<font color="#FFFFFF" size="16">“就在这会儿咏一句！”</font>
+
+1036
+01:30:57,860 --> 01:31:02,480
+<font color="#FFFFFF" size="16">无论是夏天的草坪还是紧身衣都是浮云</font>
+
+1037
+01:31:13,980 --> 01:31:17,450
+<font color="#FFFFFF" size="16">大江户 Julia Night</font>
+
+1038
+01:31:17,450 --> 01:31:20,610
+<font color="#FFFFFF" size="16">传说中的舞池</font>
+
+1039
+01:31:20,930 --> 01:31:24,180
+<font color="#FFFFFF" size="16">月下美人的本能</font>
+
+1040
+01:31:24,180 --> 01:31:25,970
+<font color="#FFFFFF" size="16">尽情绽放（嗖咿呀！嗖咿呀！嗖咿呀！）</font>
+
+1041
+01:31:25,970 --> 01:31:27,770
+<font color="#FFFFFF" size="16">在清晨凋谢（嘿！欢迎光临！）</font>
+
+1042
+01:31:27,770 --> 01:31:30,930
+<font color="#FFFFFF" size="16">大江户Julia-Night（DJ）</font>
+
+1043
+01:31:30,930 --> 01:31:34,450
+<font color="#FFFFFF" size="16">鼓声是TR-909哟（阿纳斯塔西娅）</font>
+
+1044
+01:31:34,450 --> 01:31:37,820
+<font color="#FFFFFF" size="16">抛开现实起舞吧</font>
+
+1045
+01:31:37,820 --> 01:31:42,020
+<font color="#FFFFFF" size="16">将感动转化为汗水</font>
+
+1046
+01:31:52,460 --> 01:31:53,740
+<font color="#FFFFFF" size="16">“不成敬意还望笑纳”</font>
+
+1047
+01:31:57,600 --> 01:32:02,600
+<font color="#FFFFFF" size="16">Song:劣等上等 Artist:Giga 翻译:89</font>
+
+1048
+01:32:02,600 --> 01:32:03,680
+<font color="#FFFFFF" size="16">（Grow up! Nah mean?）</font>
+
+1049
+01:32:04,280 --> 01:32:06,520
+<font color="#FFFFFF" size="16">（Track Giga）</font>
+
+1050
+01:32:12,580 --> 01:32:14,0599999999995
+<font color="#FFFFFF" size="16">Hey hey hey hey</font>
+
+1051
+01:32:14,0599999999995 --> 01:32:15,640
+<font color="#FFFFFF" size="16">劣等上等 来吧(BRING IT ON )</font>
+
+1052
+01:32:15,640 --> 01:32:17,0599999999995
+<font color="#FFFFFF" size="16">Hey hey hey hey</font>
+
+1053
+01:32:17,0599999999995 --> 01:32:18,680
+<font color="#FFFFFF" size="16">最赞列岛 不眠日本</font>
+
+1054
+01:32:18,680 --> 01:32:21,320
+<font color="#FFFFFF" size="16">骗小孩玩的数学方程式</font>
+
+1055
+01:32:21,320 --> 01:32:24,420
+<font color="#FFFFFF" size="16">要露馅就等它露呗 反正也没自尊啊</font>
+
+1056
+01:32:24,420 --> 01:32:27,000
+<font color="#FFFFFF" size="16">摆出 了不起的 警钟架势</font>
+
+1057
+01:32:27,000 --> 01:32:30,080
+<font color="#FFFFFF" size="16">总在高处围观也太没意思了</font>
+
+1058
+01:32:30,080 --> 01:32:33,160
+<font color="#FFFFFF" size="16">来啊要再多 浪一点才上好</font>
+
+1059
+01:32:33,160 --> 01:32:35,520
+<font color="#FFFFFF" size="16">将利爪伸向无趣吧</font>
+
+1060
+01:32:36,520 --> 01:32:39,080
+<font color="#FFFFFF" size="16">妈妈，果然我还是</font>
+
+1061
+01:32:39,080 --> 01:32:41,700
+<font color="#FFFFFF" size="16">不想在这种地方就结束掉</font>
+
+1062
+01:32:42,340 --> 01:32:45,020
+<font color="#FFFFFF" size="16">平淡到快疯掉的</font>
+
+1063
+01:32:45,020 --> 01:32:48,040
+<font color="#FFFFFF" size="16">过家家与演戏也都再见吧</font>
+
+1064
+01:32:48,040 --> 01:32:51,580
+<font color="#FFFFFF" size="16">一直保持这个样子什么的</font>
+
+1065
+01:32:51,580 --> 01:32:53,080
+<font color="#FFFFFF" size="16">熬不下去啊</font>
+
+1066
+01:32:53,080 --> 01:32:56,100
+<font color="#FFFFFF" size="16">哒哒哒 我要变成大人</font>
+
+1067
+01:32:56,100 --> 01:32:59,0599999999995
+<font color="#FFFFFF" size="16">就在已尝遍酸甜苦辣的当下</font>
+
+1068
+01:32:59,0599999999995 --> 01:33:01,480
+<font color="#FFFFFF" size="16">啪啪啪 改变的时代</font>
+
+1069
+01:33:01,480 --> 01:33:04,580
+<font color="#FFFFFF" size="16">也不是只有坏处存在对吧</font>
+
+1070
+01:33:04,580 --> 01:33:07,540
+<font color="#FFFFFF" size="16">无论是过去、是罪、是罚、都全部</font>
+
+1071
+01:33:07,540 --> 01:33:11,9400000000005
+<font color="#FFFFFF" size="16">凭双手、凭爱、咬牙活下去后尽数奉还</font>
+
+1072
+01:33:16,580 --> 01:33:17,140
+<font color="#FFFFFF" size="16">HA</font>
+
+1073
+01:33:17,140 --> 01:33:20,080
+<font color="#FFFFFF" size="16">Yeah,挑衅 我们毫不犹豫(no doubt)</font>
+
+1074
+01:33:20,080 --> 01:33:22,080
+<font color="#FFFFFF" size="16">咋老去管那个绿油油的家伙</font>
+
+1075
+01:33:23,300 --> 01:33:26,020
+<font color="#FFFFFF" size="16">来吧 烧吧(burn up) 要到什么时候才能及格</font>
+
+1076
+01:33:26,020 --> 01:33:28,480
+<font color="#FFFFFF" size="16">用红笔帮我改一改嘛到底哪里不好啊</font>
+
+1077
+01:33:28,480 --> 01:33:31,480
+<font color="#FFFFFF" size="16">酒精女人金钱XXXX 啥禁播词都玩玩</font>
+
+1078
+01:33:31,480 --> 01:33:35,160
+<font color="#FFFFFF" size="16">放松一下没啥问题(aiight) ...开玩笑呢黑色幽默嘛</font>
+
+1079
+01:33:35,160 --> 01:33:36,960
+<font color="#FFFFFF" size="16">让人不由得想竖起中指的事</font>
+
+1080
+01:33:36,960 --> 01:33:38,620
+<font color="#FFFFFF" size="16">太多了几根指头都不够所以举起双手吧(hands up)</font>
+
+1081
+01:33:38,620 --> 01:33:39,840
+<font color="#FFFFFF" size="16">以及咋了(and what’s up) 太混蛋？</font>
+
+1082
+01:33:39,840 --> 01:33:41,0599999999995
+<font color="#FFFFFF" size="16">本来就这蠢样 魅力四射(bring it on)</font>
+
+1083
+01:33:41,0599999999995 --> 01:33:43,480
+<font color="#FFFFFF" size="16">「马马虎虎」啥的不需要</font>
+
+1084
+01:33:43,480 --> 01:33:46,380
+<font color="#FFFFFF" size="16">我要贪得无厌一直到死</font>
+
+1085
+01:33:46,840 --> 01:33:49,880
+<font color="#FFFFFF" size="16">变高的个子 对故乡抛个飞吻</font>
+
+1086
+01:33:49,880 --> 01:33:52,980
+<font color="#FFFFFF" size="16">好戏现在才开始上演 给老子瞧好了</font>
+
+1087
+01:33:52,980 --> 01:33:56,080
+<font color="#FFFFFF" size="16">哒哒哒 我们要变成大人</font>
+
+1088
+01:33:56,080 --> 01:33:58,9400000000005
+<font color="#FFFFFF" size="16">做好反攻准备 对那些差劲的日子</font>
+
+1089
+01:33:58,9400000000005 --> 01:34:01,400
+<font color="#FFFFFF" size="16">眈眈地造成一击</font>
+
+1090
+01:34:01,400 --> 01:34:04,580
+<font color="#FFFFFF" size="16">无人可见的未来 又是一个平局吧</font>
+
+1091
+01:34:04,580 --> 01:34:07,460
+<font color="#FFFFFF" size="16">无论是漏洞、是损失、是偏差、都全部</font>
+
+1092
+01:34:07,460 --> 01:34:12,260
+<font color="#FFFFFF" size="16">凭双手、活下去！咬牙活下去后尽数推翻</font>
+
+1093
+01:34:26,0599999999995 --> 01:34:31,180
+<font color="#FFFFFF" size="16">哒哒哒 无法退让的都是些没啥意思的事</font>
+
+1094
+01:34:31,480 --> 01:34:34,100
+<font color="#FFFFFF" size="16">能明白吗？我的美学</font>
+
+1095
+01:34:34,540 --> 01:34:41,160
+<font color="#FFFFFF" size="16">这绝不拐弯的拳头才是（就是这么忠实）</font>
+
+1096
+01:34:41,160 --> 01:34:44,120
+<font color="#FFFFFF" size="16">唯一的王牌（就是这么愚直）</font>
+
+1097
+01:34:44,120 --> 01:34:50,480
+<font color="#FFFFFF" size="16">吼叫着劣等 我先不玩了 再见吧！</font>
+
+1098
+01:35:09,760 --> 01:35:11,160
+<font color="#FFFFFF" size="16">才不是只有这点骨气</font>
+
+1099
+01:35:11,160 --> 01:35:14,080
+<font color="#FFFFFF" size="16">哒哒哒 我要变成大人</font>
+
+1100
+01:35:14,080 --> 01:35:16,980
+<font color="#FFFFFF" size="16">就在已尝遍酸甜苦辣的当下</font>
+
+1101
+01:35:16,980 --> 01:35:19,480
+<font color="#FFFFFF" size="16">灿烂 相交的未来</font>
+
+1102
+01:35:19,480 --> 01:35:22,5599999999995
+<font color="#FFFFFF" size="16">早就不是小孩了你懂的吧</font>
+
+1103
+01:35:22,5599999999995 --> 01:35:25,480
+<font color="#FFFFFF" size="16">时代 机会 不会等待</font>
+
+1104
+01:35:25,480 --> 01:35:29,780000000001
+<font color="#FFFFFF" size="16">凭双手、奋不顾身、咬牙活下去才上好</font>
+
+1105
+01:35:33,760 --> 01:35:36,780000000001
+<font color="#FFFFFF" size="16">有爱的时代</font>
+
+1106
+01:35:44,160 --> 01:35:47,180
+<font color="#FFFFFF" size="16">那么各位请恕我们先 开溜了,伙计们(Bye,Guys!)</font>
+
+1107
+01:35:47,460 --> 01:35:49,740
+<font color="#FFFFFF" size="16">（本会场已经烧开。）</font>
+
+1108
+01:36:02,740 --> 01:36:05,900
+<font color="#FFFFFF" size="16">最后就以这首歌让现场嗨起来吧</font>
+
+1109
+01:36:30,880 --> 01:36:32,880
+<font color="#FFFFFF" size="16">Song:メルト(Melt) Artist:ryo(supercell)</font>
+
+1110
+01:36:32,880 --> 01:36:34,980
+<font color="#FFFFFF" size="16">早晨时 一醒过来</font>
+
+1111
+01:36:34,980 --> 01:36:39,740
+<font color="#FFFFFF" size="16">最先浮现在脑海中的</font>
+
+1112
+01:36:39,740 --> 01:36:42,780000000001
+<font color="#FFFFFF" size="16">就是你的身影</font>
+
+1113
+01:36:44,320 --> 01:36:46,219999999999
+<font color="#FFFFFF" size="16">下定决心</font>
+
+1114
+01:36:46,380 --> 01:36:48,460
+<font color="#FFFFFF" size="16">修剪了刘海</font>
+
+1115
+01:36:48,460 --> 01:36:51,340
+<font color="#FFFFFF" size="16">「怎么了？」像这样子的话</font>
+
+1116
+01:36:51,340 --> 01:36:54,020
+<font color="#FFFFFF" size="16">希望能被你问起</font>
+
+1117
+01:36:54,719999999999 --> 01:36:57,520
+<font color="#FFFFFF" size="16">换上粉红色的裙子</font>
+
+1118
+01:36:57,520 --> 01:37:00,120
+<font color="#FFFFFF" size="16">别上小花型的发饰</font>
+
+1119
+01:37:00,120 --> 01:37:02,969999999999
+<font color="#FFFFFF" size="16">就用这样的打扮出门吧</font>
+
+1120
+01:37:02,969999999999 --> 01:37:06,150
+<font color="#FFFFFF" size="16">今天的我</font>
+
+1121
+01:37:06,150 --> 01:37:09,000
+<font color="#FFFFFF" size="16">很可爱哊！</font>
+
+1122
+01:37:09,000 --> 01:37:13,580
+<font color="#FFFFFF" size="16">Melt 虽然已经感觉彷佛要溶化了</font>
+
+1123
+01:37:13,580 --> 01:37:15,610000000001
+<font color="#FFFFFF" size="16">但是…像是「喜欢你」这种话</font>
+
+1124
+01:37:15,610000000001 --> 01:37:19,210
+<font color="#FFFFFF" size="16">我绝对说不出口…</font>
+
+1125
+01:37:19,210 --> 01:37:21,330
+<font color="#FFFFFF" size="16">…不过 MELT</font>
+
+1126
+01:37:21,330 --> 01:37:24,930
+<font color="#FFFFFF" size="16">连眼神也不敢与你交会</font>
+
+1127
+01:37:24,930 --> 01:37:30,850
+<font color="#FFFFFF" size="16">我不会为了恋爱而谈恋爱的</font>
+
+1128
+01:37:30,850 --> 01:37:36,150
+<font color="#FFFFFF" size="16">可是可是… 我…</font>
+
+1129
+01:37:36,150 --> 01:37:37,540
+<font color="#FFFFFF" size="16">…就是喜欢你</font>
+
+1130
+01:37:48,780000000001 --> 01:37:52,330
+<font color="#FFFFFF" size="16">气象预报撒了个大谎</font>
+
+1131
+01:37:52,330 --> 01:37:59,100
+<font color="#FFFFFF" size="16">就这么下起了滂沱大雨</font>
+
+1132
+01:37:59,680 --> 01:38:02,100
+<font color="#FFFFFF" size="16">看着放在包包中的</font>
+
+1133
+01:38:02,100 --> 01:38:05,860000000001
+<font color="#FFFFFF" size="16">折叠伞 一点也高兴不起来</font>
+
+1134
+01:38:05,860000000001 --> 01:38:08,850
+<font color="#FFFFFF" size="16">不禁叹了口气 接着</font>
+
+1135
+01:38:08,850 --> 01:38:10,860000000001
+<font color="#FFFFFF" size="16">就在这时</font>
+
+1136
+01:38:10,860000000001 --> 01:38:16,300
+<font color="#FFFFFF" size="16">「真是没办法我们一起撑吧」如此说着</font>
+
+1137
+01:38:16,300 --> 01:38:20,850
+<font color="#FFFFFF" size="16">在一旁的你微笑着</font>
+
+1138
+01:38:20,850 --> 01:38:25,170
+<font color="#FFFFFF" size="16">在那瞬间我彷佛听到了坠入情网的声音</font>
+
+1139
+01:38:25,170 --> 01:38:29,850
+<font color="#FFFFFF" size="16">Melt 似乎要窒息一般</font>
+
+1140
+01:38:29,850 --> 01:38:33,260
+<font color="#FFFFFF" size="16">触碰到你的右手</font>
+
+1141
+01:38:33,260 --> 01:38:35,740
+<font color="#FFFFFF" size="16">颤抖着 激烈的心跳</font>
+
+1142
+01:38:35,740 --> 01:38:41,100
+<font color="#FFFFFF" size="16">一半的伞</font>
+
+1143
+01:38:41,100 --> 01:38:44,510
+<font color="#FFFFFF" size="16">只要伸手就能够碰触到的距离</font>
+
+1144
+01:38:44,510 --> 01:38:47,040
+<font color="#FFFFFF" size="16">该怎么办才好…！</font>
+
+1145
+01:38:47,040 --> 01:38:52,400
+<font color="#FFFFFF" size="16">思念啊请传达给你</font>
+
+1146
+01:38:52,400 --> 01:38:56,680
+<font color="#FFFFFF" size="16">拜托时间请停下来</font>
+
+1147
+01:38:56,680 --> 01:38:58,800
+<font color="#FFFFFF" size="16">感觉快要哭出来了</font>
+
+1148
+01:38:58,800 --> 01:39:03,010
+<font color="#FFFFFF" size="16">但是又好高兴</font>
+
+1149
+01:39:03,010 --> 01:39:05,100
+<font color="#FFFFFF" size="16">高兴到快要死掉了！</font>
+
+1150
+01:39:38,380 --> 01:39:42,950
+<font color="#FFFFFF" size="16">Melt 终究还是抵达了车站…</font>
+
+1151
+01:39:42,950 --> 01:39:45,110000000001
+<font color="#FFFFFF" size="16">再也见不到面了</font>
+
+1152
+01:39:45,110000000001 --> 01:39:49,680
+<font color="#FFFFFF" size="16">那么的近却又是那么的遥远 所以啊</font>
+
+1153
+01:39:49,680 --> 01:39:52,160
+<font color="#FFFFFF" size="16">MELT 想要手牵着手</font>
+
+1154
+01:39:52,160 --> 01:39:54,280000000001
+<font color="#FFFFFF" size="16">一起前进！</font>
+
+1155
+01:39:54,280000000001 --> 01:40:00,630
+<font color="#FFFFFF" size="16">已经是不得不说再见的时候了吗？</font>
+
+1156
+01:40:00,630 --> 01:40:03,410
+<font color="#FFFFFF" size="16">现在马上</font>
+
+1157
+01:40:03,410 --> 01:40:05,740
+<font color="#FFFFFF" size="16">抱紧我！</font>
+
+1158
+01:40:05,740 --> 01:40:07,340
+<font color="#FFFFFF" size="16">…只是想想而已</font>
+
+1159
+01:44:10,660 --> 01:44:15,660
+<font color="#FFFFFF" size="16">Song:テオ(将手) Artist:Omoi 翻译:寒澈</font>
+
+1160
+01:44:15,660 --> 01:44:21,120
+<font color="#FFFFFF" size="16">思考着 就这样一直下去 隐藏着自己好吗？</font>
+
+1161
+01:44:21,240 --> 01:44:26,020
+<font color="#FFFFFF" size="16">再回去的时候 能够说出“再见”吗？</font>
+
+1162
+01:44:26,020 --> 01:44:31,700
+<font color="#FFFFFF" size="16">视线落下 那一日消退时 稍微有点融化了</font>
+
+1163
+01:44:31,700 --> 01:44:38,800
+<font color="#FFFFFF" size="16">一定没事的 我们一定会再一次重逢</font>
+
+1164
+01:44:41,360000000001 --> 01:44:42,680
+<font color="#FFFFFF" size="16">闭上眼睛</font>
+
+1165
+01:44:42,680 --> 01:44:47,300
+<font color="#FFFFFF" size="16">小小的愿望 还残留着吗</font>
+
+1166
+01:44:47,300 --> 01:44:51,840
+<font color="#FFFFFF" size="16">当光线又回来时 只是现在还能说出口吗</font>
+
+1167
+01:44:51,840 --> 01:44:53,080
+<font color="#FFFFFF" size="16">不能不去啊</font>
+
+1168
+01:44:53,080 --> 01:44:57,680
+<font color="#FFFFFF" size="16">世界上最美丽的东西那</font>
+
+1169
+01:44:57,680 --> 01:45:00,260
+<font color="#FFFFFF" size="16">如今已被掠夺分散</font>
+
+1170
+01:45:00,260 --> 01:45:02,380
+<font color="#FFFFFF" size="16">要把它们都夺取回来!</font>
+
+1171
+01:45:02,380 --> 01:45:03,260
+<font color="#FFFFFF" size="16">更加地！</font>
+
+1172
+01:45:03,260 --> 01:45:05,880
+<font color="#FFFFFF" size="16">晕眩晕眩晕眩　令我晕头转向吧</font>
+
+1173
+01:45:05,880 --> 01:45:08,540
+<font color="#FFFFFF" size="16">摇荡摇荡摇荡　让我看见波澜起伏吧</font>
+
+1174
+01:45:08,540 --> 01:45:11,320
+<font color="#FFFFFF" size="16">闪烁闪烁闪烁　闪耀光芒吧</font>
+
+1175
+01:45:12,960 --> 01:45:13,580
+<font color="#FFFFFF" size="16">轻轻地</font>
+
+1176
+01:45:13,580 --> 01:45:16,280000000001
+<font color="#FFFFFF" size="16">试着呼唤受伤的夜</font>
+
+1177
+01:45:16,280000000001 --> 01:45:18,860000000001
+<font color="#FFFFFF" size="16">对它施展一个小小的魔法</font>
+
+1178
+01:45:18,860000000001 --> 01:45:22,280000000001
+<font color="#FFFFFF" size="16">只需如此我们就能展翅翱翔了！</font>
+
+1179
+01:45:22,780000000001 --> 01:45:25,380
+<font color="#FFFFFF" size="16">不要移开！你的视线</font>
+
+1180
+01:45:25,380 --> 01:45:27,980
+<font color="#FFFFFF" size="16">我们已经 无法停止了</font>
+
+1181
+01:45:27,980 --> 01:45:30,380
+<font color="#FFFFFF" size="16">直到 魔法解除之前</font>
+
+1182
+01:45:30,380 --> 01:45:33,380
+<font color="#FFFFFF" size="16">都要紧紧牵着　将这双手</font>
+
+1183
+01:45:33,380 --> 01:45:35,680
+<font color="#FFFFFF" size="16">毫无保留地被夺走一切</font>
+
+1184
+01:45:35,780000000001 --> 01:45:38,340
+<font color="#FFFFFF" size="16">只要把全部都取回来就好</font>
+
+1185
+01:45:38,340 --> 01:45:40,920
+<font color="#FFFFFF" size="16">直到　魔法解除之前</font>
+
+1186
+01:45:40,920 --> 01:45:46,580
+<font color="#FFFFFF" size="16">都要紧紧牵着　将这双手　这双手</font>
+
+1187
+01:46:10,360000000001 --> 01:46:12,800
+<font color="#FFFFFF" size="16">至今为止被夺走的部分</font>
+
+1188
+01:46:12,800 --> 01:46:14,800
+<font color="#FFFFFF" size="16">不取回不罢休！</font>
+
+1189
+01:46:15,219999999999 --> 01:46:16,020
+<font color="#FFFFFF" size="16">轻轻地</font>
+
+1190
+01:46:16,020 --> 01:46:18,580
+<font color="#FFFFFF" size="16">试着呼唤受伤的夜</font>
+
+1191
+01:46:18,580 --> 01:46:21,180
+<font color="#FFFFFF" size="16">对它施展一个小小的魔法</font>
+
+1192
+01:46:21,180 --> 01:46:23,980
+<font color="#FFFFFF" size="16">只需如此我们就能展翅翱翔了！</font>
+
+1193
+01:46:25,760 --> 01:46:26,360000000001
+<font color="#FFFFFF" size="16">更加地！</font>
+
+1194
+01:46:26,360000000001 --> 01:46:28,920
+<font color="#FFFFFF" size="16">晕眩晕眩晕眩　令我晕头转向吧</font>
+
+1195
+01:46:28,920 --> 01:46:31,580
+<font color="#FFFFFF" size="16">摇荡摇荡摇荡　让我看见波澜起伏吧</font>
+
+1196
+01:46:31,580 --> 01:46:34,760
+<font color="#FFFFFF" size="16">闪烁闪烁闪烁　闪耀光芒吧</font>
+
+1197
+01:46:35,400 --> 01:46:38,120
+<font color="#FFFFFF" size="16">不要移开！　你的视线</font>
+
+1198
+01:46:38,120 --> 01:46:40,680
+<font color="#FFFFFF" size="16">我们已经　无法停止了</font>
+
+1199
+01:46:40,680 --> 01:46:43,280000000001
+<font color="#FFFFFF" size="16">直到　魔法解除之前</font>
+
+1200
+01:46:43,280000000001 --> 01:46:46,040
+<font color="#FFFFFF" size="16">都要紧紧牵着　将这双手</font>
+
+1201
+01:46:46,040 --> 01:46:48,420
+<font color="#FFFFFF" size="16">毫无保留地被夺走一切</font>
+
+1202
+01:46:48,420 --> 01:46:51,000
+<font color="#FFFFFF" size="16">只要把全部都取回来就好</font>
+
+1203
+01:46:51,000 --> 01:46:53,580
+<font color="#FFFFFF" size="16">直到　魔法解除之前</font>
+
+1204
+01:46:53,580 --> 01:47:00,260
+<font color="#FFFFFF" size="16">都要紧紧牵着　将这双手　这双手</font>
+
+1205
+01:47:28,740 --> 01:47:33,740
+<font color="#FFFFFF" size="16">Song:爱の诗(爱之诗) Artist:LamazeP 翻译:唐伞小僧</font>
+
+1206
+01:47:33,740 --> 01:47:36,4400000000005
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪呜啪啪—</font>
+
+1207
+01:47:36,4400000000005 --> 01:47:38,840
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1208
+01:47:39,000 --> 01:47:41,680
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪呜啪啪—</font>
+
+1209
+01:47:41,680 --> 01:47:44,320
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1210
+01:47:44,320 --> 01:47:48,600
+<font color="#FFFFFF" size="16">因眼前散落的信息 而蒙蔽了双眼</font>
+
+1211
+01:47:48,600 --> 01:47:54,800
+<font color="#FFFFFF" size="16">自己所描绘的重要之物 可曾迷失？</font>
+
+1212
+01:47:54,800 --> 01:47:59,980
+<font color="#FFFFFF" size="16">若被你说喜欢 我的世界便会因此改变</font>
+
+1213
+01:47:59,980 --> 01:48:05,680
+<font color="#FFFFFF" size="16">仿佛拒绝一般躲开 你为何在落泪呢？</font>
+
+1214
+01:48:05,680 --> 01:48:10,760
+<font color="#FFFFFF" size="16">战战兢兢地 寻求过</font>
+
+1215
+01:48:10,760 --> 01:48:18,980
+<font color="#FFFFFF" size="16">真正的答案 去找寻它吧(呜—啪啪呜啪啪呜—啪呜啪啪—！)</font>
+
+1216
+01:48:18,980 --> 01:48:21,460
+<font color="#FFFFFF" size="16">我会好好看着你 会紧紧握住你</font>
+
+1217
+01:48:21,460 --> 01:48:29,620
+<font color="#FFFFFF" size="16">我的眼睛 不会让你逃离 维系在手中的思念</font>
+
+1218
+01:48:29,620 --> 01:48:32,200
+<font color="#FFFFFF" size="16">想让你哪怕微微一笑也好</font>
+
+1219
+01:48:32,200 --> 01:48:36,600
+<font color="#FFFFFF" size="16">用笨拙又颤抖着的声音向你传达</font>
+
+1220
+01:48:36,600 --> 01:48:43,080
+<font color="#FFFFFF" size="16">被称为爱之诗的奇迹(呜—啪啪呜啪啪呜—啪呜啪呜啪啪—)</font>
+
+1221
+01:48:43,080 --> 01:48:45,540
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1222
+01:48:45,540 --> 01:48:48,360000000001
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪呜啪啪—</font>
+
+1223
+01:48:48,360000000001 --> 01:48:50,820
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1224
+01:48:50,920 --> 01:48:55,320
+<font color="#FFFFFF" size="16">连隐藏起来的事 都在无意中吐露出来</font>
+
+1225
+01:48:55,320 --> 01:49:01,540
+<font color="#FFFFFF" size="16">自己心中的宝物 可曾忘却？</font>
+
+1226
+01:49:01,540 --> 01:49:06,719999999999
+<font color="#FFFFFF" size="16">已设定好的 这份感情</font>
+
+1227
+01:49:06,719999999999 --> 01:49:12,360000000001
+<font color="#FFFFFF" size="16">无法拥有真实形体 为何传达不了呢？</font>
+
+1228
+01:49:12,360000000001 --> 01:49:14,719999999999
+<font color="#FFFFFF" size="16">批判式的想法</font>
+
+1229
+01:49:14,980 --> 01:49:17,580
+<font color="#FFFFFF" size="16">只会令自己心灰意冷</font>
+
+1230
+01:49:17,580 --> 01:49:25,680
+<font color="#FFFFFF" size="16">但只要我能够成为 那唯一的希望(呜—啪啪呜啪啪呜—啪呜啪啪—！)</font>
+
+1231
+01:49:25,680 --> 01:49:28,200
+<font color="#FFFFFF" size="16">我会好好在意你 会紧紧拥抱你</font>
+
+1232
+01:49:28,200 --> 01:49:32,700
+<font color="#FFFFFF" size="16">轻吻你脸颊流落的泪滴</font>
+
+1233
+01:49:32,700 --> 01:49:36,260
+<font color="#FFFFFF" size="16">心动于你害羞的表情</font>
+
+1234
+01:49:36,260 --> 01:49:38,800
+<font color="#FFFFFF" size="16">执着于一事并沉迷其中</font>
+
+1235
+01:49:38,800 --> 01:49:43,260
+<font color="#FFFFFF" size="16">那样的你无比帅气</font>
+
+1236
+01:49:43,260 --> 01:49:48,4400000000005
+<font color="#FFFFFF" size="16">只有我才能明白</font>
+
+1237
+01:49:48,4400000000005 --> 01:49:52,580
+<font color="#FFFFFF" size="16">请接受我的爱之诗</font>
+
+1238
+01:49:52,580 --> 01:49:54,980
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪呜啪啪—</font>
+
+1239
+01:49:54,980 --> 01:49:57,420
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1240
+01:49:57,700 --> 01:50:00,420
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪呜啪啪—</font>
+
+1241
+01:50:00,420 --> 01:50:02,820
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1242
+01:50:24,380 --> 01:50:26,800
+<font color="#FFFFFF" size="16">我会好好看着你 会紧紧握住你</font>
+
+1243
+01:50:26,800 --> 01:50:34,840
+<font color="#FFFFFF" size="16">我的眼睛 不会放你走 维系在手中的思念</font>
+
+1244
+01:50:34,840 --> 01:50:37,500
+<font color="#FFFFFF" size="16">想让你哪怕微微一笑也好</font>
+
+1245
+01:50:37,500 --> 01:50:41,980
+<font color="#FFFFFF" size="16">用笨拙又颤抖着的声音向你传达</font>
+
+1246
+01:50:41,980 --> 01:50:47,5599999999995
+<font color="#FFFFFF" size="16">被称为爱之诗的奇迹</font>
+
+1247
+01:51:01,219999999999 --> 01:51:03,960
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪呜啪啪—</font>
+
+1248
+01:51:03,960 --> 01:51:06,4400000000005
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1249
+01:51:06,5599999999995 --> 01:51:09,280000000001
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪呜啪啪—</font>
+
+1250
+01:51:09,280000000001 --> 01:51:11,680
+<font color="#FFFFFF" size="16">呜—啪啪呜啪啪呜—啪呜啪啪—！</font>
+
+1251
+01:51:36,500 --> 01:51:41,500
+<font color="#FFFFFF" size="16">Song:Pick Me UP Artist:敌门</font>
+
+1252
+01:51:41,500 --> 01:51:43,490
+<font color="#FFFFFF" size="16">Stand Up 爆发音浪</font>
+
+1253
+01:51:43,490 --> 01:51:44,980
+<font color="#FFFFFF" size="16">现在是我的主场</font>
+
+1254
+01:51:44,980 --> 01:51:46,750
+<font color="#FFFFFF" size="16">双手舞动飞扬</font>
+
+1255
+01:51:46,750 --> 01:51:48,4400000000005
+<font color="#FFFFFF" size="16">聚光灯因我照亮</font>
+
+1256
+01:51:48,4400000000005 --> 01:51:53,280000000001
+<font color="#FFFFFF" size="16">全场闪耀的荧光棒</font>
+
+1257
+01:51:53,280000000001 --> 01:51:53,730
+<font color="#FFFFFF" size="16">Come on</font>
+
+1258
+01:51:53,730 --> 01:51:54,110000000001
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1259
+01:51:54,110000000001 --> 01:51:54,510
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1260
+01:51:54,510 --> 01:51:55,610000000001
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1261
+01:52:09,660 --> 01:52:12,530000000001
+<font color="#FFFFFF" size="16">许下一个愿望</font>
+
+1262
+01:52:12,530000000001 --> 01:52:15,480
+<font color="#FFFFFF" size="16">挑战了幻想</font>
+
+1263
+01:52:15,480 --> 01:52:17,139999999999
+<font color="#FFFFFF" size="16">可现实的冲击</font>
+
+1264
+01:52:17,139999999999 --> 01:52:19,1900000000005
+<font color="#FFFFFF" size="16">很受打击</font>
+
+1265
+01:52:19,1900000000005 --> 01:52:23,120
+<font color="#FFFFFF" size="16">偷偷躲着悲伤</font>
+
+1266
+01:52:23,120 --> 01:52:25,840
+<font color="#FFFFFF" size="16">期待的小愿望</font>
+
+1267
+01:52:25,840 --> 01:52:29,210
+<font color="#FFFFFF" size="16">遇上了小彷徨</font>
+
+1268
+01:52:29,210 --> 01:52:30,850
+<font color="#FFFFFF" size="16">是否能自信的</font>
+
+1269
+01:52:30,850 --> 01:52:32,969999999999
+<font color="#FFFFFF" size="16">鼓起勇气</font>
+
+1270
+01:52:32,969999999999 --> 01:52:35,980
+<font color="#FFFFFF" size="16">来到你身旁</font>
+
+1271
+01:52:36,610000000001 --> 01:52:38,600
+<font color="#FFFFFF" size="16">No 睁大双眼</font>
+
+1272
+01:52:38,600 --> 01:52:40,110000000001
+<font color="#FFFFFF" size="16">朝着期待的方向</font>
+
+1273
+01:52:40,110000000001 --> 01:52:41,680
+<font color="#FFFFFF" size="16">Go 握紧手心</font>
+
+1274
+01:52:41,680 --> 01:52:43,360000000001
+<font color="#FFFFFF" size="16">旋律正回荡飘扬</font>
+
+1275
+01:52:43,360000000001 --> 01:52:45,320
+<font color="#FFFFFF" size="16">Yes 我的声音</font>
+
+1276
+01:52:45,320 --> 01:52:47,130
+<font color="#FFFFFF" size="16">不惧怕风雨捶打</font>
+
+1277
+01:52:47,130 --> 01:52:48,010
+<font color="#FFFFFF" size="16">再艰辛 再苦涩</font>
+
+1278
+01:52:48,010 --> 01:52:50,219999999999
+<font color="#FFFFFF" size="16">也逆风茁壮</font>
+
+1279
+01:52:50,420 --> 01:52:51,9400000000005
+<font color="#FFFFFF" size="16">Speed Up 穿越幻想</font>
+
+1280
+01:52:51,9400000000005 --> 01:52:53,780000000001
+<font color="#FFFFFF" size="16">站在了舞台中央</font>
+
+1281
+01:52:53,780000000001 --> 01:52:55,480
+<font color="#FFFFFF" size="16">双手舞动飞扬</font>
+
+1282
+01:52:55,480 --> 01:52:57,139999999999
+<font color="#FFFFFF" size="16">聚光灯因我照亮</font>
+
+1283
+01:52:57,139999999999 --> 01:53:02,200
+<font color="#FFFFFF" size="16">傻笑 不是我的专长</font>
+
+1284
+01:53:02,200 --> 01:53:04,120
+<font color="#FFFFFF" size="16">我要沸腾全场</font>
+
+1285
+01:53:04,120 --> 01:53:05,770
+<font color="#FFFFFF" size="16">Stand Up 爆发音浪</font>
+
+1286
+01:53:05,770 --> 01:53:07,500
+<font color="#FFFFFF" size="16">现在是我的主场</font>
+
+1287
+01:53:07,500 --> 01:53:09,530000000001
+<font color="#FFFFFF" size="16">共鸣我的声音</font>
+
+1288
+01:53:09,530000000001 --> 01:53:10,920
+<font color="#FFFFFF" size="16">抹掉了你的泪光</font>
+
+1289
+01:53:10,920 --> 01:53:15,770
+<font color="#FFFFFF" size="16">全场闪耀的荧光棒</font>
+
+1290
+01:53:15,770 --> 01:53:16,260
+<font color="#FFFFFF" size="16">Come on</font>
+
+1291
+01:53:16,260 --> 01:53:16,480
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1292
+01:53:16,480 --> 01:53:17,250
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1293
+01:53:17,250 --> 01:53:18,610000000001
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1294
+01:53:32,700 --> 01:53:35,290
+<font color="#FFFFFF" size="16">我们背离轨道</font>
+
+1295
+01:53:35,290 --> 01:53:38,400
+<font color="#FFFFFF" size="16">迷途中徘徊</font>
+
+1296
+01:53:38,400 --> 01:53:39,830
+<font color="#FFFFFF" size="16">在人流间冲散</font>
+
+1297
+01:53:39,830 --> 01:53:41,960
+<font color="#FFFFFF" size="16">他们嘲笑</font>
+
+1298
+01:53:41,960 --> 01:53:45,990
+<font color="#FFFFFF" size="16">否定这份期待</font>
+
+1299
+01:53:45,990 --> 01:53:48,630
+<font color="#FFFFFF" size="16">偷偷抹掉眼泪</font>
+
+1300
+01:53:48,630 --> 01:53:51,950
+<font color="#FFFFFF" size="16">深呼吸再次重来</font>
+
+1301
+01:53:51,950 --> 01:53:53,670
+<font color="#FFFFFF" size="16">我深信与你的</font>
+
+1302
+01:53:53,670 --> 01:53:55,610000000001
+<font color="#FFFFFF" size="16">这份羁绊</font>
+
+1303
+01:53:55,610000000001 --> 01:53:58,330
+<font color="#FFFFFF" size="16">能改写未来</font>
+
+1304
+01:53:59,360000000001 --> 01:54:01,270
+<font color="#FFFFFF" size="16">Hey 睁大双眼</font>
+
+1305
+01:54:01,270 --> 01:54:02,920
+<font color="#FFFFFF" size="16">朝着期待的方向</font>
+
+1306
+01:54:02,920 --> 01:54:04,610000000001
+<font color="#FFFFFF" size="16">Go 握紧手心</font>
+
+1307
+01:54:04,610000000001 --> 01:54:06,170
+<font color="#FFFFFF" size="16">旋律正回荡飘扬</font>
+
+1308
+01:54:06,170 --> 01:54:08,510
+<font color="#FFFFFF" size="16">Yes 我的声音</font>
+
+1309
+01:54:08,510 --> 01:54:09,920
+<font color="#FFFFFF" size="16">不惧怕风雨捶打</font>
+
+1310
+01:54:09,920 --> 01:54:11,6900000000005
+<font color="#FFFFFF" size="16">再艰辛 再苦涩</font>
+
+1311
+01:54:11,6900000000005 --> 01:54:13,110000000001
+<font color="#FFFFFF" size="16">也逆风茁壮</font>
+
+1312
+01:54:15,290 --> 01:54:16,719999999999
+<font color="#FFFFFF" size="16">Speed Up 穿越幻想</font>
+
+1313
+01:54:16,719999999999 --> 01:54:18,670
+<font color="#FFFFFF" size="16">站在了舞台中央</font>
+
+1314
+01:54:18,670 --> 01:54:20,480
+<font color="#FFFFFF" size="16">双手舞动飞扬</font>
+
+1315
+01:54:20,480 --> 01:54:22,050
+<font color="#FFFFFF" size="16">聚光灯因我照亮</font>
+
+1316
+01:54:22,050 --> 01:54:27,180
+<font color="#FFFFFF" size="16">傻笑 不是我的专长</font>
+
+1317
+01:54:27,180 --> 01:54:29,000
+<font color="#FFFFFF" size="16">我要沸腾全场</font>
+
+1318
+01:54:29,000 --> 01:54:30,630
+<font color="#FFFFFF" size="16">Stand Up 爆发音浪</font>
+
+1319
+01:54:30,630 --> 01:54:32,420
+<font color="#FFFFFF" size="16">现在是我的主场</font>
+
+1320
+01:54:32,420 --> 01:54:34,360000000001
+<font color="#FFFFFF" size="16">共鸣我的声音</font>
+
+1321
+01:54:34,360000000001 --> 01:54:35,780000000001
+<font color="#FFFFFF" size="16">抹掉了你的泪光</font>
+
+1322
+01:54:35,780000000001 --> 01:54:40,920
+<font color="#FFFFFF" size="16">全场闪耀的荧光棒</font>
+
+1323
+01:54:40,920 --> 01:54:41,200
+<font color="#FFFFFF" size="16">Come on</font>
+
+1324
+01:54:41,200 --> 01:54:41,719999999999
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1325
+01:54:41,719999999999 --> 01:54:42,290
+<font color="#FFFFFF" size="16">Pick me up</font>
+
+1326
+01:54:42,290 --> 01:54:43,500
+<font color="#FFFFFF" size="16">Pick me up</font>
