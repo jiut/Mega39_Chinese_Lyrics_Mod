@@ -24,7 +24,6 @@ Chinese lyric translation mod for 初音未来/Hatsune Miku: Project DIVA Mega 3
 更新日志：
 
 1.0.3：
-
 更新DivaModLoader v0.0.4
 
 1.0.2：
