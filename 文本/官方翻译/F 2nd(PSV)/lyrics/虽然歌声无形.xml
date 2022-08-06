@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringArray xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Format>F2nd</Format>
+  <Endianness>Little</Endianness>
+  <Strings>
+    <StringEntry>
+      <Value>雖然歌是無形的</Value>
+      <Id>20065000</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>5160</Value>
+      <Id>20065001</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>doriko</Value>
+      <Id>20065002</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>doriko</Value>
+      <Id>20065003</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>doriko</Value>
+      <Id>20065004</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>為淺紅時分添色的花瓣</Value>
+      <Id>20065010</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>翩翩飛舞在光芒之中</Value>
+      <Id>20065011</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我應該有面帶微笑吧</Value>
+      <Id>20065012</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>在光鮮亮麗的每一天</Value>
+      <Id>20065013</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我們所留下的</Value>
+      <Id>20065014</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>沙堡已消失在波浪裡</Value>
+      <Id>20065015</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>這場夢終究會結束</Value>
+      <Id>20065016</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>若在純白的世界中醒來</Value>
+      <Id>20065017</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>伸出的手卻什麼也抓不住</Value>
+      <Id>20065018</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>仰望的天空越迫近</Value>
+      <Id>20065019</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我越失去了什麼？</Value>
+      <Id>20065020</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>清澈通透的海浪</Value>
+      <Id>20065021</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>無論消失多少次</Value>
+      <Id>20065022</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>那座沙堡我和你都會留下吧</Value>
+      <Id>20065023</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>就在那裡聚集光芒</Value>
+      <Id>20065024</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我將放聲高歌</Value>
+      <Id>20065025</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>給我微笑的你哭泣時</Value>
+      <Id>20065026</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>即使是不可靠的我</Value>
+      <Id>20065027</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>也想要守護你</Value>
+      <Id>20065028</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>向遙遠的你那端</Value>
+      <Id>20065029</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>這道光芒</Value>
+      <Id>20065030</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>會穿越天際展翅翱翔而去</Value>
+      <Id>20065031</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>想傳達給你這樣的歌聲</Value>
+      <Id>20065032</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>雖然我贈與的全部</Value>
+      <Id>20065033</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>都是無形之物</Value>
+      <Id>20065034</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>但願在你心中一隅</Value>
+      <Id>20065035</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>成為璀璨的星辰</Value>
+      <Id>20065036</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>薄紅の時を彩る花びら </Value>
+      <Id>20065510</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>ひらひら舞う光の中 </Value>
+      <Id>20065511</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕は笑えたはず</Value>
+      <Id>20065512</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>鮮やかな日々に </Value>
+      <Id>20065513</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕らが残した </Value>
+      <Id>20065514</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>砂の城は波に溶けて </Value>
+      <Id>20065515</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>きっと夢が終わる</Value>
+      <Id>20065516</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>真っ白な世界で目を覚ませば </Value>
+      <Id>20065517</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>伸ばす腕は何もつかめない </Value>
+      <Id>20065518</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>見上げた空が近くなるほどに </Value>
+      <Id>20065519</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕は何を失った？</Value>
+      <Id>20065520</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>透通る波 </Value>
+      <Id>20065521</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>何度消えてしまっても </Value>
+      <Id>20065522</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>砂の城を僕は君と残すだろう </Value>
+      <Id>20065523</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>そこに光を集め</Value>
+      <Id>20065524</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕は歌うよ </Value>
+      <Id>20065525</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>笑顔をくれた君が泣いてるとき </Value>
+      <Id>20065526</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>頼りのない僕だけれど </Value>
+      <Id>20065527</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君のことを守りたい</Value>
+      <Id>20065528</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>遠く離れた君のもとへ </Value>
+      <Id>20065529</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>この光が </Value>
+      <Id>20065530</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>空を越えて羽ばたいてゆく </Value>
+      <Id>20065531</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>そんな歌を届けたい</Value>
+      <Id>20065532</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕が贈るものは全て </Value>
+      <Id>20065533</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>形のないものだけど </Value>
+      <Id>20065534</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君の心の片隅で </Value>
+      <Id>20065535</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>輝く星になりたい</Value>
+      <Id>20065536</Id>
+    </StringEntry>
+  </Strings>
+</StringArray>

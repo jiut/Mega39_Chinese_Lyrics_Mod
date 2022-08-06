@@ -1,0 +1,768 @@
+pv_001.song_name.cn=恋爱战争
+pv_001.song_name=恋は戦争
+
+pv_002.song_name.cn=世界第一的公主殿下
+pv_002.song_name=ワールドイズマイン
+
+pv_003.song_name.cn=One Second Slow-Motion
+pv_003.song_name=その一秒スローモーション
+
+pv_004.song_name.cn=乖僻之人
+pv_004.song_name=ひねくれ者
+
+pv_005.song_name.cn=Melt
+pv_005.song_name=メルト
+
+pv_006.song_name.cn=Far Away
+pv_006.song_name=Far Away
+
+pv_007.song_name.cn=流光之夜
+pv_007.song_name=ストロボナイツ
+
+pv_008.song_name.cn=Star Story
+pv_008.song_name=Star Story
+
+pv_009.song_name.cn=Last Night, Good Night
+pv_009.song_name=Last Night, Good Night
+
+pv_010.song_name.cn=Packaged
+pv_010.song_name=Packaged
+
+pv_011.song_name.cn=雨后的Sweet*Drops
+pv_011.song_name=雨のちSweet*Drops
+
+pv_012.song_name.cn=Marginal
+pv_012.song_name=マージナル
+
+pv_013.song_name.cn=不悦的华尔滋
+pv_013.song_name=フキゲンワルツ
+
+pv_014.song_name.cn=Miracle Paint
+pv_014.song_name=ミラクルペイント
+
+pv_015.song_name.cn=梦想树叶
+pv_015.song_name=Dreaming Leaf -ユメミルコトノハ-
+
+pv_016.song_name.cn=恋爱的ＶＯＣ＠ＬＯＩＤ
+pv_016.song_name=恋スルＶＯＣ＠ＬＯＩＤ
+
+pv_017.song_name.cn=荒野、森林和魔法的歌
+pv_017.song_name=荒野と森と魔法の歌
+
+pv_018.song_name.cn=生命之歌
+pv_018.song_name=いのちの歌
+
+pv_020.song_name.cn=moon
+pv_020.song_name=moon
+
+pv_021.song_name.cn=MIKU菌出没注意♪
+pv_021.song_name=みくみく菌にご注意♪
+
+pv_022.song_name.cn=The secret garden
+pv_022.song_name=The secret garden
+
+pv_023.song_name.cn=Dear cocoa girls
+pv_023.song_name=Dear cocoa girls
+
+pv_024.song_name.cn=天鹅绒制的阿拉伯式花纹
+pv_024.song_name=天鵞絨アラベスク
+
+pv_025.song_name.cn=恋爱列表更新中?
+pv_025.song_name=ラブリスト更新中？
+
+pv_028.song_name.cn=把你给MIKUMIKU掉♪【MIKU掉】
+pv_028.song_name=みくみくにしてあげる♪【してやんよ】
+
+pv_029.song_name.cn=在金色圣夜的霜雪中枯朽而去
+pv_029.song_name=金の聖夜霜雪に朽ちて
+
+pv_030.song_name.cn=电子天使
+pv_030.song_name=えれくとりっく・えんじぇぅ
+
+pv_031.song_name.cn=你的歌姬
+pv_031.song_name=あなたの歌姫
+
+pv_032.song_name.cn=初音未来的消失
+pv_032.song_name=初音ミクの消失
+
+pv_037.song_name.cn=初恋终结之时
+pv_037.song_name=初めての恋が終わる時
+
+pv_038.song_name.cn=向我这边看 Baby
+pv_038.song_name=こっち向いて Baby
+
+pv_039.song_name.cn=Finder (DSLR remix - re:edit)
+pv_039.song_name=ファインダー(DSLR remix - re:edit)
+
+pv_040.song_name.cn=Yellow
+pv_040.song_name=Yellow
+
+pv_041.song_name.cn=Colorful × Melody
+pv_041.song_name=カラフル×メロディ
+
+pv_042.song_name.cn=初音未来的激唱
+pv_042.song_name=初音ミクの激唱
+
+pv_043.song_name.cn=罗密欧与灰姑娘
+pv_043.song_name=ロミオとシンデレラ
+
+pv_044.song_name.cn=magnet
+pv_044.song_name=magnet
+
+pv_045.song_name.cn=Dear
+pv_045.song_name=Dear
+
+pv_046.song_name.cn=from Y to Y
+pv_046.song_name=from Y to Y
+
+pv_047.song_name.cn=双子座
+pv_047.song_name=ジェミニ
+
+pv_048.song_name.cn=爱言叶
+pv_048.song_name=愛言葉
+
+pv_049.song_name.cn=Po Pi Po
+pv_049.song_name=ぽっぴっぽー
+
+pv_050.song_name.cn=最终之所
+pv_050.song_name=サイハテ
+
+pv_051.song_name.cn=VOiCE -DIVA　MIX-
+pv_051.song_name=VOiCE -DIVA　MIX-
+
+pv_052.song_name.cn=恋色病栋
+pv_052.song_name=恋色病棟
+
+pv_053.song_name.cn=巨大少女
+pv_053.song_name=巨大少女
+
+pv_054.song_name.cn=炉心融解
+pv_054.song_name=炉心融解
+
+pv_055.song_name.cn=心
+pv_055.song_name=ココロ
+
+pv_056.song_name.cn=右肩之蝶
+pv_056.song_name=右肩の蝶
+
+pv_057.song_name.cn=Double Lariat
+pv_057.song_name=ダブルラリアット
+
+pv_058.song_name.cn=坎特雷拉
+pv_058.song_name=カンタレラ
+
+pv_059.song_name.cn=Change me
+pv_059.song_name=Change me
+
+pv_060.song_name.cn=Sound
+pv_060.song_name=サウンド
+
+pv_061.song_name.cn=Clover♣Club
+pv_061.song_name=クローバー・クラブ
+
+pv_062.song_name.cn=Promise
+pv_062.song_name=Promise
+
+pv_063.song_name.cn=其实我都知道的
+pv_063.song_name=ほんとは分かってる
+
+pv_064.song_name.cn=Innocence
+pv_064.song_name=Innocence
+
+pv_065.song_name.cn=最初的声音
+pv_065.song_name=ハジメテノオト
+
+pv_066.song_name.cn=Just Be Friends
+pv_066.song_name=Just Be Friends
+
+pv_067.song_name.cn=在金色圣夜的霜雪中枯朽而去（extend版）
+pv_067.song_name=金の聖夜霜雪に朽ちて（extend版)
+
+pv_068.song_name.cn=电子天使（extend版）
+pv_068.song_name=えれくとりっく・えんじぇぅ（extend版)
+
+pv_079.song_name.cn=SPiCa -39's Giving Day Edition-
+pv_079.song_name=SPiCa -39's Giving Day Edition-
+
+pv_081.song_name.cn=虽然歌声无形
+pv_081.song_name=歌に形はないけれど
+
+pv_082.song_name.cn=里表Lovers
+pv_082.song_name=裏表ラバーズ
+
+pv_083.song_name.cn=*你好，行星。(I.M.PLSE-EDIT)
+pv_083.song_name=*ハロー、プラネット。(I.M.PLSE-EDIT)
+
+pv_084.song_name.cn=直至无尽的远方
+pv_084.song_name=那由他の彼方まで
+
+pv_085.song_name.cn=孤独的尽头 -extend edition-
+pv_085.song_name=孤独の果て -extend edition-
+
+pv_086.song_name.cn=Puzzle
+pv_086.song_name=パズル
+
+pv_087.song_name.cn=Palette
+pv_087.song_name=Palette
+
+pv_088.song_name.cn=千年的独奏歌 (DIVA edit)
+pv_088.song_name=千年の独奏歌 (DIVA edit)
+
+pv_089.song_name.cn=忘却心中
+pv_089.song_name=忘却心中
+
+pv_090.song_name.cn=连起来又分开罗刹与骨骸
+pv_090.song_name=結んで開いて羅刹と骸
+
+pv_091.song_name.cn=Rolling Girl
+pv_091.song_name=ローリンガール
+
+pv_092.song_name.cn=Starduster
+pv_092.song_name=Starduster
+
+pv_093.song_name.cn=Paradichlorobenzene
+pv_093.song_name=パラジクロロベンゼン
+
+pv_094.song_name.cn=番风
+pv_094.song_name=番凩
+
+pv_095.song_name.cn=猫耳开关
+pv_095.song_name=ねこみみスイッチ
+
+pv_096.song_name.cn=积雨云Graffiti
+pv_096.song_name=積乱雲グラフィティ
+
+pv_097.song_name.cn=恋爱信号 -Append Mix-
+pv_097.song_name=リンリンシグナル -Append Mix-
+
+pv_101.song_name.cn=Magical Sound Shower
+pv_101.song_name=Magical Sound Shower
+
+pv_102.song_name.cn=多重未来的四重奏 -Quartet Theme-
+pv_102.song_name=多重未来のカルテット -Quartet Theme-
+
+pv_103.song_name.cn=AFTER BURNER
+pv_103.song_name=AFTER BURNER
+
+pv_104.song_name.cn=LIKE THE WIND
+pv_104.song_name=LIKE THE WIND
+
+pv_201.song_name.cn=星尘乌托邦
+pv_201.song_name=星屑ユートピア
+
+pv_202.song_name.cn=StargazeR
+pv_202.song_name=StargazeR
+
+pv_203.song_name.cn=孤独的尽头
+pv_203.song_name=孤独の果て
+
+pv_204.song_name.cn=Time Limit
+pv_204.song_name=タイムリミット
+
+pv_205.song_name.cn=Holy Star -2010 DIVA mix-
+pv_205.song_name=Holy Star -2010 DIVA mix-
+
+pv_206.song_name.cn=melody...
+pv_206.song_name=melody...
+
+pv_208.song_name.cn=迷的控制论
+pv_208.song_name=迷的サイバネティックス
+
+pv_209.song_name.cn=Pink Moon
+pv_209.song_name=ピンクムーン
+
+pv_210.song_name.cn=透明水彩
+pv_210.song_name=透明水彩
+
+pv_211.song_name.cn=伊吕波歌
+pv_211.song_name=いろは唄
+
+pv_212.song_name.cn=Colorful × Sexy
+pv_212.song_name=カラフル×セクシィ
+
+pv_213.song_name.cn=LUKALUKA★NIGHT FEVER
+pv_213.song_name=ルカルカ★ナイトフィーバー
+
+pv_214.song_name.cn=右肩之蝶 -39's Giving Day Edition-
+pv_214.song_name=右肩の蝶 -39's Giving Day Edition-
+
+pv_215.song_name.cn=Leia
+pv_215.song_name=Leia
+
+pv_216.song_name.cn=千本樱
+pv_216.song_name=千本桜
+
+pv_218.song_name.cn=白如雪的公主啊
+pv_218.song_name=白い雪のプリンセスは
+
+pv_219.song_name.cn=深海少女
+pv_219.song_name=深海少女
+
+pv_220.song_name.cn=世界末日舞厅 -Live Dance Edition-
+pv_220.song_name=ワールズエンド・ダンスホール -Live Dance Edition-
+
+pv_221.song_name.cn=猫耳备档
+pv_221.song_name=ネコミミアーカイブ
+
+pv_222.song_name.cn=Black Gold
+pv_222.song_name=ブラックゴールド
+
+pv_223.song_name.cn=Out of Eden
+pv_223.song_name=アウト オブ エデン
+
+pv_224.song_name.cn=Rosary Pale
+pv_224.song_name=Rosary Pale
+
+pv_225.song_name.cn=梦想梦想
+pv_225.song_name=ゆめゆめ
+
+pv_226.song_name.cn=on the rocks
+pv_226.song_name=on the rocks
+
+pv_227.song_name.cn=妄想素描本
+pv_227.song_name=妄想スケッチ
+
+pv_228.song_name.cn=No Logic
+pv_228.song_name=No Logic
+
+pv_231.song_name.cn=Kipple Industry, Inc.
+pv_231.song_name=キップル・インダストリー
+
+pv_232.song_name.cn=39
+pv_232.song_name=39
+
+pv_233.song_name.cn=与子偕老。
+pv_233.song_name=ふたりで。
+
+pv_234.song_name.cn=深海地下都市
+pv_234.song_name=深海シティアンダーグラウンド
+
+pv_235.song_name.cn=Lucid Dreaming
+pv_235.song_name=ルシッドドリーミング
+
+pv_236.song_name.cn=Absolunote
+pv_236.song_name=Absolunote
+
+pv_238.song_name.cn=SING＆SMILE
+pv_238.song_name=SING＆SMILE
+
+pv_239.song_name.cn=三色航空
+pv_239.song_name=トリコロール・エア・ライン
+
+pv_240.song_name.cn=Systematic Love
+pv_240.song_name=システマティック・ラヴ
+
+pv_241.song_name.cn=电子混音器
+pv_241.song_name=エレクトロサチュレイタ
+
+pv_242.song_name.cn=1/6 -out of the gravity-
+pv_242.song_name=1/6 -out of the gravity-
+
+pv_243.song_name.cn=Interviewer
+pv_243.song_name=インタビュア
+
+pv_244.song_name.cn=雪人
+pv_244.song_name=スノーマン
+
+pv_246.song_name.cn=隐羞思春期
+pv_246.song_name=テレカクシ思春期
+
+pv_247.song_name.cn=甜蜜魔法
+pv_247.song_name=スイートマジック
+
+pv_248.song_name.cn=普通不过的世界征服
+pv_248.song_name=ありふれたせかいせいふく
+
+pv_249.song_name.cn=Ageage Again
+pv_249.song_name=アゲアゲアゲイン
+
+pv_250.song_name.cn=初次见面，地球人
+pv_250.song_name=はじめまして地球人さん
+
+pv_251.song_name.cn=PIANO*GIRL
+pv_251.song_name=PIANO*GIRL
+
+pv_253.song_name.cn=LOL -lots of laugh-
+pv_253.song_name=LOL -lots of laugh-
+
+pv_254.song_name.cn=天狐
+pv_254.song_name=アマツキツネ
+
+pv_255.song_name.cn=骸骨乐团和莉莉亚
+pv_255.song_name=骸骨楽団とリリア
+
+pv_257.song_name.cn=shake it！
+pv_257.song_name=shake it！
+
+pv_259.song_name.cn=Cendrillon
+pv_259.song_name=サンドリヨン
+
+pv_260.song_name.cn=Adolescence
+pv_260.song_name=アドレサンス
+
+pv_261.song_name.cn=你的体温
+pv_261.song_name=君の体温
+
+pv_262.song_name.cn=Piano × Forte × Scandal
+pv_262.song_name=ピアノ×フォルテ×スキャンダル
+
+pv_263.song_name.cn=1925
+pv_263.song_name=1925
+
+pv_265.song_name.cn=让声音响遍
+pv_265.song_name=ヒビカセ
+
+pv_266.song_name.cn=幽灵法则
+pv_266.song_name=ゴーストルール
+
+pv_267.song_name.cn=砂之惑星 feat.初音未来
+pv_267.song_name=砂の惑星 feat.初音ミク
+
+pv_268.song_name.cn=Catch the Wave
+pv_268.song_name=Catch the Wave
+
+pv_269.song_name.cn=39music！
+pv_269.song_name=39みゅーじっく！
+
+pv_270.song_name.cn=外星人外星人
+pv_270.song_name=エイリアンエイリアン
+
+pv_271.song_name.cn=将手
+pv_271.song_name=テオ
+
+pv_272.song_name.cn=火花
+pv_272.song_name=ヒバナ
+
+pv_273.song_name.cn=ROKI
+pv_273.song_name=ロキ
+
+pv_274.song_name.cn=拼图游戏
+pv_274.song_name=ジグソーパズル
+
+pv_275.song_name.cn=Dreamin Chuchu
+pv_275.song_name=どりーみんチュチュ
+
+pv_276.song_name.cn=大江户Julia Night
+pv_276.song_name=大江戸ジュリアナイト
+
+pv_277.song_name.cn=JITTERBUG
+pv_277.song_name=ジターバグ
+
+pv_278.song_name.cn=Bless Your Breath
+pv_278.song_name=ブレス・ユア・ブレス
+
+pv_279.song_name.cn=劣等上等
+pv_279.song_name=劣等上等
+
+pv_280.song_name.cn=拟剧论
+pv_280.song_name=ドラマツルギー
+
+pv_281.song_name.cn=绿光小夜曲
+pv_281.song_name=グリーンライツ・セレナーデ
+
+pv_401.song_name.cn=片想いサンバ
+pv_401.song_name=片想いサンバ
+
+pv_402.song_name.cn=サヨナラ・グッバイ
+pv_402.song_name=サヨナラ・グッバイ
+
+pv_403.song_name.cn=崩坏歌姬 -disruptive diva-
+pv_403.song_name=崩壊歌姫 -disruptive diva-
+
+pv_404.song_name.cn=ZIGG-ZAGG
+pv_404.song_name=ZIGG-ZAGG
+
+pv_405.song_name.cn=Nightmare☆Party night
+pv_405.song_name=ナイトメア☆パーティーナイト
+
+pv_407.song_name.cn=恋爱笔记////
+pv_407.song_name=恋ノート////
+
+pv_408.song_name.cn=SYMPHONIC DIVE - DIVA FT edit -
+pv_408.song_name=SYMPHONIC DIVE - DIVA FT edit -
+
+pv_409.song_name.cn=为什么会变成这样呢
+pv_409.song_name=どうしてこうなった
+
+pv_410.song_name.cn=狼少女
+pv_410.song_name=オオカミガール
+
+pv_411.song_name.cn=Starlite★Lydian
+pv_411.song_name=Starlite★Lydian
+
+pv_412.song_name.cn=Perico Space Shipper
+pv_412.song_name=ペリコ・スペースシッパー
+
+pv_413.song_name.cn=木偶大师
+pv_413.song_name=マスターオブパペッツ
+
+pv_414.song_name.cn=Pane dhiria
+pv_414.song_name=Pane dhiria
+
+pv_415.song_name.cn=造星之人
+pv_415.song_name=ほしをつくるひと
+
+pv_416.song_name.cn=So much loving you★ -DIVA Edit-
+pv_416.song_name=So much loving you★ -DIVA Edit-
+
+pv_417.song_name.cn=寿限无Sequencer
+pv_417.song_name=ジュゲムシーケンサー
+
+pv_418.song_name.cn=来吧，哪一个？
+pv_418.song_name=さあ、どっち？
+
+pv_419.song_name.cn=讨厌讨厌星人
+pv_419.song_name=イヤイヤ星人
+
+pv_420.song_name.cn=Equation+**
+pv_420.song_name=Equation+**
+
+pv_421.song_name.cn=骗子Betty
+pv_421.song_name=嘘つきベティ
+
+pv_422.song_name.cn=千巡之舞 -Dance of many-
+pv_422.song_name=数多の舞 -Dance of many-
+
+pv_423.song_name.cn=迷路人生
+pv_423.song_name=迷子ライフ
+
+pv_424.song_name.cn=高中时光 - DIVA EDIT
+pv_424.song_name=ハイスクール Days - DIVA EDIT
+
+pv_425.song_name.cn=那就来吧!!
+pv_425.song_name=そいやっさぁ!!
+
+pv_426.song_name.cn=break;down
+pv_426.song_name=break;down
+
+pv_427.song_name.cn=花舞月咏谭
+pv_427.song_name=花舞月詠譚
+
+pv_428.song_name.cn=Francisca
+pv_428.song_name=フランシスカ
+
+pv_429.song_name.cn=悠久-Song of Eternity-DIVAMIX-
+pv_429.song_name=悠久-Song of Eternity-DIVAMIX-
+
+pv_430.song_name.cn=slump
+pv_430.song_name=slump
+
+pv_431.song_name.cn=Gothic and Loneliness 〜I'm the very DIVA〜
+pv_431.song_name=Gothic and Loneliness 〜I'm the very DIVA〜
+
+pv_432.song_name.cn=唐伞小僧来到
+pv_432.song_name=唐傘さんが通る
+
+pv_433.song_name.cn=巴黎电影少女
+pv_433.song_name=巴里映画少女
+
+pv_434.song_name.cn=Oha-Yo-del!!
+pv_434.song_name=おはヨーデル (Oha-Yo-del!!)
+
+pv_435.song_name.cn=电波模范
+pv_435.song_name=デンパラダイム
+
+pv_436.song_name.cn=月之彼方的旅行
+pv_436.song_name=月向うまでのトラベル
+
+pv_437.song_name.cn=淹没于黑色音符中
+pv_437.song_name=ブラックノートに溺れさせて
+
+pv_438.song_name.cn=向前走
+pv_438.song_name=ステップフォワード
+
+pv_439.song_name.cn=致你
+pv_439.song_name=キミに
+
+pv_440.song_name.cn=光之骑士
+pv_440.song_name=ナイト・オブ・ライト
+
+pv_441.song_name.cn=Mellow Yellow
+pv_441.song_name=Mellow Yellow
+
+pv_442.song_name.cn=小发明
+pv_442.song_name=ぎずも
+
+pv_443.song_name.cn=偶像无线(Game edit)
+pv_443.song_name=偶像無線(Game edit)
+
+pv_600.song_name.cn=Cat Food
+pv_600.song_name=キャットフード
+
+pv_601.song_name.cn=黑白∞蓝天
+pv_601.song_name=モノクロ∞ブルースカイ
+
+pv_602.song_name.cn=Fire◎Flower
+pv_602.song_name=Fire◎Flower
+
+pv_603.song_name.cn=DYE
+pv_603.song_name=DYE
+
+pv_604.song_name.cn=鸟木都市
+pv_604.song_name=トリノコシティ
+
+pv_605.song_name.cn=唉？啊，是哦。
+pv_605.song_name=え？あぁ、そう。
+
+pv_607.song_name.cn=秘密警察
+pv_607.song_name=秘密警察
+
+pv_608.song_name.cn=是怎么回事呢！？
+pv_608.song_name=どういうことなの！？
+
+pv_609.song_name.cn=神曲
+pv_609.song_name=神曲
+
+pv_610.song_name.cn=喵喵喵喵喵喵喵！
+pv_610.song_name=Nyanyanyanyanyanyanya!
+
+pv_611.song_name.cn=ACUTE
+pv_611.song_name=ACUTE
+
+pv_612.song_name.cn=时光机
+pv_612.song_name=タイムマシン
+
+pv_613.song_name.cn=尘归尘
+pv_613.song_name=ハイハハイニ
+
+pv_614.song_name.cn=眼镜
+pv_614.song_name=MEGANE
+
+pv_615.song_name.cn=忧郁的心情
+pv_615.song_name=メランコリック
+
+pv_616.song_name.cn=Unhappy Refrain
+pv_616.song_name=アンハッピーリフレイン
+
+pv_617.song_name.cn=网游废人齐颂曲
+pv_617.song_name=ネトゲ廃人シュプレヒコール
+
+pv_618.song_name.cn=镜音八八花合战
+pv_618.song_name=鏡音八八花合戦
+
+pv_619.song_name.cn=天乐
+pv_619.song_name=天樂
+
+pv_620.song_name.cn=遥控器
+pv_620.song_name=リモコン
+
+pv_621.song_name.cn=Nostalogic
+pv_621.song_name=Nostalogic
+
+pv_622.song_name.cn=Stay with me
+pv_622.song_name=Stay with me
+
+pv_623.song_name.cn=Sadistic.Music∞Factory
+pv_623.song_name=Sadistic.Music∞Factory
+
+pv_624.song_name.cn=夏日偶像
+pv_624.song_name=サマーアイドル
+
+pv_625.song_name.cn=ODDS&ENDS
+pv_625.song_name=ODDS&ENDS
+
+pv_626.song_name.cn=Weekender Girl
+pv_626.song_name=Weekender Girl
+
+pv_627.song_name.cn=WORLD'S END UMBRELLA
+pv_627.song_name=WORLD'S END UMBRELLA
+
+pv_628.song_name.cn=FREELY TOMORROW
+pv_628.song_name=FREELY TOMORROW
+
+pv_629.song_name.cn=Negaposi＊Continues
+pv_629.song_name=ネガポジ＊コンティニューズ
+
+pv_630.song_name.cn=BLACK★ROCK SHOOTER
+pv_630.song_name=ブラック★ロックシューター
+
+pv_631.song_name.cn=梦的续章
+pv_631.song_name=夢の続き
+
+pv_637.song_name.cn=千本樱 -F edition-
+pv_637.another_song.0.name.cn=千本樱 -F edition-
+pv_637.another_song.1.name.cn=千本樱 -F edition All Version-
+pv_637.song_name=千本桜 -F edition-
+pv_637.another_song.0.name=千本桜 -F edition-
+pv_637.another_song.1.name=千本桜 -F edition All Version-
+
+pv_638.song_name.cn=Tell Your World
+pv_638.song_name=Tell Your World
+
+pv_639.song_name.cn=东京泰迪熊
+pv_639.song_name=東京テディベア
+
+pv_640.song_name.cn=食梦的黑白貘
+pv_640.song_name=夢喰い白黒バク
+
+pv_641.song_name.cn=铃酱NOW！
+pv_641.song_name=リンちゃんなう！
+
+pv_642.song_name.cn=Sweet Devil
+pv_642.song_name=Sweet Devil
+
+pv_700.song_name.cn=Ievan Polkka
+pv_700.song_name=Ievan Polkka
+
+pv_701.song_name.cn=Ievan Polkka
+pv_701.song_name=Ievan Polkka
+
+pv_710.song_name.cn=樱之雨
+pv_710.song_name=桜ノ雨
+
+pv_722.song_name.cn=Meteor
+pv_722.song_name=メテオ
+
+pv_723.song_name.cn=二次元 Dream Fever
+pv_723.song_name=二次元ドリームフィーバー
+
+pv_724.song_name.cn=Envy Cat Walk
+pv_724.song_name=エンヴィキャットウォーク
+
+pv_725.song_name.cn=打勾勾
+pv_725.song_name=指切り
+
+pv_726.song_name.cn=活动小丑
+pv_726.song_name=からくりピエロ
+
+pv_727.song_name.cn=喜欢讨厌
+pv_727.song_name=スキキライ
+
+pv_728.song_name.cn=erase or zero
+pv_728.song_name=erase or zero
+
+pv_729.song_name.cn=这里是幸福安心委员会
+pv_729.song_name=こちら、幸福安心委員会です。
+
+pv_730.song_name.cn=Hello, Worker
+pv_730.song_name=Hello, Worker
+
+pv_731.song_name.cn=Knife
+pv_731.song_name=Knife
+
+pv_732.song_name.cn=拂晓抵达
+pv_732.song_name=アカツキアライヴァル
+
+pv_733.song_name.cn=虚假Ganger
+pv_733.song_name=なりすましゲンガー
+
+pv_734.song_name.cn=破坏破坏
+pv_734.song_name=壊セ壊セ
+
+pv_736.song_name.cn=二息步行
+pv_736.song_name=二息歩行
+
+pv_737.song_name.cn=soundless voice
+pv_737.song_name=soundless voice
+
+pv_738.song_name.cn=Blackjack
+pv_738.song_name=Blackjack
+
+pv_739.song_name.cn=DECORATOR
+pv_739.song_name=DECORATOR
+
+pv_740.song_name.cn=Glory 3usi9
+pv_740.song_name=Glory 3usi9
+
+pv_832.song_name.cn=Hand in Hand
+pv_832.song_name=Hand in Hand

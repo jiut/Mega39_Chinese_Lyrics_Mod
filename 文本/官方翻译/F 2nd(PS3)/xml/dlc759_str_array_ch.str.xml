@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringArray xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Format>F2nd</Format>
+  <Endianness>Big</Endianness>
+  <Strings>
+    <StringEntry>
+      <Value>Yellow</Value>
+      <Id>20059000</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>3150</Value>
+      <Id>20059001</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>kz</Value>
+      <Id>20059002</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>kz</Value>
+      <Id>20059003</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>kz</Value>
+      <Id>20059004</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>何時開始的呢　你的笑聲已經遠去</Value>
+      <Id>20059010</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>幸福的終點太過簡單呢</Value>
+      <Id>20059011</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>早已數不清　不論眼淚還是倦怠的明天　</Value>
+      <Id>20059012</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>不讓彼此的話語全變成回憶</Value>
+      <Id>20059013</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>為了讓你重展笑顏</Value>
+      <Id>20059014</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>不論多少次　我都不會停止歌唱 </Value>
+      <Id>20059015</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>跨越無數個夜晚</Value>
+      <Id>20059016</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>直至夢想成真之日</Value>
+      <Id>20059017</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>把已放棄的　即將崩壞的旋律</Value>
+      <Id>20059018</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>收集起　再度施展魔法喔</Value>
+      <Id>20059019</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>為了讓你重展笑顏</Value>
+      <Id>20059020</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>無論何時　我都不會停止歌唱</Value>
+      <Id>20059021</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>向流星許下心願 </Value>
+      <Id>20059022</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>直至想念傳達之日</Value>
+      <Id>20059023</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>句點還太早了呢</Value>
+      <Id>20059024</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>有千言萬語想對你訴說</Value>
+      <Id>20059025</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>就讓那一天的晨光One More Time</Value>
+      <Id>20059026</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>誰皆如此　大家都在等待　那個地方  </Value>
+      <Id>20059027</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>宛如閃耀著的Yellow的清晨</Value>
+      <Id>20059028</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>無論何時　我們都不會忘記</Value>
+      <Id>20059029</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>沐浴在音符與光芒之中</Value>
+      <Id>20059030</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>永不結束Step &amp; Clap</Value>
+      <Id>20059031</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>為了讓你重展笑顏</Value>
+      <Id>20059032</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>不論多少次　我都不會停止歌唱 </Value>
+      <Id>20059033</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>跨越無數個夜晚</Value>
+      <Id>20059034</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>直至夢想成真之時 </Value>
+      <Id>20059035</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いつからだろう　君の笑う声遠く</Value>
+      <Id>20059510</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>幸せの終わりなんてあっけないものだね</Value>
+      <Id>20059511</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>数え切れない　涙も気だるい明日も</Value>
+      <Id>20059512</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>交わした言葉全て想い出にはさせない</Value>
+      <Id>20059513</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君の笑顔取り戻す為</Value>
+      <Id>20059514</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>何度でも僕は歌を止めない</Value>
+      <Id>20059515</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いくつもの夜を越え</Value>
+      <Id>20059516</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>この願いかなうその日まで</Value>
+      <Id>20059517</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>諦めていた　壊れかけた旋律を</Value>
+      <Id>20059518</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>拾い集めて　もう一度魔法かけるの</Value>
+      <Id>20059519</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君の笑顔取り返す為</Value>
+      <Id>20059520</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いつだって僕は歌を止めない</Value>
+      <Id>20059521</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>流れる星に願う</Value>
+      <Id>20059522</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>この想い届くその日まで</Value>
+      <Id>20059523</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>ピリオドはまだ早すぎるよ</Value>
+      <Id>20059524</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>伝えたい言葉はたくさん</Value>
+      <Id>20059525</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>あの朝の光をOne More Time</Value>
+      <Id>20059526</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>あの場所を誰もがそう　みんな待っている</Value>
+      <Id>20059527</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>輝くようなYellowの朝</Value>
+      <Id>20059528</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いつだって僕ら忘れられない</Value>
+      <Id>20059529</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>音と光のシャワー</Value>
+      <Id>20059530</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>終わることのないStep &amp; Clap</Value>
+      <Id>20059531</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君の笑顔取り戻す為</Value>
+      <Id>20059532</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>何度でも僕は歌を止めない</Value>
+      <Id>20059533</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いくつもの夜を越え</Value>
+      <Id>20059534</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>この願いかなうその時まで</Value>
+      <Id>20059535</Id>
+    </StringEntry>
+  </Strings>
+</StringArray>

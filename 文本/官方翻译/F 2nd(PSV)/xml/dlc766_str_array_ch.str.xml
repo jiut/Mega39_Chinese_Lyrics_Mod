@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringArray xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Format>F2nd</Format>
+  <Endianness>Little</Endianness>
+  <Strings>
+    <StringEntry>
+      <Value>magnet</Value>
+      <Id>20066000</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>1950</Value>
+      <Id>20066001</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>みなと（流星P）</Value>
+      <Id>20066002</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>みなと（流星P）</Value>
+      <Id>20066003</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>みなと（流星P）</Value>
+      <Id>20066004</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>細微之火　照亮心中的一角</Value>
+      <Id>20066010</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>熱情不知何時已經燃燒蔓延</Value>
+      <Id>20066011</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我的蝴蝶　紛飛亂舞</Value>
+      <Id>20066012</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>將你的手染上了鱗粉</Value>
+      <Id>20066013</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>鬆開了緊扣的十指</Value>
+      <Id>20066014</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>從嘴唇到舌尖</Value>
+      <Id>20066015</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>若是禁忌之事　就更</Value>
+      <Id>20066016</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>烈火激情呢</Value>
+      <Id>20066017</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>想讓你擁我入懷　想讓你確定</Value>
+      <Id>20066018</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>讓我覺得　一點錯也沒有</Value>
+      <Id>20066019</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>吻我　想讓你重染</Value>
+      <Id>20066020</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>想沉醉深陷在這魅惑之時</Value>
+      <Id>20066021</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>一到黎明就會不安</Value>
+      <Id>20066022</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>對哭泣的我</Value>
+      <Id>20066023</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>輕聲耳語說著「沒關係」的你是否</Value>
+      <Id>20066024</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>也在哭泣呢？</Value>
+      <Id>20066025</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>想讓你擁我入懷　想讓你確定</Value>
+      <Id>20066026</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>讓我覺得　一點錯也沒有</Value>
+      <Id>20066027</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>吻我　想讓你重染</Value>
+      <Id>20066028</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>想沉醉深陷在這魅惑之時</Value>
+      <Id>20066029</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>彼此相互吸引　就像magnet一樣</Value>
+      <Id>20066030</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>即使某一天分離也將重逢</Value>
+      <Id>20066031</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>輕觸撫摸著　不能回去也沒關係</Value>
+      <Id>20066032</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>這樣就足夠　比任何人都重要的你</Value>
+      <Id>20066033</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>か細い火が　心の端に灯る</Value>
+      <Id>20066510</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いつの間にか燃え広がる熱情</Value>
+      <Id>20066511</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>私の蝶　不規則に飛び回り</Value>
+      <Id>20066512</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>あなたの手に鱗粉を付けた</Value>
+      <Id>20066513</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>絡み合う指ほどいて</Value>
+      <Id>20066514</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>唇から舌へと</Value>
+      <Id>20066515</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>許されない事ならば尚更</Value>
+      <Id>20066516</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>燃え上がるの</Value>
+      <Id>20066517</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>抱き寄せて欲しい　確かめて欲しい</Value>
+      <Id>20066518</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>間違いなど無いんだと　思わせて</Value>
+      <Id>20066519</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>キスをして　塗り替えて欲しい</Value>
+      <Id>20066520</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>魅惑の時に酔いしれ溺れていたいの</Value>
+      <Id>20066521</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>夜明けが来ると不安で</Value>
+      <Id>20066522</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>泣いてしまう私に</Value>
+      <Id>20066523</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「大丈夫」と囁いたあなたも</Value>
+      <Id>20066524</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>泣いていたの？</Value>
+      <Id>20066525</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>抱き寄せて欲しい　確かめて欲しい</Value>
+      <Id>20066526</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>間違いなど無いんだと　思わせて</Value>
+      <Id>20066527</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>キスをして　塗り替えて欲しい</Value>
+      <Id>20066528</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>魅惑の時に酔いしれ溺れたい</Value>
+      <Id>20066529</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>引き寄せて　マグネットのように</Value>
+      <Id>20066530</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>例えいつか離れても巡り会う</Value>
+      <Id>20066531</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>触れていて　戻れなくていい</Value>
+      <Id>20066532</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>それでいいの　誰よりも大切なあなた</Value>
+      <Id>20066533</Id>
+    </StringEntry>
+  </Strings>
+</StringArray>

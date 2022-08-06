@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringArray xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Format>F2nd</Format>
+  <Endianness>Little</Endianness>
+  <Strings>
+    <StringEntry>
+      <Value>愛的話語</Value>
+      <Id>20055000</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>4850</Value>
+      <Id>20055001</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>DECO*27</Value>
+      <Id>20055002</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>DECO*27</Value>
+      <Id>20055003</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>DECO*27</Value>
+      <Id>20055004</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我的孩子一直受大家關照</Value>
+      <Id>20055010</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>對願意傾聽的各位　感謝、感謝。</Value>
+      <Id>20055011</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>趁此恩一生不忘之際</Value>
+      <Id>20055012</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>連同深藏心底的思緒</Value>
+      <Id>20055013</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>試著譜成這首歌。</Value>
+      <Id>20055014</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>愛的話語是，「愛有10份＝感謝」</Value>
+      <Id>20055015</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我啊你啊</Value>
+      <Id>20055016</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>戀情啊愛意啊</Value>
+      <Id>20055017</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>喜歡啊討厭啊，還會唱到喔。</Value>
+      <Id>20055018</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>現在喜歡你　還是喜歡你</Value>
+      <Id>20055019</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>還不如喜歡你　這般笨拙的我</Value>
+      <Id>20055020</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>被你喜歡著　被這樣愛著</Value>
+      <Id>20055021</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>聽著這樣的歌　哭了出來的　謝謝你喔</Value>
+      <Id>20055022</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「把妳吃了。」＞笨蛋。</Value>
+      <Id>20055023</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「做什麼了。」＞笨蛋。</Value>
+      <Id>20055024</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「妳的事啊已經忘了囉。」</Value>
+      <Id>20055025</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>＞笨蛋。</Value>
+      <Id>20055026</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>說著喜歡你　是騙你的。</Value>
+      <Id>20055027</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>其實超喜歡你　不想傷害你</Value>
+      <Id>20055028</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>但是喜歡你　請一天到晚愛著我</Value>
+      <Id>20055029</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>有過這樣的歌呢　想和你一起笑著</Value>
+      <Id>20055030</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>像我的你　像你的我</Value>
+      <Id>20055031</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>像卻不同　不同所以像</Value>
+      <Id>20055032</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>每說聲“喜歡你”　都會增多的這份愛意是</Value>
+      <Id>20055033</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>我送給很多很多的你</Value>
+      <Id>20055034</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「愛的話語」</Value>
+      <Id>20055035</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いつも僕の子供がお世話になっているようで</Value>
+      <Id>20055510</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>聴いてくれたあなた方に　感謝、感謝。</Value>
+      <Id>20055511</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>このご恩を一生で忘れないうちに</Value>
+      <Id>20055512</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>内に秘めた想いとともに</Value>
+      <Id>20055513</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>歌にしてみました。</Value>
+      <Id>20055514</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>愛言葉は、"愛が10=ありがとう"</Value>
+      <Id>20055515</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕とか君とか</Value>
+      <Id>20055516</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>恋とか愛とか</Value>
+      <Id>20055517</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>好きとか嫌いとか、また歌うね。</Value>
+      <Id>20055518</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>今君が好きで　てか君が好きで</Value>
+      <Id>20055519</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>むしろ君が好きで　こんなバカな僕を</Value>
+      <Id>20055520</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君は好きで　愛してくれて</Value>
+      <Id>20055521</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>こんな歌聴いて　泣いてくれてありがとう</Value>
+      <Id>20055522</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「キミ食べた。」＞バカ。</Value>
+      <Id>20055523</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「ナニしてた。」＞バカ。</Value>
+      <Id>20055524</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「キミのことなんか忘れちゃったよ。」</Value>
+      <Id>20055525</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>＞バカ。</Value>
+      <Id>20055526</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君が好きで　っていうのは嘘で。</Value>
+      <Id>20055527</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>ホントは大好きで　傷つけたくなくて</Value>
+      <Id>20055528</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>でも君が好きで　愛して暮れて</Value>
+      <Id>20055529</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>こんな歌あったねって　君と笑いたいんだ</Value>
+      <Id>20055530</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕みたいな君　君みたいな僕</Value>
+      <Id>20055531</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>似てるけど違って　違ってるから似てる</Value>
+      <Id>20055532</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>好きだよと言う度に　増える好きの気持ちは</Value>
+      <Id>20055533</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕からたくさんの君への</Value>
+      <Id>20055534</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>"愛言葉"</Value>
+      <Id>20055535</Id>
+    </StringEntry>
+  </Strings>
+</StringArray>

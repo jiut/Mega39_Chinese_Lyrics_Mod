@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringArray xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Format>F2nd</Format>
+  <Endianness>Big</Endianness>
+  <Strings>
+    <StringEntry>
+      <Value>[Ch]愛言葉</Value>
+      <Id>20055000</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>あいことば</Value>
+      <Id>20055001</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>DECO*27</Value>
+      <Id>20055002</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>DECO*27</Value>
+      <Id>20055003</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>DECO*27</Value>
+      <Id>20055004</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]いつも僕の子供がお世話になっているようで</Value>
+      <Id>20055010</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]聴いてくれたあなた方に　感謝、感謝。</Value>
+      <Id>20055011</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]このご恩を一生で忘れないうちに</Value>
+      <Id>20055012</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]内に秘めた想いとともに</Value>
+      <Id>20055013</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]歌にしてみました。</Value>
+      <Id>20055014</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]愛言葉は、"愛が10=ありがとう"</Value>
+      <Id>20055015</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]僕とか君とか</Value>
+      <Id>20055016</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]恋とか愛とか</Value>
+      <Id>20055017</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]好きとか嫌いとか、また歌うね。</Value>
+      <Id>20055018</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]今君が好きで　てか君が好きで</Value>
+      <Id>20055019</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]むしろ君が好きで　こんなバカな僕を</Value>
+      <Id>20055020</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]君は好きで　愛してくれて</Value>
+      <Id>20055021</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]こんな歌聴いて　泣いてくれてありがとう</Value>
+      <Id>20055022</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]「キミ食べた。」＞バカ。</Value>
+      <Id>20055023</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]「ナニしてた。」＞バカ。</Value>
+      <Id>20055024</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]「キミのことなんか忘れちゃったよ。」</Value>
+      <Id>20055025</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]＞バカ。</Value>
+      <Id>20055026</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]君が好きで　っていうのは嘘で。</Value>
+      <Id>20055027</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]ホントは大好きで　傷つけたくなくて</Value>
+      <Id>20055028</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]でも君が好きで　愛して暮れて</Value>
+      <Id>20055029</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]こんな歌あったねって　君と笑いたいんだ</Value>
+      <Id>20055030</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]僕みたいな君　君みたいな僕</Value>
+      <Id>20055031</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]似てるけど違って　違ってるから似てる</Value>
+      <Id>20055032</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]好きだよと言う度に　増える好きの気持ちは</Value>
+      <Id>20055033</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]僕からたくさんの君への</Value>
+      <Id>20055034</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>[Ch]"愛言葉"</Value>
+      <Id>20055035</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>いつも僕の子供がお世話になっているようで</Value>
+      <Id>20055510</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>聴いてくれたあなた方に　感謝、感謝。</Value>
+      <Id>20055511</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>このご恩を一生で忘れないうちに</Value>
+      <Id>20055512</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>内に秘めた想いとともに</Value>
+      <Id>20055513</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>歌にしてみました。</Value>
+      <Id>20055514</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>愛言葉は、"愛が10=ありがとう"</Value>
+      <Id>20055515</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕とか君とか</Value>
+      <Id>20055516</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>恋とか愛とか</Value>
+      <Id>20055517</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>好きとか嫌いとか、また歌うね。</Value>
+      <Id>20055518</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>今君が好きで　てか君が好きで</Value>
+      <Id>20055519</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>むしろ君が好きで　こんなバカな僕を</Value>
+      <Id>20055520</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君は好きで　愛してくれて</Value>
+      <Id>20055521</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>こんな歌聴いて　泣いてくれてありがとう</Value>
+      <Id>20055522</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「キミ食べた。」＞バカ。</Value>
+      <Id>20055523</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「ナニしてた。」＞バカ。</Value>
+      <Id>20055524</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>「キミのことなんか忘れちゃったよ。」</Value>
+      <Id>20055525</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>＞バカ。</Value>
+      <Id>20055526</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>君が好きで　っていうのは嘘で。</Value>
+      <Id>20055527</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>ホントは大好きで　傷つけたくなくて</Value>
+      <Id>20055528</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>でも君が好きで　愛して暮れて</Value>
+      <Id>20055529</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>こんな歌あったねって　君と笑いたいんだ</Value>
+      <Id>20055530</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕みたいな君　君みたいな僕</Value>
+      <Id>20055531</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>似てるけど違って　違ってるから似てる</Value>
+      <Id>20055532</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>好きだよと言う度に　増える好きの気持ちは</Value>
+      <Id>20055533</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>僕からたくさんの君への</Value>
+      <Id>20055534</Id>
+    </StringEntry>
+    <StringEntry>
+      <Value>"愛言葉"</Value>
+      <Id>20055535</Id>
+    </StringEntry>
+  </Strings>
+</StringArray>
