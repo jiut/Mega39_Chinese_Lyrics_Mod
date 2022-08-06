@@ -1,7 +1,7 @@
 # Mega39_Chinese_Lyrics_Mod
-Chinese lyric translation mod for 初音未来/Hatsune Miku: Project DIVA Mega 39’s＋（初音未来 Project DIVA MEGA39’s＋歌词与歌曲名汉化翻译）包含翻译后的中文歌名与保持原文的日文歌名两个版本，可解锁成就
+初音未来 Project DIVA MEGA39’s＋歌词与歌曲名汉化翻译
 
-
+包含翻译后的中文歌名与保持原文的日文歌名两个版本，可解锁成就
 
 ## 使用方法
 
