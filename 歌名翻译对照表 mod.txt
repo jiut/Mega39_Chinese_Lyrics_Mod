@@ -1,0 +1,173 @@
+#Hoshikuzu
+pv_606.song_name.jp=ワールズエンド・ダンスホール -F Edition-
+
+pv_643.song_name.jp=ぽっぴっぽー F's Special edition
+
+pv_721.song_name.jp=カゲロウデイズ
+
+pv_735.song_name.jp=カンタレラ ～grace edition～
+
+pv_927.song_name.jp=potatoになっていく
+
+pv_928.song_name.jp=アイドル新鋭隊
+
+pv_931.song_name.jp=ブリキノダンス
+
+pv_933.song_name.jp=needLe
+
+pv_936.song_name.jp=乙女解剖
+
+pv_937.song_name.jp=ジャンキーナイトタウンオーケストラ
+
+pv_940.song_name.jp=命に嫌われている。
+
+pv_941.song_name.jp=ステラ
+
+pv_943.song_name.jp=ジャックポットサッドガール
+
+pv_945.song_name.jp=ぼうけんのしょがきえました！
+
+pv_947.song_name.jp=脱法ロック
+
+pv_948.song_name.jp=Gimme×Gimme
+
+pv_960.song_name.jp=限りなく灰色へ
+
+pv_961.song_name.jp=ボッカデラベリタ
+
+pv_962.song_name.jp=天使のクローバー
+
+pv_964.song_name.jp=愛されなくても君がいる
+
+pv_965.song_name.jp=Forward
+
+pv_973.song_name.jp=drop pop candy
+
+pv_974.song_name.jp=ミルククラウン・オン・ソーネチカ
+
+pv_977.song_name.jp=アンノウン・マザーグース
+
+
+
+
+
+
+
+
+#F 2nd
+pv_002.song_name=世界第一的公主殿下 -F2nd Edition-
+pv_002.song_name.jp=ワールドイズマイン -F2nd Edition-
+
+pv_005.song_name=Melt -F2nd Edition-
+pv_005.song_name.jp=メルト -F2nd Edition-
+
+pv_010.song_name=Packaged -F2nd Edition-
+pv_010.song_name.jp=Packaged -F2nd Edition-
+
+pv_012.song_name=Marginal -F2nd Edition-
+pv_012.song_name.jp=マージナル -F2nd Edition-
+
+pv_014.song_name=Miracle Paint -F2nd Edition-
+pv_014.song_name.jp=ミラクルペイント -F2nd Edition-
+
+pv_028.song_name=把你给MIKUMIKU掉♪【MIKU掉】 -F2nd Edition-
+pv_028.song_name.jp=みくみくにしてあげる♪【してやんよ】 -F2nd Edition-
+
+pv_030.song_name=电子天使 -F2nd Edition-
+pv_030.song_name.jp=えれくとりっく・えんじぇぅ -F2nd Edition-
+
+pv_037.song_name=初恋终结之时 -F2nd Edition-
+pv_037.song_name.jp=初めての恋が終わる時 -F2nd Edition-
+
+pv_038.song_name=向我这边看 Baby -F2nd Edition-
+pv_038.song_name.jp=こっち向いて Baby -F2nd Edition-
+
+pv_040.song_name=Yellow -F2nd Edition-
+pv_040.song_name.jp=Yellow -F2nd Edition-
+
+pv_041.song_name=Colorful × Melody -F2nd Edition-
+pv_041.song_name.jp=カラフル×メロディ -F2nd Edition-
+
+pv_042.song_name=初音未来的激唱 -F2nd Edition-
+pv_042.song_name.jp=初音ミクの激唱 -F2nd Edition-
+
+pv_043.song_name=罗密欧与灰姑娘 -F2nd Edition-
+pv_043.song_name.jp=ロミオとシンデレラ -F2nd Edition-
+
+pv_044.song_name=magnet -F2nd Edition-
+pv_044.song_name.jp=magnet -F2nd Edition-
+
+pv_048.song_name=爱言叶 -F2nd Edition-
+pv_048.song_name.jp=愛言葉 -F2nd Edition-
+
+pv_054.song_name=炉心融解 -F2nd Edition-
+pv_054.song_name.jp=炉心融解 -F2nd Edition-
+
+pv_055.song_name=心 -F2nd Edition-
+pv_055.song_name.jp=ココロ -F2nd Edition-
+
+pv_057.song_name=Double Lariat -F2nd Edition-
+pv_057.song_name.jp=ダブルラリアット -F2nd Edition-
+
+pv_059.song_name=Change me -F2nd Edition-
+pv_059.song_name.jp=Change me -F2nd Edition-
+
+pv_061.song_name=Clover♣Club -F2nd Edition-
+pv_061.song_name.jp=クローバー♣クラブ -F2nd Edition-
+
+pv_062.song_name=Promise -F2nd Edition-
+pv_062.song_name.jp=Promise -F2nd Edition-
+
+pv_066.song_name=Just Be Friends -F2nd Edition-
+pv_066.song_name.jp=Just Be Friends -F2nd Edition-
+
+pv_079.song_name=SPiCa -F2nd's 39's Giving Day Edition-
+pv_079.song_name.jp=SPiCa -F2nd's 39's Giving Day Edition-
+
+pv_081.song_name=虽然歌声无形 -F2nd Edition-
+pv_081.song_name.jp=歌に形はないけれど -F2nd Edition-
+
+pv_082.song_name=里表Lovers -F2nd Edition-
+pv_082.song_name.jp=裏表ラバーズ -F2nd Edition-
+
+pv_084.song_name=直至无尽的远方 -F2nd Edition-
+pv_084.song_name.jp=那由他の彼方まで -F2nd Edition-
+
+pv_085.song_name=孤独的尽头 -F2nd Edition-
+pv_085.song_name.jp=孤独の果て -F2nd Edition-
+
+pv_088.song_name=千年的独奏歌 (DIVA edit) -F2nd Edition-
+pv_088.song_name.jp=千年の独奏歌 (DIVA edit) -F2nd Edition-
+
+pv_090.song_name=连起来又分开罗刹与骨骸 -F2nd Edition-
+pv_090.song_name.jp=結んで開いて羅刹と骸 -F2nd Edition-
+
+pv_091.song_name=Rolling Girl -F2nd Edition-
+pv_091.song_name.jp=ローリンガール -F2nd Edition-
+
+pv_093.song_name=对二氯苯 -F2nd Edition-
+pv_093.song_name.jp=パラジクロロベンゼン -F2nd Edition-
+
+pv_094.song_name=番风 -F2nd Edition-
+pv_094.song_name.jp=番凩 -F2nd Edition-
+
+pv_096.song_name=积雨云Graffiti -F2nd Edition-
+pv_096.song_name.jp=積乱雲グラフィティ -F2nd Edition-
+
+pv_213.song_name=LUKALUKA★NIGHT FEVER -F2nd Edition-
+pv_213.song_name.jp=ルカルカ★ナイトフィーバー -F2nd Edition-
+
+pv_224.song_name=Rosary Pale -F2nd Edition-
+pv_224.song_name.jp=Rosary Pale -F2nd Edition-
+
+pv_606.song_name=世末舞厅 -F Edition-
+pv_606.song_name.jp=ワールズエンド・ダンスホール -F Edition-
+
+pv_643.song_name=Po Pi Po F's Special edition
+pv_643.song_name.jp=ぽっぴっぽー F's Special edition
+
+pv_721.song_name=阳炎Daze
+pv_721.song_name.jp=カゲロウデイズ
+
+pv_735.song_name=坎特雷拉 ～grace edition～
+pv_735.song_name.jp=カンタレラ ～grace edition～

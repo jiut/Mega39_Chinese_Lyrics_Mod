@@ -2121,7 +2121,7 @@ pv_092.lyric.016=请爱我……
 
 
 
-pv_093.song_name=Paradichlorobenzene
+pv_093.song_name=对二氯苯
 pv_093.lyric.000=
 pv_093.lyric.001=我是为何而唱？
 pv_093.lyric.002=Paradichlorobenzene
@@ -2782,7 +2782,7 @@ pv_219.lyric.049=
 
 
 
-pv_220.song_name=世界末日舞厅 -Live Dance Edition-
+pv_220.song_name=世末舞厅 -Live Dance Edition-
 pv_220.lyric.001=在玩笑混合的边界线上　阶梯再远一点的前方
 pv_220.lyric.002=反正完全没什么好事情
 pv_220.lyric.003=呐　要试着把这手抽开看看吗？

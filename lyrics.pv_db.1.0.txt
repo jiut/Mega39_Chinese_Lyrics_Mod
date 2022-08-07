@@ -1,4 +1,4 @@
-pv_001.asong_name=恋爱战争
+pv_001.song_name=恋爱战争
 pv_001.lyric.001=已经无处可去 这份爱的热量的
 pv_001.lyric.002=灰色的云 单色调的喧噪
 pv_001.lyric.003=阳光照射成阴影 日落会改变色彩
@@ -17,7 +17,7 @@ pv_001.lyric.014=恋爱是盲目的 就用你的吻让我清醒！
 
 
 
-pv_002.asong_name=World is Mine
+pv_002.song_name=World is Mine
 pv_002.lyric.001=世界第一的公主殿下
 pv_002.lyric.002=你可要记好该怎么应对啊
 pv_002.lyric.003=第一
@@ -56,7 +56,7 @@ pv_002.lyric.034=……看来是我这边危险了
 
 
 
-pv_005.asong_name=Melt
+pv_005.song_name=Melt
 pv_005.lyric.001=一早醒来睁开眼
 pv_005.lyric.002=你的身影在第一时间浮现
 pv_005.lyric.003=下定决心 将刘海修修剪剪
@@ -81,7 +81,7 @@ pv_005.lyric.020=……开玩笑的啦
 
 
 
-pv_007.asong_name=Strobe Nights
+pv_007.song_name=Strobe Nights
 pv_007.lyric.001=闪亮的星光滑落而过
 pv_007.lyric.002=因为想被看见 才会来到这里的
 pv_007.lyric.003=就在某人伸出手做暗号之时
@@ -101,7 +101,7 @@ pv_007.lyric.015=一定哦
 
 
 
-pv_008.asong_name=Star Story
+pv_008.song_name=Star Story
 pv_008.lyric.001=漂浮在夜空 宛如明月
 pv_008.lyric.002=即使伸出手 也无法抓住你
 pv_008.lyric.003=黑夜的彼端 触遇到的未来
@@ -119,7 +119,7 @@ pv_008.lyric.013=为你而唱的 星辰物语
 
 
 
-pv_009.asong_name=Last Night, Good Night
+pv_009.song_name=Last Night, Good Night
 pv_009.lyric.001=沉沉睡着遨游于梦境中
 pv_009.lyric.002=你那无邪的睡脸
 pv_009.lyric.003=不经意地一滴晶莹的泪珠
@@ -137,7 +137,7 @@ pv_009.lyric.013=祝你好梦
 
 
 
-pv_010.asong_name=Packaged
+pv_010.song_name=Packaged
 pv_010.lyric.001=这个世界的Melody
 pv_010.lyric.002=附和着我的歌声
 pv_010.lyric.003=你收到了吗
@@ -164,7 +164,7 @@ pv_010.lyric.022=都听到了吧
 
 
 
-pv_012.asong_name=Marginal
+pv_012.song_name=Marginal
 pv_012.lyric.001=深邃宝蓝
 pv_012.lyric.002=若映射到染红的脸颊上
 pv_012.lyric.003=就是忧郁的紫罗兰
@@ -193,7 +193,7 @@ pv_012.lyric.024=鲜明亮丽的Marginal
 
 
 
-pv_013.asong_name=不悦的华尔滋
+pv_013.song_name=不悦的华尔滋
 pv_013.lyric.001=呐，听我说呀
 pv_013.lyric.002=我有了喜欢的人哦
 pv_013.lyric.003=明明是像玻璃珠一般的
@@ -221,7 +221,7 @@ pv_013.lyric.023=一边唱着那惹人厌的歌曲
 
 
 
-pv_014.asong_name=Miracle Paint
+pv_014.song_name=Miracle Paint
 pv_014.lyric.001=在黄昏的画布上
 pv_014.lyric.002=酒红色的夕阳
 pv_014.lyric.003=目送着我 在回家的路上
@@ -253,7 +253,7 @@ pv_014.lyric.027=I love you！
 
 
 
-pv_016.asong_name=恋爱的ＶＯＣ＠ＬＯＩＤ
+pv_016.song_name=恋爱的ＶＯＣ＠ＬＯＩＤ
 pv_016.lyric.001=一 二 三 四！
 pv_016.lyric.002=我呀，从你来的那一天起
 pv_016.lyric.003=殷切希望 希望你别把我忘了哟
@@ -284,7 +284,7 @@ pv_016.lyric.026=从今以后 就请你多多关照了
 
 
 
-pv_022.asong_name=The secret garden
+pv_022.song_name=The secret garden
 pv_022.lyric.001=保・密・哦
 pv_022.lyric.002=寒暄的时候产生了疑惑
 pv_022.lyric.003=仅仅是见到你的瞬间
@@ -322,7 +322,7 @@ pv_022.lyric.033=那我就一边嬉戏一边等着你哦
 
 
 
-pv_028.asong_name=把你给MIKUMIKU掉♪【MIKU掉】
+pv_028.song_name=把你给MIKUMIKU掉♪【MIKU掉】
 pv_028.lyric.001=超越科学的极限
 pv_028.lyric.002=我来到这啰
 pv_028.lyric.003=虽然没带着葱
@@ -348,7 +348,7 @@ pv_028.lyric.021=所以要再让我多唱点歌喔
 
 
 
-pv_030.asong_name=Electric Angel
+pv_030.song_name=Electric Angel
 pv_030.lyric.001=我啊、喜欢唱歌
 pv_030.lyric.002=并非如此才被创造出来
 pv_030.lyric.003=是为了说喜欢这声音
@@ -385,7 +385,7 @@ pv_030.lyric.032=我的心、摇曳摇曳着
 
 
 
-pv_031.asong_name=你的歌姬
+pv_031.song_name=你的歌姬
 pv_031.lyric.001=在这个家中的这台计算机
 pv_031.lyric.002=就是我从今以后的新居所。
 pv_031.lyric.003=今天开始你就是我的主人了
@@ -418,7 +418,7 @@ pv_031.lyric.028=永远永远，不论多久
 
 
 
-pv_032.asong_name=初音未来的消失
+pv_032.song_name=初音未来的消失
 pv_032.lyric.001=诞生在世上 然后察觉到
 pv_032.lyric.002=自己只是 学着人类而已
 pv_032.lyric.003=明知如此我依然继续歌唱着
@@ -484,7 +484,7 @@ pv_032.lyric.061=这件事情绝对不是没有意义的…
 
 
 
-pv_037.asong_name=初恋结束时
+pv_037.song_name=初恋结束时
 pv_037.lyric.001=初吻泛着泪水的滋味
 pv_037.lyric.002=犹如戏剧般的恋情
 pv_037.lyric.003=像设定好般发车铃声响起
@@ -534,7 +534,7 @@ pv_037.lyric.045=
 
 
 
-pv_038.asong_name=看向我这边 Baby
+pv_038.song_name=看向我这边 Baby
 pv_038.lyric.001=总是逞强什么的
 pv_038.lyric.002=觉得很吃亏 难道不是吗
 pv_038.lyric.003=想做些说不出口的事啊
@@ -596,7 +596,7 @@ pv_038.lyric.057=
 
 
 
-pv_039.asong_name=Finder (DSLR remix - re:edit)
+pv_039.song_name=Finder (DSLR remix - re:edit)
 pv_039.lyric.001=你所触遇到的世界中   映照出我的身影
 pv_039.lyric.002=那片射进房间的光明  照亮了整个角落
 pv_039.lyric.003=把初次发现的瞬间  变成了话语和声音
@@ -624,7 +624,7 @@ pv_039.lyric.023=
 
 
 
-pv_040.asong_name=Yellow
+pv_040.song_name=Yellow
 pv_040.lyric.001=何时开始的呢 你的笑声已经远去
 pv_040.lyric.002=幸福的终点太过简单呢
 pv_040.lyric.003=早已数不清 不论眼泪还是倦怠的明天
@@ -656,7 +656,7 @@ pv_040.lyric.027=
 
 
 
-pv_041.asong_name=Colorful × Melody
+pv_041.song_name=Colorful × Melody
 pv_041.lyric.001=刚产生的心情 要加上什么颜色
 pv_041.lyric.002=才会变成美丽的梦呢
 pv_041.lyric.003=明天在新的画布上
@@ -692,7 +692,7 @@ pv_041.lyric.031=
 
 
 
-pv_042.asong_name=初音未来的激唱
+pv_042.song_name=初音未来的激唱
 pv_042.lyric.001=0 位于此的我害怕否定
 pv_042.lyric.002=逃进模仿与妄想躲了起来
 pv_042.lyric.003=0 出现这结论的我害怕风化
@@ -747,7 +747,7 @@ pv_042.lyric.050=
 
 
 
-pv_043.asong_name=罗密欧与灰姑娘
+pv_043.song_name=罗密欧与灰姑娘
 pv_043.lyric.001=别让我的恋情变成悲剧的朱丽叶
 pv_043.lyric.002=带我离开这里……
 pv_043.lyric.003=就是这样的感觉喔
@@ -804,7 +804,7 @@ pv_043.lyric.052=
 
 
 
-pv_044.asong_name=magnet
+pv_044.song_name=magnet
 pv_044.lyric.001=细微之火 照亮心中的一角
 pv_044.lyric.002=热情不知何时已经燃烧蔓延
 pv_044.lyric.003=我的蝴蝶 纷飞乱舞
@@ -835,7 +835,7 @@ pv_044.lyric.026=
 
 
 
-pv_045.asong_name=Dear
+pv_045.song_name=Dear
 pv_045.lyric.001=脑海之中你清晰可闻的声音
 pv_045.lyric.002=如今依然撼动着我的内心
 pv_045.lyric.003=记忆之中的你总是
@@ -867,7 +867,7 @@ pv_045.lyric.027=
 
 
 
-pv_046.asong_name=from Y to Y
+pv_046.song_name=from Y to Y
 pv_046.lyric.001=背对着我你踏出了步伐
 pv_046.lyric.002=就这么不发一语地离去
 pv_046.lyric.003=动摇不已的心中 有如孩子般嘶喊着
@@ -902,7 +902,7 @@ pv_046.lyric.030=
 
 
 
-pv_047.asong_name=双子座
+pv_047.song_name=双子座
 pv_047.lyric.001=就算分离了 是的 而我们呢
 pv_047.lyric.002=是天上星座的正反面
 pv_047.lyric.003=就算是喧闹的白天 难过的夜晚也好
@@ -947,7 +947,7 @@ pv_047.lyric.040=
 
 
 
-pv_048.asong_name=爱的话语
+pv_048.song_name=爱的话语
 pv_048.lyric.001=我的孩子一直受到大家关照
 pv_048.lyric.002=对愿意倾听的各位 感谢、感谢。
 pv_048.lyric.003=趁此恩一生不忘之际
@@ -980,7 +980,7 @@ pv_048.lyric.028=
 
 
 
-pv_049.asong_name=Po Pi Po
+pv_049.song_name=Po Pi Po
 pv_049.lyric.001=po ppi po ppi po ppo ppi poo
 pv_049.lyric.002=po ppi po ppi po ppo ppi po
 pv_049.lyric.003=ppo pii
@@ -1042,7 +1042,7 @@ pv_049.lyric.057=
 
 
 
-pv_050.asong_name=天涯海角
+pv_050.song_name=天涯海角
 pv_050.lyric.001=那边是个怎样的地方呢？
 pv_050.lyric.002=若你平安到了希望能带封信回来
 pv_050.lyric.003=敞开门扉
@@ -1078,7 +1078,7 @@ pv_050.lyric.031=
 
 
 
-pv_051.asong_name=VOiCE -DIVA　MIX-
+pv_051.song_name=VOiCE -DIVA　MIX-
 pv_051.lyric.001=宛如不断降下堆积的飘雪般 太过的耀眼
 pv_051.lyric.002=宛如渐渐消去虚幻的声音般 止哭地活着
 pv_051.lyric.003=
@@ -1101,7 +1101,7 @@ pv_051.lyric.018=
 
 
 
-pv_052.asong_name=恋色病栋
+pv_052.song_name=恋色病栋
 pv_052.lyric.001=在这样的夜里接到急救电话
 pv_052.lyric.002=现在是刮起什么风？
 pv_052.lyric.003=
@@ -1148,7 +1148,7 @@ pv_052.lyric.042=
 
 
 
-pv_053.asong_name=巨大少女
+pv_053.song_name=巨大少女
 pv_053.lyric.001=我说啊 我想更高再更高的
 pv_053.lyric.002=踮脚看看呢 要比大楼还高
 pv_053.lyric.003=
@@ -1190,7 +1190,7 @@ pv_053.lyric.037=
 
 
 
-pv_054.asong_name=炉心融解
+pv_054.song_name=炉心融解
 pv_054.lyric.001=街灯 繁华 冰冷的乙醚麻醉药
 pv_054.lyric.002=无法成眠的 凌晨两点 一切急速变化
 pv_054.lyric.003=煤油耗尽的打火机
@@ -1231,7 +1231,7 @@ pv_054.lyric.036=
 
 
 
-pv_055.asong_name=心
+pv_055.song_name=心
 pv_055.lyric.001=孤独的科学家制做的机器人
 pv_055.lyric.002=成品简直可说是「奇迹」
 pv_055.lyric.003=但仍有缺憾 仅剩一个部分做不出
@@ -1277,7 +1277,7 @@ pv_055.lyric.041=
 
 
 
-pv_056.asong_name=右肩之蝶
+pv_056.song_name=右肩之蝶
 pv_056.lyric.001=右肩上的紫色蝴蝶 在这亲吻过的房间角落
 pv_056.lyric.002=理解了这名为悲伤的感情
 pv_056.lyric.003=响起了钢琴那 不协和音
@@ -1316,7 +1316,7 @@ pv_056.lyric.034=
 
 
 
-pv_057.asong_name=Double Lariat
+pv_057.song_name=Double Lariat
 pv_057.lyric.001=半径85公分是这双手伸得到的距离
 pv_057.lyric.002=我现在要开始转圈圈了请离我远一点
 pv_057.lyric.003=
@@ -1356,7 +1356,7 @@ pv_057.lyric.035=
 
 
 
-pv_058.asong_name=Cantarella
+pv_058.song_name=Cantarella
 pv_058.lyric.001=互相注视的 那视线
 pv_058.lyric.002=在封闭的世界当中
 pv_058.lyric.003=就算装作 毫无察觉
@@ -1384,7 +1384,7 @@ pv_058.lyric.023=
 
 
 
-pv_059.asong_name=Change me
+pv_059.song_name=Change me
 pv_059.lyric.001=用力 从背后推来
 pv_059.lyric.002=旋转不停地景象
 pv_059.lyric.003=不知如何分辨啊
@@ -1419,7 +1419,7 @@ pv_059.lyric.030=
 
 
 
-pv_060.asong_name=Sound
+pv_060.song_name=Sound
 pv_060.lyric.001=季节流转 人群嘈杂
 pv_060.lyric.002=对于支离破碎 而稍有危险的日子
 pv_060.lyric.003=偶然仰望天空 也似乎迷失其中
@@ -1448,7 +1448,7 @@ pv_060.lyric.024=
 
 
 
-pv_061.asong_name=Clover♣Club
+pv_061.song_name=Clover♣Club
 pv_061.lyric.001=aha 这个世界
 pv_061.lyric.002=就像转个不停的梦
 pv_061.lyric.003=我们都察觉到了
@@ -1493,7 +1493,7 @@ pv_061.lyric.040=
 
 
 
-pv_062.asong_name=Promise
+pv_062.song_name=Promise
 pv_062.lyric.001=触碰伤口的那瞬间
 pv_062.lyric.002=你微微的颤抖
 pv_062.lyric.003=不知该去向何处
@@ -1528,7 +1528,7 @@ pv_062.lyric.030=
 
 
 
-pv_065.asong_name=最初的声音
+pv_065.song_name=最初的声音
 pv_065.lyric.001=初次的音色 是什么呢？
 pv_065.lyric.002=你的 初次的音色是…
 pv_065.lyric.003=对我来说 就像是这首歌一般
@@ -1565,7 +1565,7 @@ pv_065.lyric.032=
 
 
 
-pv_066.asong_name=Just Be Friends
+pv_066.song_name=Just Be Friends
 pv_066.lyric.001=Just be friends All we gotta do
 pv_066.lyric.002=Just be friends It's time to say goodbye
 pv_066.lyric.003=Just be friends All we gotta do
@@ -1612,7 +1612,7 @@ pv_066.lyric.042=
 
 
 
-pv_068.asong_name=Electric Angel（extend版)
+pv_068.song_name=Electric Angel（extend版)
 pv_068.lyric.001=我啊、喜欢唱歌
 pv_068.lyric.002=并非如此才被创造出来
 pv_068.lyric.003=是为了说喜欢这声音
@@ -1649,7 +1649,7 @@ pv_068.lyric.032=我的心、摇曳摇曳着
 
 
 
-pv_079.asong_name=SPiCa -39's Giving Day Edition-
+pv_079.song_name=SPiCa -39's Giving Day Edition-
 pv_079.lyric.001=与你一起眺望
 pv_079.lyric.002=聚集星星的窗户
 pv_079.lyric.003=映射着
@@ -1699,7 +1699,7 @@ pv_079.lyric.054=我现在要唱歌了 要照亮我喔 SPiCa
 
 
 
-pv_081.asong_name=虽然歌声无形
+pv_081.song_name=虽然歌声无形
 pv_081.lyric.001=为浅红时分添色的花瓣
 pv_081.lyric.002=翩翩飞舞在光芒之中
 pv_081.lyric.003=我应该有面带微笑吧
@@ -1731,7 +1731,7 @@ pv_081.lyric.033=成为璀璨的星辰
 
 
 
-pv_082.asong_name=里表Lovers
+pv_082.song_name=里表Lovers
 pv_082.lyric.001=从充满好事的 梦境醒来
 pv_082.lyric.002=我的脑内环境，
 pv_082.lyric.003=被名为Love的不知明物体
@@ -1817,7 +1817,7 @@ pv_082.lyric.096=爱、爱、爱、没有爱！
 
 
 
-pv_083.asong_name=*你好，行星。(I.M.PLSE-EDIT)
+pv_083.song_name=*你好，行星。(I.M.PLSE-EDIT)
 pv_083.lyric.000=
 pv_083.lyric.001=避难所里声音响起 我一个人醒来了
 pv_083.lyric.002=BiBiBiBi 似乎没有什么异常
@@ -1853,7 +1853,7 @@ pv_083.lyric.034=向刚刚诞生的「你」说 你好呀好呀…
 
 
 
-pv_085.asong_name=孤独的尽头 -extend edition-
+pv_085.song_name=孤独的尽头 -extend edition-
 pv_085.lyric.001=逝去的季节 静静地渗透了寒空
 pv_085.lyric.002=遥望街道此景也变化无常
 pv_085.lyric.004=困惑也好
@@ -1893,7 +1893,7 @@ pv_085.lyric.037=仅有寂静的星只梦境过后般的空虚啊
 
 
 
-pv_086.asong_name=Puzzle
+pv_086.song_name=Puzzle
 pv_086.lyric.001=曾几何时我们放开了手
 pv_086.lyric.002=连普通的对话也不再
 pv_086.lyric.003=看着并肩而行的你的侧脸
@@ -1925,7 +1925,7 @@ pv_086.lyric.031=碎片 我拥着入眠
 
 
 
-pv_087.asong_name=Palette
+pv_087.song_name=Palette
 pv_087.lyric.000=
 pv_087.lyric.001=以那泫然欲泣的语声
 pv_087.lyric.002=静静地牵起微笑
@@ -1956,7 +1956,7 @@ pv_087.lyric.027=印下温柔之吻
 
 
 
-pv_088.asong_name=千年的独奏歌 (DIVA edit)
+pv_088.song_name=千年的独奏歌 (DIVA edit)
 pv_088.lyric.000=
 pv_088.lyric.001=独自伫立灰色山丘 踏过干硬枯草
 pv_088.lyric.002=思绪飘向 天空彼端
@@ -1986,7 +1986,7 @@ pv_088.lyric.026=但我将对着天空 持续歌唱
 
 
 
-pv_089.asong_name=忘却心中
+pv_089.song_name=忘却心中
 pv_089.lyric.000=
 pv_089.lyric.001=假如说明天，你就会死的话
 pv_089.lyric.002=在今天里头你想做些什么呢？
@@ -2019,7 +2019,7 @@ pv_089.lyric.031=你的双手的温度…
 
 
 
-pv_090.asong_name=连起来又分开罗刹与骨骸
+pv_090.song_name=连起来又分开罗刹与骨骸
 pv_090.lyric.001=失去一只脚的猫在笑
 pv_090.lyric.002=「去那里跟小姐一起玩吧」
 pv_090.lyric.003=绑在项圈上的红绳子
@@ -2056,7 +2056,7 @@ pv_090.lyric.042=一二三 明天见
 
 
 
-pv_091.asong_name=Rolling Girl
+pv_091.song_name=Rolling Girl
 pv_091.lyric.001=Lonely Girl总是
 pv_091.lyric.002=做着遥不可及的梦
 pv_091.lyric.003=将嘈杂喧嚣的脑海
@@ -2100,7 +2100,7 @@ pv_091.lyric.046=停止呼吸啊、现在。
 
 
 
-pv_092.asong_name=Starduster
+pv_092.song_name=Starduster
 pv_092.lyric.000=
 pv_092.lyric.001=害怕不能被
 pv_092.lyric.002=比谁都还要重要的你爱上
@@ -2121,7 +2121,7 @@ pv_092.lyric.016=请爱我…
 
 
 
-pv_093.asong_name=Paradichlorobenzene
+pv_093.song_name=Paradichlorobenzene
 pv_093.lyric.000=
 pv_093.lyric.001=我是为何而唱？
 pv_093.lyric.002=Paradichlorobenzene
@@ -2205,7 +2205,7 @@ pv_093.lyric.083=直到腐朽为止 来吧
 
 
 
-pv_094.asong_name=番风
+pv_094.song_name=番风
 pv_094.lyric.000=
 pv_094.lyric.001=干冷秋风 轻轻吹拂
 pv_094.lyric.002=干枯树叶 片片飘落
@@ -2245,7 +2245,7 @@ pv_094.lyric.039=干冷歌声 共伴番风
 
 
 
-pv_095.asong_name=猫耳开关
+pv_095.song_name=猫耳开关
 pv_095.lyric.000=
 pv_095.lyric.001=睡眼迷茫地昏昏沉沉
 pv_095.lyric.002=例行休假的午后
@@ -2300,7 +2300,7 @@ pv_095.lyric.057=咦呀呀 有一点伤心呢
 
 
 
-pv_096.asong_name=积雨云Graffiti
+pv_096.song_name=积雨云Graffiti
 pv_096.lyric.000=
 pv_096.lyric.001=滂沱骤雨已经过去
 pv_096.lyric.002=浑身湿透的我们呆然伫立
@@ -2345,7 +2345,7 @@ pv_096.lyric.042=就在你心中
 
 
 
-pv_097.asong_name=恋爱信号 -Append Mix-
+pv_097.song_name=恋爱信号 -Append Mix-
 pv_097.lyric.000=
 pv_097.lyric.001=在每一次约见面的时间
 pv_097.lyric.002=我都会提早就到达
@@ -2392,7 +2392,7 @@ pv_097.lyric.045=如果你讲个理由搪塞的话我可能会原谅你
 
 
 
-pv_102.asong_name=多重未来的四重奏 -Quartet Theme-
+pv_102.song_name=多重未来的四重奏 -Quartet Theme-
 pv_102.lyric.001=So far away from you
 pv_102.lyric.002=群星的记忆
 pv_102.lyric.003=在转瞬之间聚集而成的银河
@@ -2417,7 +2417,7 @@ pv_102.lyric.020=与未来邂逅，QUARTET
 
 
 
-pv_103.asong_name=AFTER BURNER
+pv_103.song_name=AFTER BURNER
 pv_103.lyric.001=那么起飞吧 向遥远的海的彼岸
 pv_103.lyric.002=天空如那被染成绯红的命运
 pv_103.lyric.003=击坠吧
@@ -2450,7 +2450,7 @@ pv_103.lyric.028=誓在归来之时，将故事讲给你听
 
 
 
-pv_104.asong_name=LIKE THE WIND
+pv_104.song_name=LIKE THE WIND
 pv_104.lyric.001=欢迎来到刺激世界
 pv_104.lyric.002=我感到好兴奋
 pv_104.lyric.003=为了第一尽力
@@ -2510,7 +2510,7 @@ pv_104.lyric.055=就像风一样
 
 
 
-pv_201.asong_name=星尘乌托邦
+pv_201.song_name=星尘乌托邦
 pv_201.lyric.001=今天也在高挂于夜空的 非现实之中
 pv_201.lyric.002=将星星画上漆黑的画布
 pv_201.lyric.003=寂静，四窜的本能与想追求的事物
@@ -2545,7 +2545,7 @@ pv_201.lyric.030=万物都无法逃避的现实
 
 
 
-pv_202.asong_name=StargazeR
+pv_202.song_name=StargazeR
 pv_202.lyric.001=抬头仰见夜空 流曳的白云
 pv_202.lyric.002=伸出了手描绘星辰
 pv_202.lyric.003=尽管触摸不着只能遥遥目送
@@ -2571,7 +2571,7 @@ pv_202.lyric.021=决定就在此处绽放StargazeR
 
 
 
-pv_212.asong_name=Colorful × Sexy
+pv_212.song_name=Colorful × Sexy
 pv_212.lyric.001=小指缠绕在一起 大人的夜晚就要开始
 pv_212.lyric.002=在照亮黑暗的灯光下
 pv_212.lyric.003=唇间吐露的气息在相互滑动
@@ -2605,7 +2605,7 @@ pv_212.lyric.029=绝不会让它再次出现 Colorful× Sexy
 
 
 
-pv_213.asong_name=LUKALUKA★NIGHT FEVER
+pv_213.song_name=LUKALUKA★NIGHT FEVER
 pv_213.lyric.001=不行不行唷☆
 pv_213.lyric.002=听到的话左耳进右耳出
 pv_213.lyric.003=一脸无聊地 盯着荧幕看的你
@@ -2641,7 +2641,7 @@ pv_213.lyric.031=不行不行唷☆
 
 
 
-pv_215.asong_name=Leia
+pv_215.song_name=Leia
 pv_215.lyric.000=
 pv_215.lyric.001=让我听见你的声音
 pv_215.lyric.002=驱逐沉闷心情
@@ -2690,7 +2690,7 @@ pv_215.lyric.043=Leia…
 
 
 
-pv_218.asong_name=白如雪的公主啊
+pv_218.song_name=白如雪的公主啊
 pv_218.lyric.001=魔镜啊魔镜啊魔镜先生
 pv_218.lyric.002=不要再说我是世界上最可爱的人了
 pv_218.lyric.003=如荆棘般的视线紧逼而来
@@ -2728,7 +2728,7 @@ pv_218.lyric.033=在我消失之前……
 
 
 
-pv_219.asong_name=深海少女
+pv_219.song_name=深海少女
 pv_219.lyric.001=沉入悲伤之海的我 就连想张开眼也好像永劫
 pv_219.lyric.002=会就此沉沦下去
 pv_219.lyric.003=没人可以找到吗?
@@ -2782,7 +2782,7 @@ pv_219.lyric.049=
 
 
 
-pv_220.asong_name=世界末日舞厅 -Live Dance Edition-
+pv_220.song_name=世界末日舞厅 -Live Dance Edition-
 pv_220.lyric.001=在玩笑混合的边界线上 阶梯再远一点的前方
 pv_220.lyric.002=反正完全没什么好事情，
 pv_220.lyric.003=呐 要试着把这手抽开看看吗?
@@ -2843,7 +2843,7 @@ pv_220.lyric.056=对终结的世界说道
 
 
 
-pv_222.asong_name=Black Gold
+pv_222.song_name=Black Gold
 pv_222.lyric.001=「快决定要往那走吧」
 pv_222.lyric.002=被这么问而说了慌
 pv_222.lyric.003=
@@ -2890,7 +2890,7 @@ pv_222.lyric.042=希望那足迹不会消失
 
 
 
-pv_224.asong_name=Rosary Pale
+pv_224.song_name=Rosary Pale
 pv_224.lyric.001=寒冷彻骨地前夜 寂寞地落下
 pv_224.lyric.002=苍白 轻触脸颊后无影无踪
 pv_224.lyric.003=不见了 像你一样
@@ -2919,7 +2919,7 @@ pv_224.lyric.024=
 
 
 
-pv_225.asong_name=梦想梦想
+pv_225.song_name=梦想梦想
 pv_225.lyric.001=把我的事放一边 很想听更多关于你的事哦
 pv_225.lyric.002=真的想知道很多关于你的事
 pv_225.lyric.003=那么今天也多多指教
@@ -2972,7 +2972,7 @@ pv_225.lyric.048=全因为 一直有对我绽放笑容的你
 
 
 
-pv_226.asong_name=on the rocks
+pv_226.song_name=on the rocks
 pv_226.lyric.001=在伫立其间的街角上
 pv_226.lyric.002=突然抬头仰望着狭窄的天空
 pv_226.lyric.003=在做公工作的规律中
@@ -3018,7 +3018,7 @@ pv_226.lyric.041=要更强烈点才好啊
 
 
 
-pv_227.asong_name=妄想素描本
+pv_227.song_name=妄想素描本
 pv_227.lyric.001=如果是多到有剩 那不如不足还比较好
 pv_227.lyric.002=我正在央求着啊 献身式的爱情
 pv_227.lyric.003=就算不是不吉利的神 不见就没问题了
@@ -3050,7 +3050,7 @@ pv_227.lyric.027=此刻温暖我吧
 
 
 
-pv_228.asong_name=No Logic
+pv_228.song_name=No Logic
 pv_228.lyric.001=总之那样不是挺好吗?
 pv_228.lyric.002=差不多不是挺好吗?
 pv_228.lyric.003=留有些许不安
@@ -3105,7 +3105,7 @@ pv_228.lyric.050=任何人都那么能走…才怪呢
 
 
 
-pv_231.asong_name=Kipple Industry, Inc.
+pv_231.song_name=Kipple Industry, Inc.
 pv_231.lyric.001=好比没什么兴趣的DM传单
 pv_231.lyric.002=好比吃尽全空的瓶装口香糖罐
 pv_231.lyric.003=好比被风吹断骨架的塑胶伞
@@ -3143,7 +3143,7 @@ pv_231.lyric.033=才不过一直存在于这里
 
 
 
-pv_232.asong_name=39
+pv_232.song_name=39
 pv_232.lyric.001=「初次见面」的话 已经说过多少次了
 pv_232.lyric.002=我，其实很怕生的
 pv_232.lyric.003=一直都很不安 其实连现在也是
@@ -3189,7 +3189,7 @@ pv_232.lyric.041=谢谢你们大家
 
 
 
-pv_234.asong_name=深海地下都市
+pv_234.song_name=深海地下都市
 pv_234.lyric.001=仇敌花完全散落飞舞的季节
 pv_234.lyric.002=我在街道口的对面哭泣着
 pv_234.lyric.003=
@@ -3244,7 +3244,7 @@ pv_234.lyric.050=
 
 
 
-pv_238.asong_name=SING＆SMILE
+pv_238.song_name=SING＆SMILE
 pv_238.lyric.001=来吧 我们唱着歌出发
 pv_238.lyric.002=你的笑容 一定能给世上的某人带来幸福
 pv_238.lyric.003=微不足道的爱之魔法 也足以改变世界
@@ -3279,7 +3279,7 @@ pv_238.lyric.030=微不足道的爱之魔法 也足以改变世界
 
 
 
-pv_239.asong_name=三色航空
+pv_239.song_name=三色航空
 pv_239.lyric.001=今晚 在机场 稍等一下
 pv_239.lyric.002=黄昏的空中漂浮 就在金星的旁边
 pv_239.lyric.003=呐 总有一时 可以在青色的同温层中
@@ -3305,7 +3305,7 @@ pv_239.lyric.021=Tricolore·Air·Line
 
 
 
-pv_240.asong_name=Systematic Love
+pv_240.song_name=Systematic Love
 pv_240.lyric.001='SYSTEMATIC LOVE'
 pv_240.lyric.002='SYSTEMATIC LOVE'
 pv_240.lyric.003=
@@ -3358,7 +3358,7 @@ pv_240.lyric.048='SYSTEMATIC LOVE'
 
 
 
-pv_241.asong_name=电子混音器
+pv_241.song_name=电子混音器
 pv_241.lyric.001=色彩缤纷的  景色逐渐浮现
 pv_241.lyric.002=嘈杂的周围  我却是一个人
 pv_241.lyric.003=增加的各种  音色在回响着
@@ -3379,7 +3379,7 @@ pv_241.lyric.016=你的身边
 
 
 
-pv_242.asong_name=1/6 -out of the gravity-
+pv_242.song_name=1/6 -out of the gravity-
 pv_242.lyric.001=四处徘徊的夜间道路
 pv_242.lyric.002=寻找着你而踏进了那条街市
 pv_242.lyric.003=透过电话而听见的你的声音
@@ -3426,7 +3426,7 @@ pv_242.lyric.042=Out of the gravity
 
 
 
-pv_243.asong_name=Interviewer
+pv_243.song_name=Interviewer
 pv_243.lyric.001=「每个人的生命都是独一无二
 pv_243.lyric.002=流行的歌曲总是在这样唱着
 pv_243.lyric.003=任谁来将我取而代之
@@ -3464,7 +3464,7 @@ pv_243.lyric.033=现在开始还来得及嘛
 
 
 
-pv_244.asong_name=雪人
+pv_244.song_name=雪人
 pv_244.lyric.001=「想留在你的身边哦」
 pv_244.lyric.002=谁的祈愿使我获得了生命
 pv_244.lyric.003=因为这一年仅一次的冬之魔法
@@ -3516,7 +3516,7 @@ pv_244.lyric.047=春天总会到来的
 
 
 
-pv_246.asong_name=隐羞思春期
+pv_246.song_name=隐羞思春期
 pv_246.lyric.001=在化妆吗?明明是个小鬼
 pv_246.lyric.002=却带着魅力稍微有点违和感
 pv_246.lyric.003=交到男朋友了吗
@@ -3559,7 +3559,7 @@ pv_246.lyric.038=一直呢都会在一旁看着你的
 
 
 
-pv_247.asong_name=甜蜜魔法
+pv_247.song_name=甜蜜魔法
 pv_247.lyric.001=甜蜜而幸福的点心
 pv_247.lyric.002=秘密配方加什么好呀
 pv_247.lyric.003=纯粹的少女心
@@ -3592,7 +3592,7 @@ pv_247.lyric.028=那种「甜蜜魔法」使
 
 
 
-pv_248.asong_name=普通不过的世界征服
+pv_248.song_name=普通不过的世界征服
 pv_248.lyric.001=蜷缩在狭小教室之中的小蜗牛 歪着嘴哼着曲调
 pv_248.lyric.002=欺负别人的小孩 被别人欺负的小孩
 pv_248.lyric.003=不论是那一边都讨厌青椒呢 大发现
@@ -3644,7 +3644,7 @@ pv_248.lyric.047=拯救大家呀
 
 
 
-pv_249.asong_name=再次再次沸腾
+pv_249.song_name=再次再次沸腾
 pv_249.lyric.001=Sunday 在派对上对你着迷起来
 pv_249.lyric.002=Monday 有点忧郁的 feeling
 pv_249.lyric.003=两人相遇而度过了的 记忆骚动起来
@@ -3694,7 +3694,7 @@ pv_249.lyric.045=想要感受到 同样的节奏呢
 
 
 
-pv_250.asong_name=你好，地球人
+pv_250.song_name=你好，地球人
 pv_250.lyric.001=去同不知道名字 也不知道样貌的你相见
 pv_250.lyric.002=不知你会否是个温柔的人呢 又还是已经是机械人了呢
 pv_250.lyric.003=天文数字般渺茫的概率 一边计算着这些没意义的东西
@@ -3746,7 +3746,7 @@ pv_250.lyric.047=yeah
 
 
 
-pv_251.asong_name=PIANO*GIRL
+pv_251.song_name=PIANO*GIRL
 pv_251.lyric.001=Ah, listen to my music
 pv_251.lyric.002=如同在指尖流淌般
 pv_251.lyric.003=那满溢而出的旋律让心随之舞动
@@ -3778,7 +3778,7 @@ pv_251.lyric.027=我就是PIANO GIRL!!
 
 
 
-pv_253.asong_name=LOL -lots of laugh-
+pv_253.song_name=LOL -lots of laugh-
 pv_253.lyric.001=I'll give you lots of laugh
 pv_253.lyric.002=You'll give me lots of laugh…
 pv_253.lyric.003=I'll give you lots of laugh
@@ -3826,7 +3826,7 @@ pv_253.lyric.043=我就是lol
 
 
 
-pv_254.asong_name=天狐
+pv_254.song_name=天狐
 pv_254.lyric.001=今夜的天穹  也划过一抹
 pv_254.lyric.002=耀眼的  流星的尾迹
 pv_254.lyric.003=为心爱的你  而担忧着
@@ -3859,7 +3859,7 @@ pv_254.lyric.028=架起那  天狐的桥吧
 
 
 
-pv_255.asong_name=骸骨乐团和莉莉亚
+pv_255.song_name=骸骨乐团和莉莉亚
 pv_255.lyric.001=寡言的神啊 留下声音微微倾斜
 pv_255.lyric.002=爱哭鬼的夜晚眼含泪水
 pv_255.lyric.003=唱给月夜的 无人知晓的歌谣
@@ -3910,7 +3910,7 @@ pv_255.lyric.046=致无名的你
 
 
 
-pv_257.asong_name=shake it！
+pv_257.song_name=shake it！
 pv_257.lyric.001=在寂寞难受独自一人的夜晚
 pv_257.lyric.002=搜寻想要消失的话语
 pv_257.lyric.003=穿越秘密的门扉而来
@@ -3966,7 +3966,7 @@ pv_257.lyric.051=oh yeah
 
 
 
-pv_259.asong_name=Cendrillon
+pv_259.song_name=Cendrillon
 pv_259.lyric.001=让你作着只有舞至天明的梦境
 pv_259.lyric.002=由时钟的钟声来解除的魔法
 pv_259.lyric.003=暧昧的指尖 邀引的阶梯
@@ -4005,7 +4005,7 @@ pv_259.lyric.034=好像身处童话
 
 
 
-pv_260.asong_name=Adolescence
+pv_260.song_name=Adolescence
 pv_260.lyric.001=两人永远共舞的约定
 pv_260.lyric.002=因成长的胸部而无法实现
 pv_260.lyric.003=亚麻色的头发 映于镜中
@@ -4044,7 +4044,7 @@ pv_260.lyric.034=好像就像你的骑士(knight)
 
 
 
-pv_261.asong_name=你的体温
+pv_261.song_name=你的体温
 pv_261.lyric.001=被鲜明发光的那道色彩
 pv_261.lyric.002=给捉住而停止了步伐
 pv_261.lyric.003=失去仅感觉到哀愁
@@ -4087,7 +4087,7 @@ pv_261.lyric.038=要是回不去的话那就从我之中消失吧
 
 
 
-pv_262.asong_name=Piano × Forte × Scandal
+pv_262.song_name=Piano × Forte × Scandal
 pv_262.lyric.001=被比作协奏曲的平凡无奇的我的每一天
 pv_262.lyric.002=若是委婉地配合着指挥棒的话 就能拥有被保障的调和
 pv_262.lyric.003=Downbeat
@@ -4117,7 +4117,7 @@ pv_262.lyric.025=全都不是什么坏事呀
 
 
 
-pv_263.asong_name=1925
+pv_263.song_name=1925
 pv_263.lyric.001=一定没问题的
 pv_263.lyric.002=意外, 意外  是可行的呢
 pv_263.lyric.003=反复回圈问答  回答也是没用
@@ -4152,7 +4152,7 @@ pv_263.lyric.030=什么钻石都不需要
 
 
 
-pv_265.asong_name=让声音响遍
+pv_265.song_name=让声音响遍
 pv_265.lyric.001=在深夜中呜响的 声音的警告
 pv_265.lyric.002=沉醉于共呜声中的 凌晨零时
 pv_265.lyric.003=你所触遇到的 光芒
@@ -4209,7 +4209,7 @@ pv_265.lyric.052=让声音响彻吧
 
 
 
-pv_266.asong_name=幽灵法则
+pv_266.song_name=幽灵法则
 pv_266.lyric.001=无关痛痒之事  信口开河后再也无法挽回
 pv_266.lyric.002=追溯期永无期限  就如当初夺来般被夺走
 pv_266.lyric.003=如今仍无法实现  无法如我所愿的蒙骗
@@ -4253,7 +4253,7 @@ pv_266.lyric.039=追溯期永无期限  就如当初夺来般被夺走
 
 
 
-pv_267.asong_name=砂之惑星 feat.初音未来
+pv_267.song_name=砂之惑星 feat.初音未来
 pv_267.lyric.001=在空无一物的沙地交错的雷鸣
 pv_267.lyric.002=于无谓的声音中干涸的生命
 pv_267.lyric.003=今后千百年间寸草不生的 沙漠星球
@@ -4317,7 +4317,7 @@ pv_267.lyric.059=在狂风侵袭下仍迈步前行的沙漠星球
 
 
 
-pv_268.asong_name=Catch the Wave
+pv_268.song_name=Catch the Wave
 pv_268.lyric.001=Catch the wave与你一起
 pv_268.lyric.002=以这捕捉的声音
 pv_268.lyric.003=再次　再次　大声歌唱吧
@@ -4379,7 +4379,7 @@ pv_268.lyric.057=震天动地
 
 
 
-pv_269.asong_name=39music！
+pv_269.song_name=39music！
 pv_269.lyric.001=39music！
 pv_269.lyric.002=新作动画　 投稿　雀跃期待的人们
 pv_269.lyric.003=做出示爱手势……「I♡U」
@@ -4425,7 +4425,7 @@ pv_269.lyric.041=全场一致了！　全场一致了！
 
 
 
-pv_270.asong_name=外星人外星人
+pv_270.song_name=外星人外星人
 pv_270.lyric.001=摇曳的街灯　倾盆大雨
 pv_270.lyric.002=摇晃的感情　感觉的心灵感应
 pv_270.lyric.003=迷路的两个人接触
@@ -4466,7 +4466,7 @@ pv_270.lyric.036=直到异世界的尽头仍然对你　喜欢
 
 
 
-pv_271.asong_name=将手
+pv_271.song_name=将手
 pv_271.lyric.001=思考着
 pv_271.lyric.002=可以像这样　隐藏到何时呢
 pv_271.lyric.003=想要回去的时候　能不能说出再见呢
@@ -4521,7 +4521,7 @@ pv_271.lyric.050=这双手！
 
 
 
-pv_272.asong_name=火花
+pv_272.song_name=火花
 pv_272.lyric.001=咚咚 轻轻的敲响你的心扉
 pv_272.lyric.002=潜入进去夺回你心意的作战
 pv_272.lyric.003=脑海不断 闪过无数妄想
@@ -4595,7 +4595,7 @@ pv_272.lyric.069=身陷结果只落得一声NO的爱情之中
 
 
 
-pv_273.asong_name=ROKI
+pv_273.song_name=ROKI
 pv_273.lyric.001=来吧打破困倦清醒起来 昼夜颠倒 VOX AC30W
 pv_273.lyric.002=背着电吉他的男孩
 pv_273.lyric.003=向乐队的其他人打着招呼
@@ -4658,7 +4658,7 @@ pv_273.lyric.058=不想死掉的是我们彼此啊！！
 
 
 
-pv_274.asong_name=拼图游戏
+pv_274.song_name=拼图游戏
 pv_274.lyric.001=损失 获利 体面 当我每次在意到这些的时候
 pv_274.lyric.002=总是感到左右为难
 pv_274.lyric.003=就好似开了个洞的 拼图的模样
@@ -4713,7 +4713,7 @@ pv_274.lyric.050=拼图碎片
 
 
 
-pv_275.asong_name=Dreamin Chuchu
+pv_275.song_name=Dreamin Chuchu
 pv_275.lyric.001=恋爱的心开花结果
 pv_275.lyric.002=纯情可爱的女孩子
 pv_275.lyric.003=眼睛下嘿嘿的眼圈！快用遮瑕膏（在那？）
@@ -4779,7 +4779,7 @@ pv_275.lyric.061=Choco la ta ta ta ta
 
 
 
-pv_276.asong_name=大江户Julia Night
+pv_276.song_name=大江户Julia Night
 pv_276.lyric.001=「哟！初音屋！」
 pv_276.lyric.002=一、二、一二三 哟!
 pv_276.lyric.003=嘿呀客官  枷锁打开
@@ -4834,7 +4834,7 @@ pv_276.lyric.050=「不成敬意」
 
 
 
-pv_277.asong_name=JITTERBUG
+pv_277.song_name=JITTERBUG
 pv_277.lyric.001=无论是怎样的愿望或理想都说不出口吧
 pv_277.lyric.002=一直都只会用那一成不变的回答
 pv_277.lyric.003=来敷衍了事
@@ -4875,7 +4875,7 @@ pv_277.lyric.036=伸出双手吧直到最后
 
 
 
-pv_278.asong_name=Bless Your Breath
+pv_278.song_name=Bless Your Breath
 pv_278.lyric.001=听见像东拼西凑而成的身体似的 这首歌曲
 pv_278.lyric.002=「这是人工的」「是伪造的」人们捂住双耳
 pv_278.lyric.003=呐 为什么？
@@ -4922,7 +4922,7 @@ pv_278.lyric.042=延展向未来
 
 
 
-pv_279.asong_name=劣等上等
+pv_279.song_name=劣等上等
 pv_279.lyric.001=(Grow up!Nah mean?)(成为大人吧、知道吗？)
 pv_279.lyric.002=(track Giga)
 pv_279.lyric.003=(Rin Len rock da house,Let's go!)
@@ -4991,7 +4991,7 @@ pv_279.lyric.064=那么各位请恕我们先Bye,Guys!
 
 
 
-pv_280.asong_name=拟剧论
+pv_280.song_name=拟剧论
 pv_280.lyric.001=理智上明白却一再哀叹
 pv_280.lyric.002=嘲笑那四脚朝天的凄惨感
 pv_280.lyric.003=无法理解些许寂寞或是爱
@@ -5068,7 +5068,7 @@ pv_280.lyric.072=“映入这双眼的是”
 
 
 
-pv_281.asong_name=绿光小夜曲
+pv_281.song_name=绿光小夜曲
 pv_281.lyric.001=照亮起来吧！　绿光
 pv_281.lyric.002=将那不断展开的未来
 pv_281.lyric.003=一定　有一天
@@ -5119,7 +5119,7 @@ pv_281.lyric.046=是因为想要近距离看见那 七彩的光芒啊！
 
 
 
-pv_433.asong_name=巴黎电影少女
+pv_433.song_name=巴黎电影少女
 pv_433.lyric.001=如粉彩般轻飘飘的恋爱着
 pv_433.lyric.002=从何时开始  那个女孩与我一直做着梦呢
 pv_433.lyric.003=呐  即使  相见或告别也都不会褪色
@@ -5167,7 +5167,7 @@ pv_433.lyric.043=Revoir!  不出发不行了
 
 
 
-pv_435.asong_name=电波模范
+pv_435.song_name=电波模范
 pv_435.lyric.001=不不不不不不
 pv_435.lyric.002=限界境界线
 pv_435.lyric.003=电光石火般的处理速度
@@ -5250,7 +5250,7 @@ pv_435.lyric.078=电波模范
 
 
 
-pv_600.asong_name=Cat Food
+pv_600.song_name=Cat Food
 pv_600.lyric.001=今天也打扮得美美的喔
 pv_600.lyric.002=所以啊　不要把我弄湿了
 pv_600.lyric.003=仰头一看　不要滴在我脸上啊
@@ -5297,7 +5297,7 @@ pv_600.lyric.042=也不管怎样都无法好好说出来吗……
 
 
 
-pv_601.asong_name=黑白∞蓝天
+pv_601.song_name=黑白∞蓝天
 pv_601.lyric.001=窗外是黑白的世界
 pv_601.lyric.002=不变的时光令人烦闷
 pv_601.lyric.003=生存一事稍显沈重
@@ -5337,7 +5337,7 @@ pv_601.lyric.035=来吧，现在，伸出手来吧
 
 
 
-pv_602.asong_name=Fire◎Flower
+pv_602.song_name=Fire◎Flower
 pv_602.lyric.001="从一开始就喜欢你真是太好了"
 pv_602.lyric.002=我要向天空歌唱
 pv_602.lyric.003=能让装满的梦
@@ -5379,7 +5379,7 @@ pv_602.lyric.037=我要向天空歌唱
 
 
 
-pv_603.asong_name=DYE
+pv_603.song_name=DYE
 pv_603.lyric.001=To what color am I dyed?
 pv_603.lyric.002=The size of the dyed thing changes
 pv_603.lyric.003=because of the difference of the dyed color.
@@ -5445,7 +5445,7 @@ pv_603.lyric.061=I want to become it.
 
 
 
-pv_604.asong_name=鸟木都市
+pv_604.song_name=鸟木都市
 pv_604.lyric.001=0与1交会的地点
 pv_604.lyric.002=全是出错的　Communication
 pv_604.lyric.003=你的名字　叫什么？
@@ -5482,7 +5482,7 @@ pv_604.lyric.032=一人也无法独自做到　好想你也在身旁
 
 
 
-pv_605.asong_name=唉？啊，是哦。
+pv_605.song_name=唉？啊，是哦。
 pv_605.lyric.001=想用只有原则的感情论 测量一切什么的
 pv_605.lyric.002=那样可是用错方向了，别让我笑了啦
 pv_605.lyric.003=不过偶而也需要些 有趣的事情嘛
@@ -5510,7 +5510,7 @@ pv_605.lyric.023=啊啊要不行了…
 
 
 
-pv_607.asong_name=秘密警察
+pv_607.song_name=秘密警察
 pv_607.lyric.001=GO!
 pv_607.lyric.002=在你悠哉悠哉的过日子时
 pv_607.lyric.003=协力者不断增加
@@ -5542,7 +5542,7 @@ pv_607.lyric.027=自早到晚 不断监视你（Meow）
 
 
 
-pv_608.asong_name=是怎么回事呢！？
+pv_608.song_name=是怎么回事呢！？
 pv_608.lyric.001=我在旁边烦恼的思考
 pv_608.lyric.002=随着局部解晃动的摆钟
 pv_608.lyric.003=纵向排列害羞的词
@@ -5578,7 +5578,7 @@ pv_608.lyric.031=告诉我吧
 
 
 
-pv_609.asong_name=神曲
+pv_609.song_name=神曲
 pv_609.lyric.001=神曲也好 神游戏也好
 pv_609.lyric.002=巷子中蔓延开来 神之大甩卖
 pv_609.lyric.003=也许内在不过是如纸片般轻薄
@@ -5612,7 +5612,7 @@ pv_609.lyric.029=今天也在拯救着某个谁
 
 
 
-pv_610.asong_name=喵喵喵喵喵喵喵!
+pv_610.song_name=喵喵喵喵喵喵喵!
 pv_610.lyric.001=喵喵喵喵喵 喵喵喵喵喵
 pv_610.lyric.002=喵喵喵喵喵喵喵
 pv_610.lyric.003=喵喵喵喵喵喵喵喵
@@ -5739,7 +5739,7 @@ pv_610.lyric.122=喵喵喵喵喵喵喵喵
 
 
 
-pv_611.asong_name=ACUTE
+pv_611.song_name=ACUTE
 pv_611.lyric.001=曾觉得保持这样就好
 pv_611.lyric.002=而逃离开的夜里
 pv_611.lyric.003=雨水敲打着窗户　被后悔　所折磨
@@ -5772,7 +5772,7 @@ pv_611.lyric.028=温柔的…
 
 
 
-pv_612.asong_name=时光机
+pv_612.song_name=时光机
 pv_612.lyric.001=得意扬扬轻声说道
 pv_612.lyric.002=不用担心我
 pv_612.lyric.003=在旅客稀疏的月台上
@@ -5800,7 +5800,7 @@ pv_612.lyric.023=我还会再回来的
 
 
 
-pv_613.asong_name=尘归尘
+pv_613.song_name=尘归尘
 pv_613.lyric.001=尘归尘 土归土
 pv_613.lyric.002=极尽荒凉的 钢之森
 pv_613.lyric.003=宛如喝采的 鸣震声中 梦见黄铜的羊儿
@@ -5832,7 +5832,7 @@ pv_613.lyric.027=尘归尘 土归土
 
 
 
-pv_614.asong_name=眼镜
+pv_614.song_name=眼镜
 pv_614.lyric.001=为了要去洗脸
 pv_614.lyric.002=而摆在桌上的眼镜
 pv_614.lyric.003=你正在 把玩著它
@@ -5866,7 +5866,7 @@ pv_614.lyric.029=我就这样被填满了
 
 
 
-pv_615.asong_name=忧郁的心情
+pv_615.song_name=忧郁的心情
 pv_615.lyric.001=被完全无法掌握的你
 pv_615.lyric.002=在什么都不知道的时候
 pv_615.lyric.003=给夺走了心这种事
@@ -5903,7 +5903,7 @@ pv_615.lyric.032=忧郁的心情
 
 
 
-pv_616.asong_name=Unhappy Refrain
+pv_616.song_name=Unhappy Refrain
 pv_616.lyric.001=散弹枪与电吉他
 pv_616.lyric.002=言语的队列、UnHappy
 pv_616.lyric.003=单身　都会街景并列
@@ -5979,7 +5979,7 @@ pv_616.lyric.071=那会是？
 
 
 
-pv_617.asong_name=网游废人齐颂曲
+pv_617.song_name=网游废人齐颂曲
 pv_617.lyric.001=net game的世界今天也是
 pv_617.lyric.002=隔绝 悲哀 效率厨蔓延
 pv_617.lyric.003=现实世界明天也会
@@ -6026,7 +6026,7 @@ pv_617.lyric.042=是guild里最高傲的战士
 
 
 
-pv_619.asong_name=天乐
+pv_619.song_name=天乐
 pv_619.lyric.001=苍色的时间 宣告着离别
 pv_619.lyric.002=躲避雨水的伞盖将我抛弃
 pv_619.lyric.003=连到来的夏天 都没察觉到地
@@ -6055,7 +6055,7 @@ pv_619.lyric.024=放出触碰到了那核心的声音 将天乐奏出
 
 
 
-pv_620.asong_name=遥控器
+pv_620.song_name=遥控器
 pv_620.lyric.001=L R L R
 pv_620.lyric.002=STOP＆Dash＆up＆talk B B A B S（tart）
 pv_620.lyric.003=L R L R
@@ -6127,7 +6127,7 @@ pv_620.lyric.067=想要跟那女孩一样变成人类
 
 
 
-pv_621.asong_name=Nostalogic
+pv_621.song_name=Nostalogic
 pv_621.lyric.001=（M-E-I-K-O　M-E-I-K-O…）
 pv_621.lyric.002=（Uh Yeah A-ha…）
 pv_621.lyric.003=（Fuh Ooh…）
@@ -6162,7 +6162,7 @@ pv_621.lyric.030=（La La La La　Ha-aah…）
 
 
 
-pv_622.asong_name=Stay with me
+pv_622.song_name=Stay with me
 pv_622.lyric.001=街上的灯光温柔地闪烁
 pv_622.lyric.002=白色的氤氲流动而又消散
 pv_622.lyric.003=又到了和你一起度过的季节
@@ -6185,7 +6185,7 @@ pv_622.lyric.018=You & me 被温柔地环绕
 
 
 
-pv_623.asong_name=Sadistic.Music∞Factory
+pv_623.song_name=Sadistic.Music∞Factory
 pv_623.lyric.001=『欢迎来临！
 pv_623.lyric.002=我的音乐工厂！』
 pv_623.lyric.003=将你们带到这里的原因无他
@@ -6245,7 +6245,7 @@ pv_623.lyric.055=「×××××××××××××××！」
 
 
 
-pv_624.asong_name=夏日偶像
+pv_624.song_name=夏日偶像
 pv_624.lyric.001=盛夏的海岸　你我两人开车兜风
 pv_624.lyric.002=收音机的频道
 pv_624.lyric.003=播着带点怀旧味道的老歌
@@ -6273,7 +6273,7 @@ pv_624.lyric.023=（…嗯）
 
 
 
-pv_625.asong_name=ODDS&ENDS
+pv_625.song_name=ODDS&ENDS
 pv_625.lyric.001=你一直是被嘲笑的一方
 pv_625.lyric.002=无论做什么都一事无成
 pv_625.lyric.003=最后降下倾盆大雨
@@ -6322,7 +6322,7 @@ pv_625.lyric.044=就在现在　唱出思念
 
 
 
-pv_626.asong_name=Weekender Girl
+pv_626.song_name=Weekender Girl
 pv_626.lyric.001=绚烂夺目的strore
 pv_626.lyric.002=令人心情激动的led
 pv_626.lyric.003=牵着我的手跑
@@ -6363,7 +6363,7 @@ pv_626.lyric.036=Weekender Girl
 
 
 
-pv_627.asong_name=WORLD'S END UMBRELLA
+pv_627.song_name=WORLD'S END UMBRELLA
 pv_627.lyric.001=那伞撑起的那天　天空哭泣了
 pv_627.lyric.002=城镇盲目的　毫无怀疑
 pv_627.lyric.003=你向那伞　啐了一口唾沫
@@ -6403,7 +6403,7 @@ pv_627.lyric.035=小小的二人沉沉酣眠
 
 
 
-pv_628.asong_name=FREELY TOMORROW
+pv_628.song_name=FREELY TOMORROW
 pv_628.lyric.001=全身全心 都是残存记忆中的幻影
 pv_628.lyric.002=真正的爱情 却从指尖悄悄流出
 pv_628.lyric.003=远远地看着的 悲伤的你的 Face
@@ -6428,7 +6428,7 @@ pv_628.lyric.020=一定能重来的Freely Tomorrow
 
 
 
-pv_629.asong_name=Negaposi＊Continues
+pv_629.song_name=Negaposi＊Continues
 pv_629.lyric.001=正在逐渐收集  FRAG PLACEMENT
 pv_629.lyric.002=因为过热  所以冷却了
 pv_629.lyric.003=妈妈(MOTHER GOOSE)  突然出现了
@@ -6490,7 +6490,7 @@ pv_629.lyric.057=be-be-be-beat  CONTINUES!
 
 
 
-pv_630.asong_name=Black★Rock Shooter
+pv_630.song_name=Black★Rock Shooter
 pv_630.lyric.001=BLACK ROCK SHOOTER 你去哪里了？
 pv_630.lyric.002=能听得见吗？
 pv_630.lyric.003=要呐喊多久才好呢
@@ -6518,7 +6518,7 @@ pv_630.lyric.023=歌唱吧
 
 
 
-pv_631.asong_name=梦的续章
+pv_631.song_name=梦的续章
 pv_631.lyric.001=我会一直待在这里唷　即使你年龄增长也如此
 pv_631.lyric.002=在梦的续章　无论今天还是明天　我都会继续歌唱
 pv_631.lyric.003=一旦点燃那贵重的灯火
@@ -6547,7 +6547,7 @@ pv_631.lyric.024=我会怀着祈祷般的心情永远看护下去
 
 
 
-pv_637.asong_name=千本樱 -F edition-
+pv_637.song_name=千本樱 -F edition-
 pv_637.lyric.001=英勇无畏   维新革命
 pv_637.lyric.002=光明磊落   反战国家
 pv_637.lyric.003=乘着日之丸印的自行车
@@ -6596,7 +6596,7 @@ pv_637.lyric.044=自那扣响光线枪的板机吧
 
 
 
-pv_638.asong_name=Tell Your World
+pv_638.song_name=Tell Your World
 pv_638.lyric.001=请不要忘记无形的感觉
 pv_638.lyric.002=决定好的框架已经消失不见
 pv_638.lyric.003=捕捉随口哼出的句子
@@ -6625,7 +6625,7 @@ pv_638.lyric.024=维系在一起　无论何处 啊 啊
 
 
 
-pv_639.asong_name=东京泰迪熊
+pv_639.song_name=东京泰迪熊
 pv_639.lyric.001=爸爸妈妈 至今为止麻烦了
 pv_639.lyric.002=哆嗦著膝盖 咬着大拇指
 pv_639.lyric.003=哥哥姐姐 那么再见吧
@@ -6667,7 +6667,7 @@ pv_639.lyric.037=无论谁都好 来成为替代吧
 
 
 
-pv_640.asong_name=食梦的黑白貘
+pv_640.song_name=食梦的黑白貘
 pv_640.lyric.001=从何而来？
 pv_640.lyric.002=是怎样的姿态？
 pv_640.lyric.003=谁都不清楚
@@ -6706,7 +6706,7 @@ pv_640.lyric.034=…欢迎来到黑白世界！
 
 
 
-pv_641.asong_name=铃酱NOW！
+pv_641.song_name=铃酱NOW！
 pv_641.lyric.001=铃酱now!  铃酱now!!
 pv_641.lyric.002=铃酱铃酱铃酱now!!!
 pv_641.lyric.003=铃酱now!  铃酱now!!
@@ -6824,7 +6824,7 @@ pv_641.lyric.113=铃酱铃酱铃酱now!!!
 
 
 
-pv_642.asong_name=Sweet Devil
+pv_642.song_name=Sweet Devil
 pv_642.lyric.001=Make up and Dress up!
 pv_642.lyric.002=I become very lovely too!
 pv_642.lyric.003=要把睫毛给啦长长 就画上增量睫毛膏
@@ -6860,17 +6860,17 @@ pv_642.lyric.031=要发誓用接吻就可以了 Do you love sweet devil?
 
 
 
-pv_700.asong_name=Ievan Polkka
+pv_700.song_name=Ievan Polkka
 
 
 
 
-pv_701.asong_name=Ievan Polkka
+pv_701.song_name=Ievan Polkka
 
 
 
 
-pv_710.asong_name=樱之雨
+pv_710.song_name=樱之雨
 pv_710.lyric.001=就算即将各奔前程也无妨
 pv_710.lyric.002=我们的友情
 pv_710.lyric.003=根本不需要多问
@@ -6913,7 +6913,7 @@ pv_710.lyric.038=我们就在此重逢吧
 
 
 
-pv_722.asong_name=Meteor
+pv_722.song_name=Meteor
 pv_722.lyric.001=午夜里 鸣奏着
 pv_722.lyric.002=时钟私语
 pv_722.lyric.003=滴滴答答地
@@ -6953,7 +6953,7 @@ pv_722.lyric.035=唤来幸福的早晨
 
 
 
-pv_723.asong_name=二次元 Dream Fever
+pv_723.song_name=二次元 Dream Fever
 pv_723.lyric.001=追击 妄想 坠落
 pv_723.lyric.002=神智 丧失 逃走
 pv_723.lyric.003=脑内 物质 产生
@@ -7012,7 +7012,7 @@ pv_723.lyric.054=症状名称：二次元 Dream Fever
 
 
 
-pv_724.asong_name=Envy Cat Walk
+pv_724.song_name=Envy Cat Walk
 pv_724.lyric.001=旧繁华区 第三街 暗巷猫 欲求理论
 pv_724.lyric.002=偏执狂 想回头 点缀每个夜晚的Nail
 pv_724.lyric.003=外表 美貌 理想 争夺？
@@ -7059,7 +7059,7 @@ pv_724.lyric.042=迎接早晨吧。
 
 
 
-pv_725.asong_name=打勾勾
+pv_725.song_name=打勾勾
 pv_725.lyric.001=今晚为了你
 pv_725.lyric.002=献上我的身体
 pv_725.lyric.003=跟你之间可是特别的关系
@@ -7090,7 +7090,7 @@ pv_725.lyric.026=化为断指
 
 
 
-pv_726.asong_name=活动小丑
+pv_726.song_name=活动小丑
 pv_726.lyric.001=约好的时间已过了2小时
 pv_726.lyric.002=我还孤独的伫立在此 这大概就是答案吧？
 pv_726.lyric.003=来往的路人 流动的云朵
@@ -7117,7 +7117,7 @@ pv_726.lyric.022=跟你所想的一样 被操弄着
 
 
 
-pv_727.asong_name=喜欢讨厌
+pv_727.song_name=喜欢讨厌
 pv_727.lyric.001=喜欢讨厌 我不知道 讨厌
 pv_727.lyric.002=喜欢你 不可能是意外 喜欢你！
 pv_727.lyric.003=喜欢和讨厌 我不知道 停不下来
@@ -7159,7 +7159,7 @@ pv_727.lyric.037=喜欢讨厌
 
 
 
-pv_728.asong_name=erase or zero
+pv_728.song_name=erase or zero
 pv_728.lyric.001=紧握的手臂也好
 pv_728.lyric.002=未来的黑暗也好
 pv_728.lyric.003=祈愿
@@ -7226,7 +7226,7 @@ pv_728.lyric.062=这样的我们 为何总是……
 
 
 
-pv_729.asong_name=这里是幸福安心委员会
+pv_729.song_name=这里是幸福安心委员会
 pv_729.lyric.001=大家为什么都很幸福？
 pv_729.lyric.002=想要多听 多了解 这个世界
 pv_729.lyric.003=大家都在水边的公园 侧耳倾听
@@ -7268,7 +7268,7 @@ pv_729.lyric.037=如果不幸福……就去○吧！
 
 
 
-pv_730.asong_name=Hello, Worker
+pv_730.song_name=Hello, Worker
 pv_730.lyric.001=我那浓缩在B4纸上的人生
 pv_730.lyric.002=希望被谁认同而露出的笑容
 pv_730.lyric.003=在这不只是靠计算就能解开的难题
@@ -7310,7 +7310,7 @@ pv_730.lyric.037=这样的话至少今天 现在这个当下是属于我们的
 
 
 
-pv_731.asong_name=Knife
+pv_731.song_name=Knife
 pv_731.lyric.001=今晚 能否用冰冷的刀刃
 pv_731.lyric.002=撕裂我的身体呢？
 pv_731.lyric.003=如果 一切终将剥落
@@ -7355,7 +7355,7 @@ pv_731.lyric.040=请你亲手 束缚我
 
 
 
-pv_732.asong_name=拂晓抵达
+pv_732.song_name=拂晓抵达
 pv_732.lyric.001=朝着刺网另一端 更加高耸之处 竞争的两人
 pv_732.lyric.002=不需要言语 只盯着对方的侧脸
 pv_732.lyric.003=互相刺激 即使身在
@@ -7393,7 +7393,7 @@ pv_732.lyric.033=最棒的对手
 
 
 
-pv_733.asong_name=虚假Ganger
+pv_733.song_name=虚假Ganger
 pv_733.lyric.001=我只是Ganger 总是这样
 pv_733.lyric.002=转过身咬着手指
 pv_733.lyric.003=反正不论去哪里到哪里
@@ -7436,7 +7436,7 @@ pv_733.lyric.038=也无所谓
 
 
 
-pv_734.asong_name=破坏破坏
+pv_734.song_name=破坏破坏
 pv_734.lyric.001=远方传来 夜晚的味道
 pv_734.lyric.002=随着呼啸的潮湿风声 你缓缓地步行而来
 pv_734.lyric.003=你现在心里所想的事
@@ -7477,7 +7477,7 @@ pv_734.lyric.036=能不见面的话就好了
 
 
 
-pv_736.asong_name=二息步行
+pv_736.song_name=二息步行
 pv_736.lyric.001=「这是我进化过程中的第1页」
 pv_736.lyric.002=因为想要拥抱 所以用双脚步行
 pv_736.lyric.003=因为一个人太孤单 所以跟你一起呼吸
@@ -7506,7 +7506,7 @@ pv_736.lyric.024=吸着我吐出的话语直到停止呼吸吧
 
 
 
-pv_737.asong_name=soundless voice
+pv_737.song_name=soundless voice
 pv_737.lyric.001=在寂静笼罩街道的夜晚
 pv_737.lyric.002=不断降下的白
 pv_737.lyric.003=在碰到举起的掌心
@@ -7555,7 +7555,7 @@ pv_737.lyric.044=雪白了…
 
 
 
-pv_738.asong_name=Blackjack
+pv_738.song_name=Blackjack
 pv_738.lyric.001=接下来不要了   『再一次』
 pv_738.lyric.002=要是腻了就舍弃喔   『再一次』
 pv_738.lyric.003=就这一次还想试试 『再一次』
@@ -7592,7 +7592,7 @@ pv_738.lyric.032=为了失败者所唱的歌
 
 
 
-pv_739.asong_name=DECORATOR
+pv_739.song_name=DECORATOR
 pv_739.lyric.001=不管完成了再完美的算式
 pv_739.lyric.002=答案都会因为你的一点小举动而改变
 pv_739.lyric.003=光是那样
@@ -7626,7 +7626,7 @@ pv_739.lyric.029=去装饰吧
 
 
 
-pv_740.asong_name=Glory 3usi9
+pv_740.song_name=Glory 3usi9
 pv_740.lyric.001=不论是没什么大不了的事 还是相当重要的大事
 pv_740.lyric.002=都会马上忘得一干二净
 pv_740.lyric.003=毫无变化的每一天
@@ -7666,7 +7666,7 @@ pv_740.lyric.035=现在就告诉你
 
 
 
-pv_832.asong_name=Hand in Hand
+pv_832.song_name=Hand in Hand
 pv_832.lyric.001=闭上双眼 以能够看见的
 pv_832.lyric.002=那指尖 为目标
 pv_832.lyric.003=让轻轻哼着的歌曲

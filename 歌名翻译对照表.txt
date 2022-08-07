@@ -52,6 +52,9 @@ pv_017.song_name=荒野と森と魔法の歌
 pv_018.song_name.cn=生命之歌
 pv_018.song_name=いのちの歌
 
+pv_019.song_name.cn=鸽子
+pv_019.song_name=ハト
+
 pv_020.song_name.cn=moon
 pv_020.song_name=moon
 
@@ -69,6 +72,9 @@ pv_024.song_name=天鵞絨アラベスク
 
 pv_025.song_name.cn=恋爱列表更新中?
 pv_025.song_name=ラブリスト更新中？
+
+pv_027.song_name.cn=Ievan Polkka
+pv_027.song_name=Ievan Polkka
 
 pv_028.song_name.cn=把你给MIKUMIKU掉♪【MIKU掉】
 pv_028.song_name=みくみくにしてあげる♪【してやんよ】
@@ -220,7 +226,7 @@ pv_091.song_name=ローリンガール
 pv_092.song_name.cn=Starduster
 pv_092.song_name=Starduster
 
-pv_093.song_name.cn=Paradichlorobenzene
+pv_093.song_name.cn=对二氯苯
 pv_093.song_name=パラジクロロベンゼン
 
 pv_094.song_name.cn=番风
@@ -265,6 +271,9 @@ pv_205.song_name=Holy Star -2010 DIVA mix-
 pv_206.song_name.cn=melody...
 pv_206.song_name=melody...
 
+pv_207.song_name.cn=saturation
+pv_207.song_name=saturation
+
 pv_208.song_name.cn=迷的控制论
 pv_208.song_name=迷的サイバネティックス
 
@@ -298,7 +307,7 @@ pv_218.song_name=白い雪のプリンセスは
 pv_219.song_name.cn=深海少女
 pv_219.song_name=深海少女
 
-pv_220.song_name.cn=世界末日舞厅 -Live Dance Edition-
+pv_220.song_name.cn=世末舞厅 -Live Dance Edition-
 pv_220.song_name=ワールズエンド・ダンスホール -Live Dance Edition-
 
 pv_221.song_name.cn=猫耳备档

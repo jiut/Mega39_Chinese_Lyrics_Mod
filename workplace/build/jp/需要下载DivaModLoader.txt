@@ -1,5 +1,0 @@
-需要下载DivaModLoader
-
-地址：https://github.com/blueskythlikesclouds/DivaModLoader/releases
-
-直接解压到游戏目录即可，然后将本mod解压到游戏目录
