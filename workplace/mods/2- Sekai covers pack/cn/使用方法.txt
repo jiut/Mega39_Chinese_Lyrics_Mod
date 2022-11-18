@@ -1,0 +1,2 @@
+将其放入：游戏目录\mods\2- Sekai covers pack\rom 文件夹中并替换同名文件。
+同时删除 Mega39 Chinese Lyrics Mod 中 config.toml 里 include 中的 "MEGA39" （使用 DivaModManager 的 Configure Mod 功能也可以实现相同效果）

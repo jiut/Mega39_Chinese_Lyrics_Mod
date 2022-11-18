@@ -38,7 +38,11 @@ pv_013.song_name.cn=不悦的华尔滋
 pv_013.song_name=フキゲンワルツ
 
 pv_014.song_name.cn=Miracle Paint
+pv_014.another_song.0.name=Miracle Paint
+pv_014.another_song.1.name=Miracle Paint
 pv_014.song_name=ミラクルペイント
+pv_014.another_song.0.name=ミラクルペイント
+pv_014.another_song.1.name=ミラクルペイント
 
 pv_015.song_name.cn=梦想树叶
 pv_015.song_name=Dreaming Leaf -ユメミルコトノハ-
@@ -110,7 +114,11 @@ pv_042.song_name.cn=初音未来的激唱
 pv_042.song_name=初音ミクの激唱
 
 pv_043.song_name.cn=罗密欧与灰姑娘
+pv_043.another_song.0.name=罗密欧与灰姑娘
+pv_043.another_song.1.name=罗密欧与灰姑娘
 pv_043.song_name=ロミオとシンデレラ
+pv_043.another_song.0.name=ロミオとシンデレラ
+pv_043.another_song.1.name=ロミオとシンデレラ
 
 pv_044.song_name.cn=magnet
 pv_044.song_name=magnet
@@ -119,7 +127,11 @@ pv_045.song_name.cn=Dear
 pv_045.song_name=Dear
 
 pv_046.song_name.cn=from Y to Y
+pv_046.another_song.0.name=from Y to Y
+pv_046.another_song.1.name=from Y to Y
 pv_046.song_name=from Y to Y
+pv_046.another_song.0.name=from Y to Y
+pv_046.another_song.1.name=from Y to Y
 
 pv_047.song_name.cn=双子座
 pv_047.song_name=ジェミニ
@@ -179,7 +191,11 @@ pv_065.song_name.cn=最初的声音
 pv_065.song_name=ハジメテノオト
 
 pv_066.song_name.cn=Just Be Friends
+pv_066.another_song.0.name=Just Be Friends
+pv_066.another_song.1.name=Just Be Friends
 pv_066.song_name=Just Be Friends
+pv_066.another_song.0.name=Just Be Friends
+pv_066.another_song.1.name=Just Be Friends
 
 pv_067.song_name.cn=在金色圣夜的霜雪中枯朽而去（extend版）
 pv_067.song_name=金の聖夜霜雪に朽ちて（extend版)
@@ -377,7 +393,11 @@ pv_246.song_name.cn=隐羞思春期
 pv_246.song_name=テレカクシ思春期
 
 pv_247.song_name.cn=甜蜜魔法
+pv_247.another_song.0.name=甜蜜魔法
+pv_247.another_song.1.name=甜蜜魔法
 pv_247.song_name=スイートマジック
+pv_247.another_song.0.name=スイートマジック
+pv_247.another_song.1.name=スイートマジック
 
 pv_248.song_name.cn=普通不过的世界征服
 pv_248.song_name=ありふれたせかいせいふく
@@ -437,19 +457,35 @@ pv_270.song_name.cn=外星人外星人
 pv_270.song_name=エイリアンエイリアン
 
 pv_271.song_name.cn=将手
+pv_271.another_song.0.name=将手
+pv_271.another_song.1.name=将手
 pv_271.song_name=テオ
+pv_271.another_song.0.name=テオ
+pv_271.another_song.1.name=テオ
 
 pv_272.song_name.cn=火花
+pv_272.another_song.0.name=火花
+pv_272.another_song.1.name=火花
 pv_272.song_name=ヒバナ
+pv_272.another_song.0.name=ヒバナ
+pv_272.another_song.1.name=ヒバナ
 
 pv_273.song_name.cn=ROKI
+pv_273.another_song.0.name=ROKI
+pv_273.another_song.1.name=ROKI
 pv_273.song_name=ロキ
+pv_273.another_song.0.name=ロキ
+pv_273.another_song.1.name=ロキ
 
 pv_274.song_name.cn=拼图游戏
 pv_274.song_name=ジグソーパズル
 
 pv_275.song_name.cn=Dreamin Chuchu
+pv_275.another_song.0.name=Dreamin Chuchu
+pv_275.another_song.1.name=Dreamin Chuchu
 pv_275.song_name=どりーみんチュチュ
+pv_275.another_song.0.name=どりーみんチュチュ
+pv_275.another_song.1.name=どりーみんチュチュ
 
 pv_276.song_name.cn=大江户Julia Night
 pv_276.song_name=大江戸ジュリアナイト
@@ -461,10 +497,18 @@ pv_278.song_name.cn=Bless Your Breath
 pv_278.song_name=ブレス・ユア・ブレス
 
 pv_279.song_name.cn=劣等上等
+pv_279.another_song.0.name=劣等上等
+pv_279.another_song.1.name=劣等上等
 pv_279.song_name=劣等上等
+pv_279.another_song.0.name=劣等上等
+pv_279.another_song.1.name=劣等上等
 
 pv_280.song_name.cn=拟剧论
+pv_280.another_song.0.name=拟剧论
+pv_280.another_song.1.name=拟剧论
 pv_280.song_name=ドラマツルギー
+pv_280.another_song.0.name=ドラマツルギー
+pv_280.another_song.1.name=ドラマツルギー
 
 pv_281.song_name.cn=绿光小夜曲
 pv_281.song_name=グリーンライツ・セレナーデ
@@ -629,7 +673,11 @@ pv_611.song_name.cn=ACUTE
 pv_611.song_name=ACUTE
 
 pv_612.song_name.cn=时光机
+pv_612.another_song.0.name=时光机
+pv_612.another_song.1.name=时光机
 pv_612.song_name=タイムマシン
+pv_612.another_song.0.name=タイムマシン
+pv_612.another_song.1.name=タイムマシン
 
 pv_613.song_name.cn=尘归尘
 pv_613.song_name=ハイハハイニ
@@ -656,7 +704,11 @@ pv_620.song_name.cn=遥控器
 pv_620.song_name=リモコン
 
 pv_621.song_name.cn=Nostalogic
+pv_621.another_song.0.name=Nostalogic [MEIKO-SAN mix]
+pv_621.another_song.1.name=Nostalogic [LOLI-MEIKO mix]
 pv_621.song_name=Nostalogic
+pv_621.another_song.0.name=Nostalogic [MEIKO-SAN mix]
+pv_621.another_song.1.name=Nostalogic [LOLI-MEIKO mix]
 
 pv_622.song_name.cn=Stay with me
 pv_622.song_name=Stay with me
@@ -689,8 +741,8 @@ pv_631.song_name.cn=梦的续章
 pv_631.song_name=夢の続き
 
 pv_637.song_name.cn=千本樱 -F edition-
-pv_637.another_song.0.name.cn=千本樱 -F edition-
-pv_637.another_song.1.name.cn=千本樱 -F edition All Version-
+pv_637.another_song.0.name=千本樱 -F edition-
+pv_637.another_song.1.name=千本樱 -F edition All Version-
 pv_637.song_name=千本桜 -F edition-
 pv_637.another_song.0.name=千本桜 -F edition-
 pv_637.another_song.1.name=千本桜 -F edition All Version-

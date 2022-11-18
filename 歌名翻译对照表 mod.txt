@@ -1,173 +1,496 @@
 #Hoshikuzu
-pv_606.song_name.jp=ワールズエンド・ダンスホール -F Edition-
+pv_453.song_name.cn=别走
+pv_453.another_song.0.name.cn=别走
+pv_453.another_song.1.name.cn=别走
+pv_453.song_name=いかないで
+pv_453.another_song.0.name=いかないで
+pv_453.another_song.1.name=いかないで
 
-pv_643.song_name.jp=ぽっぴっぽー F's Special edition
+pv_454.song_name.cn=泡沫未来
+pv_454.song_name=泡沫未来
 
-pv_721.song_name.jp=カゲロウデイズ
+pv_461.song_name.cn=是的是的！！
+pv_461.song_name=そうだった！！
 
-pv_735.song_name.jp=カンタレラ ～grace edition～
+pv_915.song_name.cn=NEAR
+pv_915.another_song.0.name.cn=NEAR
+pv_915.another_song.1.name.cn=NEAR
+pv_915.song_name=ニア
+pv_915.another_song.0.name=ニア
+pv_915.another_song.1.name=ニア
 
-pv_927.song_name.jp=potatoになっていく
+pv_916.song_name.cn=Hello／How are you
+pv_916.another_song.0.name.cn=Hello／How are you
+pv_916.another_song.1.name.cn=Hello／How are you
+pv_916.song_name=ハロ／ハワユ
+pv_916.another_song.0.name=ハロ／ハワユ
+pv_916.another_song.1.name=ハロ／ハワユ
 
-pv_928.song_name.jp=アイドル新鋭隊
+pv_917.song_name.cn=自伤无色
+pv_917.another_song.0.name.cn=自伤无色
+pv_917.another_song.1.name.cn=自伤无色
+pv_917.song_name=自傷無色
+pv_917.another_song.0.name=自傷無色
+pv_917.another_song.1.name=自傷無色
 
-pv_931.song_name.jp=ブリキノダンス
+pv_918.song_name.cn=Blessing
+pv_918.song_name=Blessing
 
-pv_933.song_name.jp=needLe
+pv_919.song_name.cn=Alive
+pv_919.song_name=Alive
 
-pv_936.song_name.jp=乙女解剖
+pv_920.song_name.cn=Charles
+pv_920.another_song.0.name.cn=Charles
+pv_920.another_song.1.name.cn=Charles
+pv_920.song_name=シャルル
+pv_920.another_song.0.name=シャルル
+pv_920.another_song.1.name=シャルル
 
-pv_937.song_name.jp=ジャンキーナイトタウンオーケストラ
+pv_921.song_name.cn=世界
+pv_921.another_song.0.name.cn=世界
+pv_921.another_song.1.name.cn=世界
+pv_921.song_name=セカイ
+pv_921.another_song.0.name=セカイ
+pv_921.another_song.1.name=セカイ
 
-pv_940.song_name.jp=命に嫌われている。
+pv_922.song_name.cn=奔向蓝天！
+pv_922.another_song.0.name.cn=奔向蓝天！
+pv_922.another_song.1.name.cn=奔向蓝天！
+pv_922.song_name=青く駆けろ！
+pv_922.another_song.0.name=青く駆けろ！
+pv_922.another_song.1.name=青く駆けろ！
 
-pv_941.song_name.jp=ステラ
+pv_923.song_name.cn=快乐合成器
+pv_923.another_song.0.name.cn=快乐合成器
+pv_923.another_song.1.name.cn=快乐合成器
+pv_923.song_name=ハッピーシンセサイザ
+pv_923.another_song.0.name=ハッピーシンセサイザ
+pv_923.another_song.1.name=ハッピーシンセサイザ
 
-pv_943.song_name.jp=ジャックポットサッドガール
+pv_924.song_name.cn=VIVA HAPPY
+pv_924.another_song.0.name.cn=VIVA HAPPY
+pv_924.another_song.1.name.cn=VIVA HAPPY
+pv_924.song_name=ビバハピ
+pv_924.another_song.0.name=ビバハピ
+pv_924.another_song.1.name=ビバハピ
 
-pv_945.song_name.jp=ぼうけんのしょがきえました！
+pv_925.song_name.cn=Melty Land Nightmare
+pv_925.another_song.0.name.cn=Melty Land Nightmare
+pv_925.another_song.1.name.cn=Melty Land Nightmare
+pv_925.song_name=メルティランドナイトメア
+pv_925.another_song.0.name=メルティランドナイトメア
+pv_925.another_song.1.name=メルティランドナイトメア
 
-pv_947.song_name.jp=脱法ロック
+pv_926.song_name.cn=Fragile
+pv_926.another_song.0.name.cn=Fragile
+pv_926.another_song.1.name.cn=Fragile
+pv_926.another_song.2.name.cn=Fragile
+pv_926.song_name=フラジール
+pv_926.another_song.0.name=フラジール
+pv_926.another_song.1.name=フラジール
+pv_926.another_song.2.name=フラジール
 
-pv_948.song_name.jp=Gimme×Gimme
+pv_927.song_name.cn=变身土豆
+pv_927.another_song.0.name.cn=变身土豆
+pv_927.another_song.1.name.cn=变身土豆
+pv_927.another_song.2.name.cn=变身土豆
+pv_927.song_name=potatoになっていく
+pv_927.another_song.0.name=potatoになっていく
+pv_927.another_song.1.name=potatoになっていく
+pv_927.another_song.2.name=potatoになっていく
 
-pv_960.song_name.jp=限りなく灰色へ
+pv_928.song_name.cn=偶像新锐队
+pv_928.another_song.0.name.cn=偶像新锐队
+pv_928.another_song.1.name.cn=偶像新锐队
+pv_928.song_name=アイドル新鋭隊
+pv_928.another_song.0.name=アイドル新鋭隊
+pv_928.another_song.1.name=アイドル新鋭隊
 
-pv_961.song_name.jp=ボッカデラベリタ
+pv_929.song_name.cn=“世界”还没开始
+pv_929.another_song.0.name.cn=“世界”还没开始
+pv_929.another_song.1.name.cn=“世界”还没开始
+pv_929.song_name=セカイはまだ始まってすらいない
+pv_929.another_song.0.name=セカイはまだ始まってすらいない
+pv_929.another_song.1.name=セカイはまだ始まってすらいない
 
-pv_962.song_name.jp=天使のクローバー
+pv_930.song_name.cn=明日的夜空哨戒班
+pv_930.another_song.0.name.cn=明日的夜空哨戒班
+pv_930.another_song.1.name.cn=明日的夜空哨戒班
+pv_930.song_name=アスノヨゾラ哨戒班
+pv_930.another_song.0.name=アスノヨゾラ哨戒班
+pv_930.another_song.1.name=アスノヨゾラ哨戒班
 
-pv_964.song_name.jp=愛されなくても君がいる
+pv_931.song_name.cn=马口铁之舞
+pv_931.another_song.0.name.cn=马口铁之舞
+pv_931.another_song.1.name.cn=马口铁之舞
+pv_931.another_song.2.name.cn=马口铁之舞
+pv_931.song_name=ブリキノダンス
+pv_931.another_song.0.name=ブリキノダンス
+pv_931.another_song.1.name=ブリキノダンス
+pv_931.another_song.2.name=ブリキノダンス
 
-pv_965.song_name.jp=Forward
+pv_932.song_name.cn=Dance Robot Dance
+pv_932.another_song.0.name.cn=Dance Robot Dance
+pv_932.another_song.1.name.cn=Dance Robot Dance
+pv_932.song_name=ダンスロボットダンス
+pv_932.another_song.0.name=ダンスロボットダンス
+pv_932.another_song.1.name=ダンスロボットダンス
 
-pv_973.song_name.jp=drop pop candy
+pv_933.song_name.cn=needLe
+pv_933.another_song.0.name.cn=needLe
+pv_933.another_song.1.name.cn=needLe
+pv_933.song_name=needLe
+pv_933.another_song.0.name=needLe
+pv_933.another_song.1.name=needLe
 
-pv_974.song_name.jp=ミルククラウン・オン・ソーネチカ
+pv_934.song_name.cn=Ready Steady
+pv_934.another_song.0.name.cn=Ready Steady
+pv_934.another_song.1.name.cn=Ready Steady
+pv_934.song_name=Ready Steady
+pv_934.another_song.0.name=Ready Steady
+pv_934.another_song.1.name=Ready Steady
 
-pv_977.song_name.jp=アンノウン・マザーグース
+pv_935.song_name.cn=移动恋话
+pv_935.another_song.0.name.cn=移动恋话
+pv_935.another_song.1.name.cn=移动恋话
+pv_935.song_name=携帯恋話
+pv_935.another_song.0.name=携帯恋話
+pv_935.another_song.1.name=携帯恋話
 
+pv_936.song_name.cn=乙女解剖
+pv_936.another_song.0.name.cn=乙女解剖
+pv_936.another_song.1.name.cn=乙女解剖
+pv_936.song_name=乙女解剖
+pv_936.another_song.0.name=乙女解剖
+pv_936.another_song.1.name=乙女解剖
 
+pv_937.song_name.cn=瘾者之夜城镇乐队
+pv_937.song_name=ジャンキーナイトタウンオーケストラ
 
+pv_938.song_name.cn=夜谈欺骗
+pv_938.another_song.0.name.cn=夜谈欺骗
+pv_938.another_song.1.name.cn=夜谈欺骗
+pv_938.song_name=夜咄ディセイブ
+pv_938.another_song.0.name=夜咄ディセイブ
+pv_938.another_song.1.name=夜咄ディセイブ
 
+pv_939.song_name.cn=MORE! JUMP! MORE!
+pv_939.song_name=モア！ジャンプ！モア！
 
+pv_940.song_name.cn=被生命所厌恶。
+pv_940.another_song.0.name.cn=被生命所厌恶。
+pv_940.another_song.1.name.cn=被生命所厌恶。
+pv_940.another_song.2.name.cn=被生命所厌恶。
+pv_940.song_name=命に嫌われている。
+pv_940.another_song.0.name=命に嫌われている。
+pv_940.another_song.1.name=命に嫌われている。
+pv_940.another_song.2.name=命に嫌われている。
+
+pv_941.song_name.cn=Stella
+pv_941.another_song.0.name.cn=Stella
+pv_941.another_song.1.name.cn=Stella
+pv_941.song_name=ステラ
+pv_941.another_song.0.name=ステラ
+pv_941.another_song.1.name=ステラ
+
+pv_942.song_name.cn=写着后悔的未来
+pv_942.another_song.0.name.cn=写着后悔的未来
+pv_942.another_song.1.name.cn=写着后悔的未来
+pv_942.song_name=悔やむと書いてミライ
+pv_942.another_song.0.name=悔やむと書いてミライ
+pv_942.another_song.1.name=悔やむと書いてミライ
+
+pv_943.song_name.cn=Jackpot Sad Girl
+pv_943.another_song.0.name.cn=Jackpot Sad Girl
+pv_943.another_song.1.name.cn=Jackpot Sad Girl
+pv_943.song_name=ジャックポットサッドガール
+pv_943.another_song.0.name=ジャックポットサッドガール
+pv_943.another_song.1.name=ジャックポットサッドガール
+
+pv_944.song_name.cn=Next Nest
+pv_944.song_name=ネクストネスト
+
+pv_945.song_name.cn=冒险书消失了！
+pv_945.another_song.0.name.cn=冒险书消失了！
+pv_945.another_song.1.name.cn=冒险书消失了！
+pv_945.song_name=ぼうけんのしょがきえました！
+pv_945.another_song.0.name=ぼうけんのしょがきえました！
+pv_945.another_song.1.name=ぼうけんのしょがきえました！
+
+pv_946.song_name.cn=Doctor=Funk Beat
+pv_946.another_song.0.name.cn=Doctor=Funk Beat
+pv_946.another_song.1.name.cn=Doctor=Funk Beat
+pv_946.song_name=ドクター＝ファンクビート
+pv_946.another_song.0.name=ドクター＝ファンクビート
+pv_946.another_song.1.name=ドクター＝ファンクビート
+
+pv_947.song_name.cn=逃避法律摇滚
+pv_947.another_song.0.name.cn=逃避法律摇滚
+pv_947.another_song.1.name.cn=逃避法律摇滚
+pv_947.song_name=脱法ロック
+pv_947.another_song.0.name=脱法ロック
+pv_947.another_song.1.name=脱法ロック
+
+pv_948.song_name.cn=Gimme×Gimme
+pv_948.song_name=Gimme×Gimme
+
+pv_949.song_name.cn=哇哇世界
+pv_949.another_song.0.name.cn=哇哇世界
+pv_949.another_song.1.name.cn=哇哇世界
+pv_949.song_name=ワーワーワールド
+pv_949.another_song.0.name=ワーワーワールド
+pv_949.another_song.1.name=ワーワーワールド
+
+pv_951.song_name.cn=皆大欢喜
+pv_951.another_song.0.name.cn=皆大欢喜
+pv_951.another_song.1.name.cn=皆大欢喜
+pv_951.another_song.2.name.cn=皆大欢喜
+pv_951.song_name=お気に召すまま
+pv_951.another_song.0.name=お気に召すまま
+pv_951.another_song.1.name=お気に召すまま
+pv_951.another_song.2.name=お気に召すまま
+
+pv_953.song_name.cn=拍鬼怪的马屁
+pv_953.song_name=おばけのウケねらい
+
+pv_954.song_name.cn=LINER
+pv_954.song_name=ライナ
+
+pv_958.song_name.cn=再见，优等生
+pv_958.another_song.0.name.cn=再见，优等生
+pv_958.another_song.1.name.cn=再见，优等生
+pv_958.song_name=さよなら、優等生
+pv_958.another_song.0.name=さよなら、優等生
+pv_958.another_song.1.name=さよなら、優等生
+
+pv_960.song_name.cn=向着无尽之灰
+pv_960.another_song.0.name.cn=向着无尽之灰
+pv_960.another_song.1.name.cn=向着无尽之灰
+pv_960.song_name=限りなく灰色へ
+pv_960.another_song.0.name=限りなく灰色へ
+pv_960.another_song.1.name=限りなく灰色へ
+
+pv_961.song_name.cn=真理之口
+pv_961.another_song.0.name.cn=真理之口
+pv_961.another_song.1.name.cn=真理之口
+pv_961.song_name=ボッカデラベリタ
+pv_961.another_song.0.name=ボッカデラベリタ
+pv_961.another_song.1.name=ボッカデラベリタ
+
+pv_962.song_name.cn=天使的幸运草
+pv_962.another_song.0.name.cn=天使的幸运草
+pv_962.another_song.1.name.cn=天使的幸运草
+pv_962.song_name=天使のクローバー
+pv_962.another_song.0.name=天使のクローバー
+pv_962.another_song.1.name=天使のクローバー
+
+pv_963.song_name.cn=忘却了有无才能的程度
+pv_963.song_name=才能の有無を忘れてしまう程に
+
+pv_964.song_name.cn=就算没有爱 只要有你就好
+pv_964.song_name=愛されなくても君がいる
+
+pv_965.song_name.cn=Forward
+pv_965.another_song.0.name.cn=Forward
+pv_965.another_song.1.name.cn=Forward
+pv_965.another_song.2.name.cn=Forward
+pv_965.song_name=Forward
+pv_965.another_song.0.name=Forward
+pv_965.another_song.1.name=Forward
+pv_965.another_song.2.name=Forward
+
+pv_966.song_name.cn=啾噜哩啦·啾噜哩啦·哒哒哒！
+pv_966.another_song.0.name.cn=啾噜哩啦·啾噜哩啦·哒哒哒！
+pv_966.another_song.1.name.cn=啾噜哩啦·啾噜哩啦·哒哒哒！
+pv_966.song_name=チュルリラ・チュルリラ・ダッダッダ！
+pv_966.another_song.0.name=チュルリラ・チュルリラ・ダッダッダ！
+pv_966.another_song.1.name=チュルリラ・チュルリラ・ダッダッダ！
+
+pv_967.song_name.cn=痛并渴痛
+pv_967.another_song.0.name.cn=痛并渴痛
+pv_967.another_song.1.name.cn=痛并渴痛
+pv_967.song_name=とても痛い痛がりたい
+pv_967.another_song.0.name=とても痛い痛がりたい
+pv_967.another_song.1.name=とても痛い痛がりたい
+
+pv_968.song_name.cn=Once Upon A Dream
+pv_968.another_song.0.name.cn=Once Upon A Dream
+pv_968.another_song.1.name.cn=Once Upon A Dream
+pv_968.song_name=ワンスアポンアドリーム
+pv_968.another_song.0.name=ワンスアポンアドリーム
+pv_968.another_song.1.name=ワンスアポンアドリーム
+
+pv_969.song_name.cn=等待雨晴
+pv_969.another_song.0.name.cn=等待雨晴
+pv_969.another_song.1.name.cn=等待雨晴
+pv_969.song_name=霽れを待つ
+pv_969.another_song.0.name=霽れを待つ
+pv_969.another_song.1.name=霽れを待つ
+
+pv_970.song_name.cn=Brand New Day
+pv_970.song_name=Brand New Day
+
+pv_971.song_name.cn=虹色物语
+pv_971.another_song.0.name.cn=虹色物语
+pv_971.another_song.1.name.cn=虹色物语
+pv_971.song_name=ニジイロストーリーズ
+pv_971.another_song.0.name=ニジイロストーリーズ
+pv_971.another_song.1.name=ニジイロストーリーズ
+
+pv_972.song_name.cn=Color of Drops
+pv_972.another_song.0.name.cn=Color of Drops
+pv_972.another_song.1.name.cn=Color of Drops
+pv_972.song_name=Color of Drops
+pv_972.another_song.0.name=Color of Drops
+pv_972.another_song.1.name=Color of Drops
+
+pv_973.song_name.cn=drop pop candy
+pv_973.another_song.0.name.cn=drop pop candy
+pv_973.another_song.1.name.cn=drop pop candy
+pv_973.song_name=drop pop candy
+pv_973.another_song.0.name=drop pop candy
+pv_973.another_song.1.name=drop pop candy
+
+pv_974.song_name.cn=女帝头上的牛奶花冠
+pv_974.another_song.0.name.cn=女帝头上的牛奶花冠
+pv_974.another_song.1.name.cn=女帝头上的牛奶花冠
+pv_974.song_name=ミルククラウン・オン・ソーネチカ
+pv_974.another_song.0.name=ミルククラウン・オン・ソーネチカ
+pv_974.another_song.1.name=ミルククラウン・オン・ソーネチカ
+
+pv_975.song_name.cn=RAD DOGS
+pv_975.another_song.0.name.cn=RAD DOGS
+pv_975.another_song.1.name.cn=RAD DOGS
+pv_975.song_name=RAD DOGS
+pv_975.another_song.0.name=RAD DOGS
+pv_975.another_song.1.name=RAD DOGS
+
+pv_976.song_name.cn=Positive☆Dance Time
+pv_976.another_song.0.name.cn=Positive☆Dance Time
+pv_976.another_song.1.name.cn=Positive☆Dance Time
+pv_976.song_name=ポジティブ☆ダンスタイム
+pv_976.another_song.0.name=ポジティブ☆ダンスタイム
+pv_976.another_song.1.name=ポジティブ☆ダンスタイム
+
+pv_977.song_name.cn=Unknown Mother-Goose
+pv_977.song_name=アンノウン・マザーグース
 
 
 
 #F 2nd
-pv_002.song_name=世界第一的公主殿下 -F2nd Edition-
-pv_002.song_name.jp=ワールドイズマイン -F2nd Edition-
+pv_002.song_name.cn=世界第一的公主殿下 -F2nd Edition-
+pv_002.song_name=ワールドイズマイン -F2nd Edition-
 
-pv_005.song_name=Melt -F2nd Edition-
-pv_005.song_name.jp=メルト -F2nd Edition-
+pv_005.song_name.cn=Melt -F2nd Edition-
+pv_005.song_name=メルト -F2nd Edition-
 
+pv_010.song_name.cn=Packaged -F2nd Edition-
 pv_010.song_name=Packaged -F2nd Edition-
-pv_010.song_name.jp=Packaged -F2nd Edition-
 
-pv_012.song_name=Marginal -F2nd Edition-
-pv_012.song_name.jp=マージナル -F2nd Edition-
+pv_012.song_name.cn=Marginal -F2nd Edition-
+pv_012.song_name=マージナル -F2nd Edition-
 
-pv_014.song_name=Miracle Paint -F2nd Edition-
-pv_014.song_name.jp=ミラクルペイント -F2nd Edition-
+pv_014.song_name.cn=Miracle Paint -F2nd Edition-
+pv_014.song_name=ミラクルペイント -F2nd Edition-
 
-pv_028.song_name=把你给MIKUMIKU掉♪【MIKU掉】 -F2nd Edition-
-pv_028.song_name.jp=みくみくにしてあげる♪【してやんよ】 -F2nd Edition-
+pv_028.song_name.cn=把你给MIKUMIKU掉♪【MIKU掉】 -F2nd Edition-
+pv_028.song_name=みくみくにしてあげる♪【してやんよ】 -F2nd Edition-
 
-pv_030.song_name=电子天使 -F2nd Edition-
-pv_030.song_name.jp=えれくとりっく・えんじぇぅ -F2nd Edition-
+pv_030.song_name.cn=电子天使 -F2nd Edition-
+pv_030.song_name=えれくとりっく・えんじぇぅ -F2nd Edition-
 
-pv_037.song_name=初恋终结之时 -F2nd Edition-
-pv_037.song_name.jp=初めての恋が終わる時 -F2nd Edition-
+pv_037.song_name.cn=初恋终结之时 -F2nd Edition-
+pv_037.song_name=初めての恋が終わる時 -F2nd Edition-
 
-pv_038.song_name=向我这边看 Baby -F2nd Edition-
-pv_038.song_name.jp=こっち向いて Baby -F2nd Edition-
+pv_038.song_name.cn=向我这边看 Baby -F2nd Edition-
+pv_038.song_name=こっち向いて Baby -F2nd Edition-
 
+pv_040.song_name.cn=Yellow -F2nd Edition-
 pv_040.song_name=Yellow -F2nd Edition-
-pv_040.song_name.jp=Yellow -F2nd Edition-
 
-pv_041.song_name=Colorful × Melody -F2nd Edition-
-pv_041.song_name.jp=カラフル×メロディ -F2nd Edition-
+pv_041.song_name.cn=Colorful × Melody -F2nd Edition-
+pv_041.song_name=カラフル×メロディ -F2nd Edition-
 
-pv_042.song_name=初音未来的激唱 -F2nd Edition-
-pv_042.song_name.jp=初音ミクの激唱 -F2nd Edition-
+pv_042.song_name.cn=初音未来的激唱 -F2nd Edition-
+pv_042.song_name=初音ミクの激唱 -F2nd Edition-
 
-pv_043.song_name=罗密欧与灰姑娘 -F2nd Edition-
-pv_043.song_name.jp=ロミオとシンデレラ -F2nd Edition-
+pv_043.song_name.cn=罗密欧与灰姑娘 -F2nd Edition-
+pv_043.song_name=ロミオとシンデレラ -F2nd Edition-
 
+pv_044.song_name.cn=magnet -F2nd Edition-
 pv_044.song_name=magnet -F2nd Edition-
-pv_044.song_name.jp=magnet -F2nd Edition-
 
-pv_048.song_name=爱言叶 -F2nd Edition-
-pv_048.song_name.jp=愛言葉 -F2nd Edition-
+pv_048.song_name.cn=爱言叶 -F2nd Edition-
+pv_048.song_name=愛言葉 -F2nd Edition-
 
+pv_054.song_name.cn=炉心融解 -F2nd Edition-
 pv_054.song_name=炉心融解 -F2nd Edition-
-pv_054.song_name.jp=炉心融解 -F2nd Edition-
 
-pv_055.song_name=心 -F2nd Edition-
-pv_055.song_name.jp=ココロ -F2nd Edition-
+pv_055.song_name.cn=心 -F2nd Edition-
+pv_055.song_name=ココロ -F2nd Edition-
 
-pv_057.song_name=Double Lariat -F2nd Edition-
-pv_057.song_name.jp=ダブルラリアット -F2nd Edition-
+pv_057.song_name.cn=Double Lariat -F2nd Edition-
+pv_057.song_name=ダブルラリアット -F2nd Edition-
 
+pv_059.song_name.cn=Change me -F2nd Edition-
 pv_059.song_name=Change me -F2nd Edition-
-pv_059.song_name.jp=Change me -F2nd Edition-
 
-pv_061.song_name=Clover♣Club -F2nd Edition-
-pv_061.song_name.jp=クローバー♣クラブ -F2nd Edition-
+pv_061.song_name.cn=Clover♣Club -F2nd Edition-
+pv_061.song_name=クローバー♣クラブ -F2nd Edition-
 
+pv_062.song_name.cn=Promise -F2nd Edition-
 pv_062.song_name=Promise -F2nd Edition-
-pv_062.song_name.jp=Promise -F2nd Edition-
 
+pv_066.song_name.cn=Just Be Friends -F2nd Edition-
 pv_066.song_name=Just Be Friends -F2nd Edition-
-pv_066.song_name.jp=Just Be Friends -F2nd Edition-
 
+pv_079.song_name.cn=SPiCa -F2nd's 39's Giving Day Edition-
 pv_079.song_name=SPiCa -F2nd's 39's Giving Day Edition-
-pv_079.song_name.jp=SPiCa -F2nd's 39's Giving Day Edition-
 
-pv_081.song_name=虽然歌声无形 -F2nd Edition-
-pv_081.song_name.jp=歌に形はないけれど -F2nd Edition-
+pv_081.song_name.cn=虽然歌声无形 -F2nd Edition-
+pv_081.song_name=歌に形はないけれど -F2nd Edition-
 
-pv_082.song_name=里表Lovers -F2nd Edition-
-pv_082.song_name.jp=裏表ラバーズ -F2nd Edition-
+pv_082.song_name.cn=里表Lovers -F2nd Edition-
+pv_082.song_name=裏表ラバーズ -F2nd Edition-
 
-pv_084.song_name=直至无尽的远方 -F2nd Edition-
-pv_084.song_name.jp=那由他の彼方まで -F2nd Edition-
+pv_084.song_name.cn=直至无尽的远方 -F2nd Edition-
+pv_084.song_name=那由他の彼方まで -F2nd Edition-
 
-pv_085.song_name=孤独的尽头 -F2nd Edition-
-pv_085.song_name.jp=孤独の果て -F2nd Edition-
+pv_085.song_name.cn=孤独的尽头 -F2nd Edition-
+pv_085.song_name=孤独の果て -F2nd Edition-
 
-pv_088.song_name=千年的独奏歌 (DIVA edit) -F2nd Edition-
-pv_088.song_name.jp=千年の独奏歌 (DIVA edit) -F2nd Edition-
+pv_088.song_name.cn=千年的独奏歌 (DIVA edit) -F2nd Edition-
+pv_088.song_name=千年の独奏歌 (DIVA edit) -F2nd Edition-
 
-pv_090.song_name=连起来又分开罗刹与骨骸 -F2nd Edition-
-pv_090.song_name.jp=結んで開いて羅刹と骸 -F2nd Edition-
+pv_090.song_name.cn=连起来又分开罗刹与骨骸 -F2nd Edition-
+pv_090.song_name=結んで開いて羅刹と骸 -F2nd Edition-
 
-pv_091.song_name=Rolling Girl -F2nd Edition-
-pv_091.song_name.jp=ローリンガール -F2nd Edition-
+pv_091.song_name.cn=Rolling Girl -F2nd Edition-
+pv_091.song_name=ローリンガール -F2nd Edition-
 
-pv_093.song_name=对二氯苯 -F2nd Edition-
-pv_093.song_name.jp=パラジクロロベンゼン -F2nd Edition-
+pv_093.song_name.cn=对二氯苯 -F2nd Edition-
+pv_093.song_name=パラジクロロベンゼン -F2nd Edition-
 
-pv_094.song_name=番风 -F2nd Edition-
-pv_094.song_name.jp=番凩 -F2nd Edition-
+pv_094.song_name.cn=番风 -F2nd Edition-
+pv_094.song_name=番凩 -F2nd Edition-
 
-pv_096.song_name=积雨云Graffiti -F2nd Edition-
-pv_096.song_name.jp=積乱雲グラフィティ -F2nd Edition-
+pv_096.song_name.cn=积雨云Graffiti -F2nd Edition-
+pv_096.song_name=積乱雲グラフィティ -F2nd Edition-
 
-pv_213.song_name=LUKALUKA★NIGHT FEVER -F2nd Edition-
-pv_213.song_name.jp=ルカルカ★ナイトフィーバー -F2nd Edition-
+pv_213.song_name.cn=LUKALUKA★NIGHT FEVER -F2nd Edition-
+pv_213.song_name=ルカルカ★ナイトフィーバー -F2nd Edition-
 
+pv_224.song_name.cn=Rosary Pale -F2nd Edition-
 pv_224.song_name=Rosary Pale -F2nd Edition-
-pv_224.song_name.jp=Rosary Pale -F2nd Edition-
 
-pv_606.song_name=世末舞厅 -F Edition-
-pv_606.song_name.jp=ワールズエンド・ダンスホール -F Edition-
+pv_606.song_name.cn=世末舞厅 -F Edition-
+pv_606.song_name=ワールズエンド・ダンスホール -F Edition-
 
-pv_643.song_name=Po Pi Po F's Special edition
-pv_643.song_name.jp=ぽっぴっぽー F's Special edition
+pv_643.song_name.cn=Po Pi Po F's Special edition
+pv_643.song_name=ぽっぴっぽー F's Special edition
 
-pv_721.song_name=阳炎Daze
-pv_721.song_name.jp=カゲロウデイズ
+pv_721.song_name.cn=阳炎眩乱
+pv_721.song_name=カゲロウデイズ
 
-pv_735.song_name=坎特雷拉 ～grace edition～
-pv_735.song_name.jp=カンタレラ ～grace edition～
+pv_735.song_name.cn=坎特雷拉 ～grace edition～
+pv_735.song_name=カンタレラ ～grace edition～

@@ -1,7 +1,7 @@
 enabled = true
-include = ["."]
+include = ["Font", "MEGA39", "DLC"]
 
 name = "Mega39_Chinese_Lyrics"
-version = "1.1"
-date = "2022.8.5"
+version = "1.1.1"
+date = "8.12.2022"
 author = "Jiut"

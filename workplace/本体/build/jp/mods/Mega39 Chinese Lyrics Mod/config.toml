@@ -1,7 +1,8 @@
 enabled = true
-include = ["."]
-
 name = "Mega39_Chinese_Lyrics"
 version = "1.1"
-date = "2022.8.5"
+date = "8.5.2022"
 author = "Jiut"
+
+description = "如需汉化mod，请在下方填入对应的文件夹名称。如需禁用，删除对应名称即可。"
+include = ["MEGA39", "DLC"]
