@@ -1,13 +1,5 @@
 import re
 
-# src = '[{"fullline":"date","value":"2017数据"},{"fullline":"年收入","value":"3000|{"url":"http://www.abc.com/chart/income","x":"0","y":"456.172820"}"},{"fullline":"税款","value":"-"},{"fullline":"人数","value":"3419"},{"fullline":"部门","value":"27|{"url":"http://www.abc.com/department/list","x":"0","y":"155.852820"}"},{"fullline":"部门营收","value":"-"}]'
-
-# #通过则表达式查找，如果有多个匹配，只能获取到最后一个
-# matches = re.search('\|{.*?"}', src)
-# while matches is not None:
-#     src = src.replace(matches.group(0), '')
-#     matches = re.search('\|{.*?"}', src)
-
 
 def file_content_refullline(src_txt_file, map, target_txt_file):
     newfile = open(target_txt_file, 'a', encoding='utf-8')
